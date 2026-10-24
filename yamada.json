@@ -1,15 +1,6 @@
 {
  "date": "2026-10-25",
- "updatedAt": "2026-10-25T07:40:00+09:00",
- "source": "SAMPLE",
- "items": [
-  {
-   "time": "21:00",
-   "end": "21:54",
-   "title": "【サンプル】番組名",
-   "channel": "日本テレビ",
-   "member": "山田涼介",
-   "note": "サンプルデータ"
-  }
- ]
+ "updatedAt": "2026-10-25T08:27:54+09:00",
+ "source": "yamada-bot",
+ "items": []
 }
