@@ -1,0 +1,14 @@
+name: rss
+on:
+  schedule: [{cron: "*/30 * * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  r:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/rss.py
+      - run: |
+          git config user.name rss-bot; git config user.email rss@users.noreply.github.com
+          git pull --rebase; git add rss.json; git commit -m "rss" || exit 0; git push

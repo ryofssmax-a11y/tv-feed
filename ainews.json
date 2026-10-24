@@ -1,0 +1,13 @@
+{
+ "date": "2026-10-25",
+ "updatedAt": "2026-10-25T07:40:00+09:00",
+ "source": "SAMPLE",
+ "items": [
+  {
+   "title": "【サンプル】AIニュースボットが更新するとここに見出しが出ます",
+   "summary": "サンプルデータです",
+   "url": "https://example.com",
+   "publisher": "sample"
+  }
+ ]
+}
