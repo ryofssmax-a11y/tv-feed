@@ -15,6 +15,6 @@ Files with `"source":"SAMPLE"` are seed data.
 ## Update recipe for bots (box, GITHUB_TOKEN env)
 1. Write today's items as a JSON array to /tmp/items.json (schema above).
 2. `python3 /workspace/update_tv_feed.py <ainews|yamada|sakamichi> /tmp/items.json`
-3. Expect `updated <name> N items`; TV picks it up within 30 min.
+3. Expect `updated <name> N items commit=<sha>`; Pages (Actions deploy) is live in ~1-2 min.
 
 rss.json is refreshed every 30 min by GitHub Actions (rss.yml).
