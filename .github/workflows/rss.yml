@@ -11,4 +11,4 @@ jobs:
       - run: python3 scripts/rss.py
       - run: |
           git config user.name rss-bot; git config user.email rss@users.noreply.github.com
-          git pull --rebase; git add rss.json; git commit -m "rss" || exit 0; git push
+          git add rss.json; git commit -m "rss" || exit 0; git pull --rebase; git push
