@@ -1,35 +1,42 @@
 {
- "date": "2026-10-25",
- "updatedAt": "2026-10-25T20:14:44+09:00",
+ "date": "2026-10-26",
+ "updatedAt": "2026-10-26T07:10:23+09:00",
  "source": "sakamichi-bot",
  "items": [
   {
+   "time": "16:00",
+   "title": "週刊乃木坂ニュース特別編（YouTube）",
+   "channel": "YouTube",
+   "member": "菅原咲月（乃木坂46）",
+   "note": "YouTube Japan同時ライブ配信"
+  },
+  {
+   "time": "18:15",
+   "title": "のぎおび",
+   "channel": "SHOWROOM",
+   "member": "伊藤理々杏（乃木坂46）",
+   "note": ""
+  },
+  {
    "time": "22:00",
-   "title": "有吉ぃぃeeeee!",
-   "channel": "テレビ東京",
-   "member": "正源司陽子（日向坂46）",
+   "title": "レコメン！",
+   "channel": "文化放送",
+   "member": "長嶋凛桜・田村真佑（乃木坂46）",
    "note": ""
   },
   {
-   "time": "23:00",
-   "title": "櫻坂46こちら有楽町星空放送局",
-   "channel": "ニッポン放送",
-   "member": "守屋麗奈・小島凪紗（櫻坂46）",
+   "time": "24:00",
+   "title": "清水理央のCheer up！",
+   "channel": "bayfm",
+   "member": "清水理央（日向坂46）",
    "note": ""
   },
   {
-   "time": "24:50",
-   "title": "そこ曲がったら、櫻坂？",
-   "channel": "テレビ東京",
-   "member": "櫻坂46",
-   "note": "ミラクルガール発表会 前半／25:20からLeminoで見逃し配信"
-  },
-  {
-   "time": "25:20",
-   "title": "日向坂で会いましょう",
-   "channel": "テレビ東京",
-   "member": "日向坂46",
-   "note": "25:50からLeminoで見逃し配信"
+   "time": "25:29",
+   "title": "乃木坂スター誕生！SIX",
+   "channel": "日本テレビ",
+   "member": "6期生（乃木坂46）",
+   "note": ""
   }
  ]
 }
