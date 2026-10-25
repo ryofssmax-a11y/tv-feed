@@ -1,41 +1,20 @@
 {
  "date": "2026-10-25",
- "updatedAt": "2026-10-25T08:27:43+09:00",
+ "updatedAt": "2026-10-25T20:14:44+09:00",
  "source": "sakamichi-bot",
  "items": [
-  {
-   "time": "",
-   "title": "MUSIC EXPO LIVE 2026 in TAIPEI DAY2",
-   "channel": "TAIPEI ARENA",
-   "member": "櫻坂46",
-   "note": "台北公演"
-  },
-  {
-   "time": "18:30",
-   "title": "日向坂46の『ひ』",
-   "channel": "文化放送",
-   "member": "日向坂46",
-   "note": ""
-  },
-  {
-   "time": "19:00",
-   "title": "櫻坂46の『さ』",
-   "channel": "文化放送",
-   "member": "櫻坂46",
-   "note": ""
-  },
   {
    "time": "22:00",
    "title": "有吉ぃぃeeeee!",
    "channel": "テレビ東京",
-   "member": "日向坂46",
+   "member": "正源司陽子（日向坂46）",
    "note": ""
   },
   {
    "time": "23:00",
-   "title": "こちら有楽町星空放送局",
+   "title": "櫻坂46こちら有楽町星空放送局",
    "channel": "ニッポン放送",
-   "member": "櫻坂46",
+   "member": "守屋麗奈・小島凪紗（櫻坂46）",
    "note": ""
   },
   {
@@ -43,7 +22,7 @@
    "title": "そこ曲がったら、櫻坂？",
    "channel": "テレビ東京",
    "member": "櫻坂46",
-   "note": "25:20からLeminoで見逃し配信"
+   "note": "ミラクルガール発表会 前半／25:20からLeminoで見逃し配信"
   },
   {
    "time": "25:20",
