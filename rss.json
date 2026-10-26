@@ -1,8 +1,18 @@
 {
  "date": "2026-10-26",
- "updatedAt": "2026-10-26T08:25:51+09:00",
+ "updatedAt": "2026-10-26T10:29:12+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加　回避方法は",
+   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
@@ -44,33 +54,43 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIでコンテンツを作るのはやめるべき？ 答えは「ノー」だが必ず含めるべき“視点”がある（前編）（Web担当者Forum） - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzVSS1lvcW5EWGVHdUQzOUhHVzBRM0lkckdiRjhGLVBBUXlaVEpnOW5CY212VVU4N25uRG13MDVaX1JzckdDbGVDeWhyUTBTQXlOdkltelE1X09aVC1naFNDTGdWX1ZtdHFVOGN5dy1iUUlBOEplMEEyTUtLSHprSUYwdmtMTDNPMzRYQWU5T3pYNThBTFlNYV9wTk9zNWhZc05SRl9UUkNqb00?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "建設現場の生成AI導入、中核業務で道半ば 国土交通省は活用に本腰 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaGpEYjdMTE1DWUFhbmtidnN2cHZRQTZRMzduNklyaXE2SV83aWVZQldvWXA4Y2dqM0dqZ21jZ3djdDhYN2I1U21ndi1sVktPejdmQUJXZURYckFqclJqajNFbFBCcE9BYnZRaw?oc=5",
+   "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JR0xRMms3cUlIbHJTVkFSckliejBwUGJMaTR1LWJZQTdoaVRpQXliblctRlROelZnY0tVNGZUS3pka2psZVFvM2kySXFXdFFwV1VEWjV4YU1EdnFyZy1NNExUbUlTcTR3UFJ3VA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVnN6NTV3aDhJRm5WeEdfZ0MwdGNXNEhnRmdGdjlnWlJiNDRiSmNyc29GaFlRN1RwaC1tdnRNRmpmUHZjWkFJNVBFTXQyRDdFRGx4QnpweWlTdVFUWHA3NHVzQmJxNFhyWHc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "パナソニック、従業員が利用禁止の生成AIに個人情報をアップロードと発表 従業員ら約33万人分 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rMktvdWZmRlFHUTNZcEloTzJNSGxvTFB4VEo1OUl3V00wZ09aYjZiVTEzdWxUTDBPOGlpRWU1TlJLX0VVYnJLVkNiYXllVm1XalE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プレスリリース：協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wam9WUnEwZnA4d21JU0xuMGN5TFhkeTZ0bWN2bEF0MXlsaEJoZ0I0TTA3akZ6b0JCMWQ0TDVuajVaeHhBNVVsY3ZRNTJUWUF2cFBwU01mbV9nRHpVZWI3cUpscG9OTG0w?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIに社内データを正しく分析させるには 15分で分かる解決策 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QVpCaG9UbVZibktDUjJhQVVEVjBJa01BdGxqSHdJNGY2TkNKRjVscHpCc2kzYVlnV19hUWlRa0k1Q0NyWFNwWHdlaTJBOEdDUWk4WGlpaE9ieUdGTUhJbXF3UkpYS0Fla0E?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "コミクス、製造現場の情報を経営判断につなぐ「生成AI 10の実践法」を制作 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0XzBncE5FYmVZT2M5SzVGallNQ0dKN3ZydnNFUzFTV1ZlZXlDdmREV19LMUtCLVFLdjhIM2lBenpldFVJdHFmcTA1MEROcFFFazRIYUtDNHRKQUFTejlJcnRFRHZaeDBRb0E?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,28 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "子の認知求め 弁護士付けず裁判 生成AIに相談、勝訴 協働「知識格差埋めた」 - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kQXJ4TlplT243dml6Vnc4am0xUGVlMlM3LVlWbDViRXRVVnlWNVhwd29hT3JLTm9PdVhMblFiTlpDTXVIcVhNd3ZzekFzZ1cxMTgwbW03SG8yZ25fTi15TFdNam01TmRu?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "しまむら系「バースデイ」に批判が相次ぐ。奇妙な子どもの生成AI広告、子どもの写真募集に、親たちが怒ったワケ - 女子SPA!",
    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMVBUSXRiX2xPRW9qYVdoajl4c01MUkx4a1hGeWVPZGhnM0dlYzl1RFRHX0JKN2tHRmhSUk9oaFcyUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "算数授業に生成AI 嘉手納小で公開授業 挙手が苦手な子にもアドバイス 沖縄 - 琉球新報デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xMDlwd3NaYWtSR2c4YjlrWGdweTNKQmg1cGVUMnZyenFUemZfTUtWVWJmNTd4MnR6MW1rNWVLZ3RPaDJLLTV5Z196dl9yUHhmSnVibWQwenpTa3ItYTZBMnJn?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「無理。人手が足りない」 生成AIの進化でサイバー攻撃が激化 企業が直面する「ゼロデイ」の恐怖 - 東京新聞",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OVmU2Qm9PUmptcFpjbVMxNG9BNjNWRUd3UDI5SXZJaW1QTzVycFFJUjl5OVNnWkgzTFRnME84T3pJR0tSMHZ6amFaRVJWYWdQbXY0?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "信越化学、富士フイルムも…生成AIを支える半導体素材に「日本の勝機」がある企業の実名 - 現代ビジネス",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNjFsVE5VSXkzX2djZFdfRHJId1FmcXZ1emJBNm5UdVdtdXV5RGRlbG5yMzM4X3JvSUFJVDZpcGxtUVg0XzR2aU1zUlJXTnM?oc=5",
    "publisher": "news.google.com"
   }
  ]
