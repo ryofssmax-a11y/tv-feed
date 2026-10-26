@@ -1,8 +1,43 @@
 {
  "date": "2026-10-26",
- "updatedAt": "2026-10-26T10:29:12+09:00",
+ "updatedAt": "2026-10-26T15:51:52+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「AI失業」対策を　チームみらい安野氏、官房長官に提言　詳細も公開",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表　「人と話しているよう」",
+   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表",
+   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
@@ -19,73 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-   "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「エージェント向け1Password」発表　AIにパスワード渡さずアクセス権限付与可能に",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
-   "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JR0xRMms3cUlIbHJTVkFSckliejBwUGJMaTR1LWJZQTdoaVRpQXliblctRlROelZnY0tVNGZUS3pka2psZVFvM2kySXFXdFFwV1VEWjV4YU1EdnFyZy1NNExUbUlTcTR3UFJ3VA?oc=5",
+   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (アスキー) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1hkZjI4bk9panlLR3ZFazF5SEt1X0hqT1cweFU5ZVF4TDByLUNnNHJYblY3VEI5YnJLYlRCQVh0OGEwY3Y5YXVOcE9ZQ3lTcC05UURJQzZHZFFBaTFJcHJKaHZ4QXdDX0IxTHJ5djQ2ZHp3aG1YMERFZHFQRzQ1NnNObTVZOEFPSG1KYWd3?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVnN6NTV3aDhJRm5WeEdfZ0MwdGNXNEhnRmdGdjlnWlJiNDRiSmNyc29GaFlRN1RwaC1tdnRNRmpmUHZjWkFJNVBFTXQyRDdFRGx4QnpweWlTdVFUWHA3NHVzQmJxNFhyWHc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "パナソニック、従業員が利用禁止の生成AIに個人情報をアップロードと発表 従業員ら約33万人分 - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rMktvdWZmRlFHUTNZcEloTzJNSGxvTFB4VEo1OUl3V00wZ09aYjZiVTEzdWxUTDBPOGlpRWU1TlJLX0VVYnJLVkNiYXllVm1XalE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プレスリリース：協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wam9WUnEwZnA4d21JU0xuMGN5TFhkeTZ0bWN2bEF0MXlsaEJoZ0I0TTA3akZ6b0JCMWQ0TDVuajVaeHhBNVVsY3ZRNTJUWUF2cFBwU01mbV9nRHpVZWI3cUpscG9OTG0w?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIに社内データを正しく分析させるには 15分で分かる解決策 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QVpCaG9UbVZibktDUjJhQVVEVjBJa01BdGxqSHdJNGY2TkNKRjVscHpCc2kzYVlnV19hUWlRa0k1Q0NyWFNwWHdlaTJBOEdDUWk4WGlpaE9ieUdGTUhJbXF3UkpYS0Fla0E?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "コミクス、製造現場の情報を経営判断につなぐ「生成AI 10の実践法」を制作 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0XzBncE5FYmVZT2M5SzVGallNQ0dKN3ZydnNFUzFTV1ZlZXlDdmREV19LMUtCLVFLdjhIM2lBenpldFVJdHFmcTA1MEROcFFFazRIYUtDNHRKQUFTejlJcnRFRHZaeDBRb0E?oc=5",
+   "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第77回：Apache 2.0で何にでも使えて高性能なMOSS-Image登場！（西川和久） - テクノエッジ TechnoEdge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwaW9lTmJVU1NBWDZERkluNVo5SDJxOTUxQ000SDRKUFU4eTBPYTBrQVhSMGNaZVBWR2c0Rm1QQWduakVLZnhqV0t3MkUzRHZwbU9TdVM3ZS03X3VJZzZfSzJfWG42dEU?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +74,33 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "子の認知求め、弁護士付けず裁判 生成AIに相談、勝訴 協働「知識格差埋めた」 - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kQXJ4TlplT243dml6Vnc4am0xUGVlMlM3LVlWbDViRXRVVnlWNVhwd29hT3JLTm9PdVhMblFiTlpDTXVIcVhNd3ZzekFzZ1cxMTgwbW03SG8yZ25fTi15TFdNam01TmRu?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "【西川和久の不定期コラム】撮影なし・生成AI動画なしでミュージックビデオ作成！AIにコードで動画を作らせる - PC Watch",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6ajRfWkk2TlE1aVhFMVJ1YjZRLUVXNWtQWGdJdUc3Mm1UTWpPSk1aLTRGNnJWQVVuNnFvZS1JWmhFQTZqQ0pFQWt4UFdiY1g4Uk9YX2FZdC1IYy1DdVRhakhpc2NtY3BPNzlYbXJqT3AtUmc?oc=5",
    "publisher": "news.google.com"
   },
   {
+   "title": "建設現場の生成AI導入、中核業務で道半ば 国土交通省は活用に本腰 - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaGpEYjdMTE1DWUFhbmtidnN2cHZRQTZRMzduNklyaXE2SV83aWVZQldvWXA4Y2dqM0dqZ21jZ3djdDhYN2I1U21ndi1sVktPejdmQUJXZURYckFqclJqajNFbFBCcE9BYnZRaw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "安田倉庫の生成AI利用者率が34.6%に達する。AIエージェントの試験活用も開始 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xWENWZDlEaDhRLU1DUzBNR3FWQTZORjFWTW9ZTkM2LVFWOHVrQVRQRENHaGJKRHo4Nnc5b2x0SjYzTVZidk5LV2ZiT09MenI0YlhDVVdIbDF4bHJDcGx3OHlSZVlKX3hxVkpIcTRmaEI4S29NQzJB0gF8QVVfeXFMUEhNTWJfOEtmMS1wRlU4SUtDUndLam1zbzVGSGEzZlB6Y0pyUm1OX2RhVDJSZlk4NThTZ2tPNnFlQnlxSGRkWjlLaThSSUZLcE8wMWJnbUNodGZ4S1EtQkFYb2FMbUEyNmEyQndiRzhVSENpd3ZyZDY5MnM0Ug?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "しまむら系「バースデイ」に批判が相次ぐ。奇妙な子どもの生成AI広告、子どもの写真募集に、親たちが怒ったワケ - 女子SPA!",
    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMVBUSXRiX2xPRW9qYVdoajl4c01MUkx4a1hGeWVPZGhnM0dlYzl1RFRHX0JKN2tHRmhSUk9oaFcyUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIに社内データを正しく分析させるには 15分で分かる解決策 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QVpCaG9UbVZibktDUjJhQVVEVjBJa01BdGxqSHdJNGY2TkNKRjVscHpCc2kzYVlnV19hUWlRa0k1Q0NyWFNwWHdlaTJBOEdDUWk4WGlpaE9ieUdGTUhJbXF3UkpYS0Fla0E?oc=5",
    "publisher": "news.google.com"
   }
  ]
