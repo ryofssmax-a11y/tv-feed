@@ -1,27 +1,27 @@
 {
- "date": "2026-10-26",
- "updatedAt": "2026-10-26T20:05:24+09:00",
+ "date": "2026-10-27",
+ "updatedAt": "2026-10-27T07:03:48+09:00",
  "source": "sakamichi-bot",
  "items": [
   {
-   "time": "22:00",
-   "title": "レコメン！",
-   "channel": "文化放送",
-   "member": "長嶋凛桜・田村真佑（乃木坂46）",
+   "time": "21:00",
+   "title": "フニャフニャ伝説",
+   "channel": "FM FUJI",
+   "member": "愛宕心響（乃木坂46）",
+   "note": ""
+  },
+  {
+   "time": "23:00",
+   "title": "乃木坂46 柴田柚菜のDreaming time",
+   "channel": "BAYFM",
+   "member": "柴田柚菜（乃木坂46）",
    "note": ""
   },
   {
    "time": "24:00",
-   "title": "清水理央のCheer up！",
-   "channel": "bayfm",
-   "member": "清水理央（日向坂46）",
-   "note": ""
-  },
-  {
-   "time": "25:29",
-   "title": "乃木坂スター誕生！SIX",
-   "channel": "日本テレビ",
-   "member": "6期生（乃木坂46）",
+   "title": "小峠英二のなんて美だ！",
+   "channel": "TOKYO MX",
+   "member": "池田瑛紗（乃木坂46）",
    "note": ""
   }
  ]
