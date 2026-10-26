@@ -1,8 +1,48 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T04:43:41+09:00",
+ "updatedAt": "2026-10-27T08:33:32+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news014.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIで「月○○時間削減」それ本当？　浮いた時間はどこに消えたのか",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "中小企業、Windows更新「利用者任せ」が4割超　SCS評価制度で問われる管理体制",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002584/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "FDEは「スーパーマンと思われがちだが……」　脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news013.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news041.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "伊藤忠インタラクティブが「Claude」活用研修　「AIを使う」から「業務を任せる」へ",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002583/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
@@ -14,58 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「AI失業」対策を　チームみらい安野氏、官房長官に提言　詳細も公開",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表　「人と話しているよう」",
-   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表",
-   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加　回避方法は",
-   "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "AI時代のWindows業務開発の過去未来（1） 『ニンゲツを終わらせろ！』【生成AIストリーム】 - 窓の杜",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85XzlhU3l3UUVQTXU1Q2c3Q0k5T2xDa2hZTlNneV8tNEdyMmpieHA0aG1qWl9fWTQtQWtkVGlJQXgwNnBsVXVmX1pfbFcydUhibnV3ajFnaDlMX2NFb3laSy1vUk10a3NnQjFmT0Z0dm5jdmdkYlNz?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成ＡＩ 活用法学ぶ 新十津川 手書きの絵、動画に - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40VEZlRkRPR1dBS2ROSjBUY3hfQV9obEVNcVB4dFFrYngwZzBOZVRtV2h1M0ctcmJJeTBObnVjUVJtQ2JDUk9hWk1WclB5bVM2THk0OUdBZ1FPQQ?oc=5",
+   "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第77回：Apache 2.0で何にでも使えて高性能なMOSS-Image登場！（西川和久） - テクノエッジ TechnoEdge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwaW9lTmJVU1NBWDZERkluNVo5SDJxOTUxQ000SDRKUFU4eTBPYTBrQVhSMGNaZVBWR2c0Rm1QQWduakVLZnhqV0t3MkUzRHZwbU9TdVM3ZS03X3VJZzZfSzJfWG42dEU?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "Canvaの新画像生成AI「Canva Craft」をChatGPT、Gemini、Museと比べてみた。意外にも苦戦したのはデザインだった - Business Insider Japan",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTA5bnRsYjl2bmtJUnhOVElVYVNUSW9Zb2I3YjFfZ3djTFIxZkdZZzFMZm9IdTJWUk5aX2ItMnJLbGE0bHZxX21vRDdGMXd0cFNXMHNGTVRWSVY1NEdzZDVvLVlXa2VzQi0wNkpkMXZQczZKNkNrZlk4T3BITzZZcFl4TnBZUUlLMmtCUVN3?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,8 +74,18 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "結局、今は生成AIで医学論文を書いていいの？ - 日経メディカル",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3JIclJwbkh1b2t0Qk9uRUpGSHE0SzJuOGRuMVFGekRzZG5uLThLTmJoQ3JfRFYzU3NHRU80dXZiZWJZYkxCU0RQVlh1Ylh6TzNyRUluZ25sQzlIMEJ1NmFEMkF2WXBHZ0VhTndILS1DSTQ5VFhLV1lKc1lUQk1QN1BR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "建設現場の生成AI導入、中核業務で道半ば 国土交通省は活用に本腰 - 日経クロステック",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaGpEYjdMTE1DWUFhbmtidnN2cHZRQTZRMzduNklyaXE2SV83aWVZQldvWXA4Y2dqM0dqZ21jZ3djdDhYN2I1U21ndi1sVktPejdmQUJXZURYckFqclJqajNFbFBCcE9BYnZRaw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIに社内データを正しく分析させるには 15分で分かる解決策 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94QVpCaG9UbVZibktDUjJhQVVEVjBJa01BdGxqSHdJNGY2TkNKRjVscHpCc2kzYVlnV19hUWlRa0k1Q0NyWFNwWHdlaTJBOEdDUWk4WGlpaE9ieUdGTUhJbXF3UkpYS0Fla0E?oc=5",
    "publisher": "news.google.com"
   }
  ]
