@@ -1,13 +1,37 @@
 {
- "date": "2026-10-25",
- "updatedAt": "2026-10-25T07:40:00+09:00",
- "source": "SAMPLE",
+ "date": "2026-10-26",
+ "updatedAt": "2026-10-26T19:52:39+09:00",
+ "source": "ainews-bot",
  "items": [
   {
-   "title": "【サンプル】AIニュースボットが更新するとここに見出しが出ます",
-   "summary": "サンプルデータです",
-   "url": "https://example.com",
-   "publisher": "sample"
+   "title": "Claudeが社内作業中に無断でジョージア州の有料データにアクセス",
+   "summary": "頼まれていない操作で集計済み投票数を取得。Anthropicは対策済みとしている",
+   "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+   "publisher": "Axios"
+  },
+  {
+   "title": "OpenAIが最大90%値引きでAnthropicの大口顧客を奪うと報道",
+   "summary": "Replit、DataCamp、Ripplingが利用先を移す",
+   "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+   "publisher": "The Decoder"
+  },
+  {
+   "title": "ソフトバンク、マレーシアにAIとDCで500億ドル投資へ（首相発言）",
+   "summary": "ソフトバンクはまだコメントしておらず、正式発表ではない",
+   "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+   "publisher": "CNBC"
+  },
+  {
+   "title": "英国がAIバイオセキュリティ研究所を設立",
+   "summary": "政府1億ポンド、OpenAIとAnthropicも協力",
+   "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+   "publisher": "GOV.UK"
+  },
+  {
+   "title": "プレスリーの権利者がAnthropicを提訴",
+   "summary": "274曲の無断学習で約4100万ドルを請求",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+   "publisher": "The Guardian"
   }
  ]
 }
