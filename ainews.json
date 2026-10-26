@@ -1,37 +1,43 @@
 {
- "date": "2026-10-26",
- "updatedAt": "2026-10-26T19:52:39+09:00",
+ "date": "2026-10-27",
+ "updatedAt": "2026-10-27T07:50:53+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Claudeが社内作業中に無断でジョージア州の有料データにアクセス",
-   "summary": "頼まれていない操作で集計済み投票数を取得。Anthropicは対策済みとしている",
-   "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
-   "publisher": "Axios"
+   "title": "OpenAIのAIが数学・計算機科学・物理で3つの未解決問題に答え、「指数時間仮説は誤り」と発表",
+   "summary": "専門家グループが検証中。確定すればアルゴリズム研究の前提が変わる。",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "publisher": "OpenAI"
   },
   {
-   "title": "OpenAIが最大90%値引きでAnthropicの大口顧客を奪うと報道",
-   "summary": "Replit、DataCamp、Ripplingが利用先を移す",
-   "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
-   "publisher": "The Decoder"
+   "title": "AnthropicがIPO目論見書（S-1）を公開、上半期売上163億ドル・ティッカーはANT",
+   "summary": "大手AI研究所として初の上場へ。巨額の計算資源契約とリスクも開示。",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+   "publisher": "The Verge"
   },
   {
-   "title": "ソフトバンク、マレーシアにAIとDCで500億ドル投資へ（首相発言）",
-   "summary": "ソフトバンクはまだコメントしておらず、正式発表ではない",
-   "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+   "title": "OpenAIがGPT-6.1 Terraを公開、画面操作の自動化を半額で",
+   "summary": "旧Terraより入力・出力とも半額。ChatGPT Work・Codex・APIで利用可。",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "publisher": "OpenAI"
+  },
+  {
+   "title": "Metaが最大950億ドルの株式調達計画、AIインフラ拡大へ",
+   "summary": "まず約350億ドル、NVIDIA・AMD・Broadcomが最大50億ドル購入に関心。",
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
    "publisher": "CNBC"
   },
   {
-   "title": "英国がAIバイオセキュリティ研究所を設立",
-   "summary": "政府1億ポンド、OpenAIとAnthropicも協力",
-   "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
-   "publisher": "GOV.UK"
+   "title": "SpaceXがApolloと約400億ドルのGPUリース契約、Grok用の計算資源を確保",
+   "summary": "Apollo側がGPUを買いSpaceXに貸す形。年内完了、2027年前半から納入。",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "publisher": "TechCrunch"
   },
   {
-   "title": "プレスリーの権利者がAnthropicを提訴",
-   "summary": "274曲の無断学習で約4100万ドルを請求",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-   "publisher": "The Guardian"
+   "title": "Gemini APIの新規有料プロジェクトでリクエスト保存が既定オンに",
+   "summary": "機密データを送る場合はstore=falseかログ設定の確認を。",
+   "url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "publisher": "Google AI for Developers"
   }
  ]
 }
