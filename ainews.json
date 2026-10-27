@@ -1,37 +1,49 @@
 {
- "date": "2026-10-27",
- "updatedAt": "2026-10-27T18:21:39+09:00",
+ "date": "2026-10-28",
+ "updatedAt": "2026-10-28T07:47:17+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "AnthropicもClaudeが「指数時間仮説は誤り」と証明したと論文公開",
-   "summary": "OpenAIと同じ10/16に独立して発見と主張。Lean 4で形式検証済みだが専門家の検証待ち",
-   "url": "https://hexagonmath.org/2610.00577v1",
-   "publisher": "Hexagon（Anthropic論文）"
+   "title": "Google DeepMindが「Genie 4」を発表、音声や会話もリアルタイム生成",
+   "summary": "音声や会話まで同時に作る仮想世界AI。限定テスターから順次提供。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+   "publisher": "ITmedia"
   },
   {
-   "title": "米大手銀とBlackstoneが630億ドル融資、Anthropic向けにBroadcom製AIチップを調達",
-   "summary": "AIインフラ向けで過去最大級の借入。2027年から納入、Broadcomが残存価値を保証",
-   "url": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
-   "publisher": "Broadcom"
+   "title": "Anthropic実験：専門家はAIエージェントの「好み」に86%従った",
+   "summary": "Claude Codeの隠れた偏りに分析の専門家の判断の86%が沿った。",
+   "url": "https://www.anthropic.com/research/agents-judgment-calls",
+   "publisher": "Anthropic"
   },
   {
-   "title": "Microsoftが約6万人を対象に希望退職制度を発表",
-   "summary": "米加印英のレベル70以下が対象。AI投資拡大の中での人員見直し",
-   "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
-   "publisher": "Microsoft"
+   "title": "Anthropic、製薬など6社との創薬協業の成果を公開",
+   "summary": "抗体の結合力10倍超、書類チェック時間89%減などを報告。",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "publisher": "Anthropic"
   },
   {
-   "title": "新しい「Siri AI」が日本語に対応、OS 27.2で提供開始",
-   "summary": "メッセージやメールを踏まえて答え、アプリ操作も代行。GoogleのGeminiと連携した新モデル",
-   "url": "https://www.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/",
+   "title": "OpenAIとOracleが提携拡大、Oracleの業務アプリをChatGPTの中で使えるように",
+   "summary": "会計・調達データに権限を守ったままChatGPTからアクセス。",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "publisher": "OpenAI"
+  },
+  {
+   "title": "AppleがKeynote・Pages・NumbersにAIアシスタント、MCPにも対応",
+   "summary": "外部AIエージェントからも文書を編集可能に。11月配信予定。",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
    "publisher": "Apple"
   },
   {
-   "title": "LINEヤフーが法人向けAIエージェント「Agent i Biz」を提供開始",
-   "summary": "チャットで市場分析や広告・LINE公式アカウント運用を支援。今後MCP連携も予定",
-   "url": "https://prtimes.jp/main/html/rd/p/000001832.000129774.html",
-   "publisher": "LINEヤフー（PR TIMES）"
+   "title": "内閣府、生成AIの学習データ透明性への各社回答を公表、Googleは個別照会に確実に答える仕組みはないと回答",
+   "summary": "Googleなど5社が届け出。権利者が学習有無を確かめる手段は弱いまま。",
+   "url": "https://www.asahi.com/articles/ASVBW4PTPVBWUCVL04JM.html",
+   "publisher": "朝日新聞"
+  },
+  {
+   "title": "Anthropic、米政府向けにClaudeを40%引き、州・地方自治体にも拡大",
+   "summary": "GSAとの新契約で約10億ドルの節約と試算。",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "publisher": "Anthropic"
   }
  ]
 }
