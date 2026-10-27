@@ -1,43 +1,37 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T07:50:53+09:00",
+ "updatedAt": "2026-10-27T18:21:39+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAIのAIが数学・計算機科学・物理で3つの未解決問題に答え、「指数時間仮説は誤り」と発表",
-   "summary": "専門家グループが検証中。確定すればアルゴリズム研究の前提が変わる。",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-   "publisher": "OpenAI"
+   "title": "AnthropicもClaudeが「指数時間仮説は誤り」と証明したと論文公開",
+   "summary": "OpenAIと同じ10/16に独立して発見と主張。Lean 4で形式検証済みだが専門家の検証待ち",
+   "url": "https://hexagonmath.org/2610.00577v1",
+   "publisher": "Hexagon（Anthropic論文）"
   },
   {
-   "title": "AnthropicがIPO目論見書（S-1）を公開、上半期売上163億ドル・ティッカーはANT",
-   "summary": "大手AI研究所として初の上場へ。巨額の計算資源契約とリスクも開示。",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-   "publisher": "The Verge"
+   "title": "米大手銀とBlackstoneが630億ドル融資、Anthropic向けにBroadcom製AIチップを調達",
+   "summary": "AIインフラ向けで過去最大級の借入。2027年から納入、Broadcomが残存価値を保証",
+   "url": "https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
+   "publisher": "Broadcom"
   },
   {
-   "title": "OpenAIがGPT-6.1 Terraを公開、画面操作の自動化を半額で",
-   "summary": "旧Terraより入力・出力とも半額。ChatGPT Work・Codex・APIで利用可。",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "publisher": "OpenAI"
+   "title": "Microsoftが約6万人を対象に希望退職制度を発表",
+   "summary": "米加印英のレベル70以下が対象。AI投資拡大の中での人員見直し",
+   "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+   "publisher": "Microsoft"
   },
   {
-   "title": "Metaが最大950億ドルの株式調達計画、AIインフラ拡大へ",
-   "summary": "まず約350億ドル、NVIDIA・AMD・Broadcomが最大50億ドル購入に関心。",
-   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-   "publisher": "CNBC"
+   "title": "新しい「Siri AI」が日本語に対応、OS 27.2で提供開始",
+   "summary": "メッセージやメールを踏まえて答え、アプリ操作も代行。GoogleのGeminiと連携した新モデル",
+   "url": "https://www.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/",
+   "publisher": "Apple"
   },
   {
-   "title": "SpaceXがApolloと約400億ドルのGPUリース契約、Grok用の計算資源を確保",
-   "summary": "Apollo側がGPUを買いSpaceXに貸す形。年内完了、2027年前半から納入。",
-   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "publisher": "TechCrunch"
-  },
-  {
-   "title": "Gemini APIの新規有料プロジェクトでリクエスト保存が既定オンに",
-   "summary": "機密データを送る場合はstore=falseかログ設定の確認を。",
-   "url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "publisher": "Google AI for Developers"
+   "title": "LINEヤフーが法人向けAIエージェント「Agent i Biz」を提供開始",
+   "summary": "チャットで市場分析や広告・LINE公式アカウント運用を支援。今後MCP連携も予定",
+   "url": "https://prtimes.jp/main/html/rd/p/000001832.000129774.html",
+   "publisher": "LINEヤフー（PR TIMES）"
   }
  ]
 }
