@@ -1,8 +1,33 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T05:24:49+09:00",
+ "updatedAt": "2026-10-28T08:54:45+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも　絶対に「手放してはいけないもの」とは",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/28/news011.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "日本取引所、金融市場の取引システム運用監視にAIを導入　精度97％を実現した方法",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "【Pythonで学ぶデータ分析】ベイズ統計で重回帰分析 ～ 株価のファンダメンタルズ分析を行う",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/28/news006.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
@@ -29,31 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AI活用が進むほど、物理シミュレーションの重要性は高まる",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news017.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news014.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIで「月○○時間削減」それ本当？　浮いた時間はどこに消えたのか",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 - 株式会社Preferred Networks",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwN1RXMEF1WV95WDQ0b2pwdUtiV2d0RFhfT3gzSHZBZ1hfZC0xbEx0dTF6SGE2dTkxRnR3eEw1SkFUSkFmVEF6WmJXR0hLT0t4WDltTHhB?oc=5",
    "publisher": "news.google.com"
@@ -64,23 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "すごいベンチャー【70】Cloverse／生成AIで衣服の着用画像を作成 - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IaXYzTWRrS205empJZzB1RU9QV0FPYThTdWQtemlXMktNLXNLdUxHWXFhZHZhZC15UnkyOUcwNlRIMllnbm0wTUZiX0Q3RFlBRnNRZUNHdkNPRTV4Vkpj?oc=5",
+   "title": "生成AI利用時のセキュリティー意識 約3割が「意識していない」 - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13QTJ3d2EyLWNiYWhrQVpBUUJSdVNfa0lfal9IQjlBaWh6ZVE0a2dwbWxIY0JVeDRXeFRvSHdGY1VmdnRiaUgyVHVGSDJlZzg4eENSUWttSE4yazZKdlVCZnI1VmxSZzJBZXV0VU9CY0JLQQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "自治体業務に生成AI活用 東神楽 職員ら対象に研修会 - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qRzA5TmtRbXVuS1N4R1hnZnVabEZ2ay04VjJjM3ozYVQ2aHh6TXpkMlZxcmdKLTF6cGxFaGMtbEVkOHZrdmlMSzhHbW9URzg3XzdzelNQSXo?oc=5",
+   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応（窓の杜） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZmdXNk1kTV90Q1VnOHJ6U0hZUUl4M0pfVzNDSzFNWXBidHZQeTRGX0VRN0lwT0ROUHhBNTU3QzRzT1h1cWRfWFBfdHF3V2VKWWdRUlJlVUtKQmEwMl90QjRIVjhWVzhDT004V1ZRRHJ4by1ZckdxSXNWdkh2a2s?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「人間5人＋AI社員62体」が働く衝撃の組織…その全貌と“構築の裏側”を大公開 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOQ3czLS1HSUhJQTFCSEJSa2pZRzJibW93eGlaZEEyRUVOODlQMnFtX3RCY3B4U2J5THdZZHZXQzRBSTNjS2FVVXdyOUpncEYwNlpj?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで820万件超の個人情報を盗み出した疑い 韓国で犯罪グループ初摘発（日テレNEWS NNN） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbW9zYlpMWVF5dDZUbnRCWW1TczdhbTlxaHNNSTh3b2EtN0p5VklnSGgwZTd6aU5UMF9FUGJxX0hJLTl5UFhnT0hVUEtHM2c5VWhseDQ4OVFpLXpsV05CQTJtLUd3R18xX05yUU9VQjRCdTRQY2RPd09ZS2ZYR2c?oc=5",
+   "title": "生成ＡＩを使いフィッシングサイト作成か 他人の決済情報を不正取得した疑いで１７歳の少年ら２人を書類送検 滋賀県警 - 朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscEVSREw0U21jRnZZLTBBeDdWWDFxaXdaamhSSXpaVTZmLXpmdjNHNzJzcENpT1BHM1ZYUnkzV21ERGRjekFGam5LTnJCTGIxeTJRRmxkenJoZm1ldUM4WUZR?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIの次に来る先端技術は？ 光電融合、人型ロボット、量子の可能性 - 日経ビジネス電子版",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wY1haYklwMjVLak93T0Z6X29UNUU1VVcxZGtDZmYwdWU2RnVGMkFvR1REY0Q0TXctSkJwRnpFQ2VTSzNvNWNsNVYxWXo0VExXNHZLcXJFVWllc0pjUnJsOXk4ckF3Tjg?oc=5",
+   "title": "すごいベンチャー【70】Cloverse／生成AIで衣服の着用画像を作成 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IaXYzTWRrS205empJZzB1RU9QV0FPYThTdWQtemlXMktNLXNLdUxHWXFhZHZhZC15UnkyOUcwNlRIMllnbm0wTUZiX0Q3RFlBRnNRZUNHdkNPRTV4Vkpj?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "KDDI SUMMIT 2026で「世界povoサミット」、生成AI活用と海外進出に見るサブブランドのポテンシャル - ケータイ Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUFpjRXlXYzVPYi1fc25sTUdvUVlIMmhLSnNsRWlfbF9iR1pSVkM2SlVITWlGQmRlb0VUSW1INDhOVnU5Si1IMWpWUWRodFkwTjR5VzlkclB0NTV5Y1B5RF84QjYtSFE?oc=5",
+   "title": "生成AIは前工程装置市場をどう変えた？ ――各装置の明暗と「After AI」の行方：湯之上隆のナノフォーカス（96）（2/5 ページ） - EE Times Japan",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MZ1ZkS0pkT2g3aHZrOHlZeDRtSEcwcmtzb2hyUDg2UHNJRm51S2xxa0ZmcE1VZnNVemxLTEhRMmdpaUR6dEpNQUFCcVhLM2hLVWJWYnJJc2Fsd29nUl90SEtpV09oLWwwUXBJ?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "結局、今は生成AIで医学論文を書いていいの？ - 日経メディカル",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3JIclJwbkh1b2t0Qk9uRUpGSHE0SzJuOGRuMVFGekRzZG5uLThLTmJoQ3JfRFYzU3NHRU80dXZiZWJZYkxCU0RQVlh1Ylh6TzNyRUluZ25sQzlIMEJ1NmFEMkF2WXBHZ0VhTndILS1DSTQ5VFhLV1lKc1lUQk1QN1BR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "KDDI SUMMIT 2026で「世界povoサミット」、生成AI活用と海外進出に見るサブブランドのポテンシャル - ケータイ Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUFpjRXlXYzVPYi1fc25sTUdvUVlIMmhLSnNsRWlfbF9iR1pSVkM2SlVITWlGQmRlb0VUSW1INDhOVnU5Si1IMWpWUWRodFkwTjR5VzlkclB0NTV5Y1B5RF84QjYtSFE?oc=5",
    "publisher": "news.google.com"
   }
  ]
