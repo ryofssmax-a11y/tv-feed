@@ -1,8 +1,38 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T08:33:32+09:00",
+ "updatedAt": "2026-10-27T12:39:08+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験",
+   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後",
+   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI活用が進むほど、物理シミュレーションの重要性は高まる",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news017.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
    "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
@@ -24,43 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "FDEは「スーパーマンと思われがちだが……」　脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/27/news013.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news041.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "伊藤忠インタラクティブが「Claude」活用研修　「AIを使う」から「業務を任せる」へ",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002583/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI時代のWindows業務開発の過去未来（1） 『ニンゲツを終わらせろ！』【生成AIストリーム】 - 窓の杜",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85XzlhU3l3UUVQTXU1Q2c3Q0k5T2xDa2hZTlNneV8tNEdyMmpieHA0aG1qWl9fWTQtQWtkVGlJQXgwNnBsVXVmX1pfbFcydUhibnV3ajFnaDlMX2NFb3laSy1vUk10a3NnQjFmT0Z0dm5jdmdkYlNz?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第77回：Apache 2.0で何にでも使えて高性能なMOSS-Image登場！（西川和久） - テクノエッジ TechnoEdge",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwaW9lTmJVU1NBWDZERkluNVo5SDJxOTUxQ000SDRKUFU4eTBPYTBrQVhSMGNaZVBWR2c0Rm1QQWduakVLZnhqV0t3MkUzRHZwbU9TdVM3ZS03X3VJZzZfSzJfWG42dEU?oc=5",
+   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,13 +64,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「あさイチ」の生成AI使用に視聴者から疑問の声　大吉「今のところは不評」も鈴木アナ「NHKとしては」 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGlHNVVITG5obzZRd0lLTl9MUG1mcDVjZEFCc1lHRkRWUV9acFhfbVZLb09FRjJGTlY0UzJ3ZFlGNlFFbEdEWG1POU9PY0hOSGdVQXFLSU9JVGN3cmV3cFZ1ckViTkl6Mk9kNTREd2IybEtOVlc0OE5HMFVmR0V6YUdVVXBJYzJFOGwzY2FKTlAtWXg5RjFZ0gGcAUFVX3lxTE5RVHRvYURxc3RyWFZ3TkgtUy1uU2ZOUUFYdnYzbVQwNHlna3ZFS1h0d1BrdTJUNlJJYUlGRmhQWlZTTjJaMm5CYlhnUndkUnVEc2FTbllqUU9pRllkWDlSeG9zV1JkTlBOMXFGaHpsaHhrd1J0bkYtN1RCS3BuRy04SS1PQ1RXWlNtSkZxYUpORnFlY0R2ZHk4ZlZLNg?oc=5",
+   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (アスキー) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1hkZjI4bk9panlLR3ZFazF5SEt1X0hqT1cweFU5ZVF4TDByLUNnNHJYblY3VEI5YnJLYlRCQVh0OGEwY3Y5YXVOcE9ZQ3lTcC05UURJQzZHZFFBaTFJcHJKaHZ4QXdDX0IxTHJ5djQ2ZHp3aG1YMERFZHFQRzQ1NnNObTVZOEFPSG1KYWd3?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4) - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXd2ktVjAtZEZ2cmpPRTE2VERCWkgtcFpTUjExTTVZREQzZ0NhMWtCa1ZiWC1vUkFfejZPNVljMmlIMkhsR2Jvb2VOLUZkX3FCZHFETQ?oc=5",
+   "title": "AI時代のWindows業務開発の過去未来（1） 『ニンゲツを終わらせろ！』【生成AIストリーム】 - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85XzlhU3l3UUVQTXU1Q2c3Q0k5T2xDa2hZTlNneV8tNEdyMmpieHA0aG1qWl9fWTQtQWtkVGlJQXgwNnBsVXVmX1pfbFcydUhibnV3ajFnaDlMX2NFb3laSy1vUk10a3NnQjFmT0Z0dm5jdmdkYlNz?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "KDDI、5Gミリ波と生成AIで街がアート空間に 映像をリアルタイム共有する「生成アート体験」【KDDI SUMMIT 2026】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kRkpsOFVWUGJTLVJKQm1QUUdrSnc5TDJrSk5TeDBlaDNxMmltV1QzV1hiZU1FZTNvRmhPX0hpUjJvVnJTMURqTl9PWmpILUo3UkZrRjFzZmxmSmtmT3YySmRXOFpQeF9wLWZMYWNTek16ZGVGSWMtQUhIMjI2T3c?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「AIの安全を評価するAI」を誰が評価するのか？Anthropicの上場申請書が示したAI開発ループの構造的矛盾 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTEZrREVpN19KOFNnLWV3OXpLNWN6V0hOM2tfQmxLeE9hb0R0aTlyQ0tfVFZFWGlOcjYzMFVETE9LZ040S1RQaGpyQ2lOMG02aVpqdVRR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "HRBrain、生成AI連携基盤「Brain MCP」を提供開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZExLd3BCZWtPLTZ2Mk9uQ3NlbFhvVWtyRFgzYlFWTDc3TkVqdFB4V2pPOFctYndqOEN4OUpwaF9jb3ZTdzNIU2VSTkZZS2NzOGM5cEF5R1lrZ3RPamdvZmxnc1BZTmhIUHc?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5",
+   "title": "「人間5人＋AI社員62体」が働く衝撃の組織…その全貌と“構築の裏側”を大公開 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOQ3czLS1HSUhJQTFCSEJSa2pZRzJibW93eGlaZEEyRUVOODlQMnFtX3RCY3B4U2J5THdZZHZXQzRBSTNjS2FVVXdyOUpncEYwNlpj?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：生成AI利用者率34.6％、2027年度の非財務目標20%を前倒しで達成（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSGpRMUhVM3A4QlVaTFpnOGpQdXdSd0VlLWxVc2I2eW1FVnNLcUxsME1lQ3h2aXJoLWlnaGZET0xwUTduYUhqS0FKMGRaZkZpTjlQUFNfM1RFN0wxZldFaHRObkk0QUIw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "【AIで地方の課題解決へ】社会人・学生が生成AIについて学べる施設が開校（2026年10月26日掲載）｜TVI NEWS NNN - 日テレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUEdkSlZfdEZ3M1pxanZPd2RTZC1vaUEzb0FFWmdZUzYtaFJ4N1lOSGpHRmVVbTVla1RKU194QnRySHF4ZzM2bHl1TDJkMUdjWmxuRkMzUUgzMGxMcHJRR3NJYVhRdmNyZThUQVByd0F4R3NRamh2MlVTVk1fVUMwT1FySFFTcFU?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "建設現場の生成AI導入、中核業務で道半ば 国土交通省は活用に本腰 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaGpEYjdMTE1DWUFhbmtidnN2cHZRQTZRMzduNklyaXE2SV83aWVZQldvWXA4Y2dqM0dqZ21jZ3djdDhYN2I1U21ndi1sVktPejdmQUJXZURYckFqclJqajNFbFBCcE9BYnZRaw?oc=5",
+   "title": "「あさイチ」の生成AI使用に視聴者から疑問の声　大吉「今のところは不評」も鈴木アナ「NHKとしては」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGlHNVVITG5obzZRd0lLTl9MUG1mcDVjZEFCc1lHRkRWUV9acFhfbVZLb09FRjJGTlY0UzJ3ZFlGNlFFbEdEWG1POU9PY0hOSGdVQXFLSU9JVGN3cmV3cFZ1ckViTkl6Mk9kNTREd2IybEtOVlc0OE5HMFVmR0V6YUdVVXBJYzJFOGwzY2FKTlAtWXg5RjFZ0gGcAUFVX3lxTE5RVHRvYURxc3RyWFZ3TkgtUy1uU2ZOUUFYdnYzbVQwNHlna3ZFS1h0d1BrdTJUNlJJYUlGRmhQWlZTTjJaMm5CYlhnUndkUnVEc2FTbllqUU9pRllkWDlSeG9zV1JkTlBOMXFGaHpsaHhrd1J0bkYtN1RCS3BuRy04SS1PQ1RXWlNtSkZxYUpORnFlY0R2ZHk4ZlZLNg?oc=5",
    "publisher": "news.google.com"
   }
  ]
