@@ -1,35 +1,63 @@
 {
- "date": "2026-10-27",
- "updatedAt": "2026-10-27T20:11:40+09:00",
+ "date": "2026-10-28",
+ "updatedAt": "2026-10-28T07:10:37+09:00",
  "source": "sakamichi-bot",
  "items": [
   {
-   "time": "21:00",
-   "title": "フニャフニャ伝説",
-   "channel": "FM FUJI",
-   "member": "愛宕心響（乃木坂46）",
+   "time": "18:15",
+   "title": "のぎおび",
+   "channel": "SHOWROOM",
+   "member": "長嶋凛桜（乃木坂46）",
    "note": ""
   },
   {
-   "time": "21:00",
-   "title": "Dance Practice Requests",
-   "channel": "櫻坂46公式（配信）",
-   "member": "櫻坂46",
-   "note": "公式X告知"
+   "time": "19:00",
+   "title": "世界の何だコレ！？ミステリー",
+   "channel": "フジテレビ系",
+   "member": "中西アルノ（乃木坂46）",
+   "note": "〜21:00"
   },
   {
-   "time": "23:00",
-   "title": "乃木坂46 柴田柚菜のDreaming time",
-   "channel": "BAYFM",
-   "member": "柴田柚菜（乃木坂46）",
+   "time": "19:00",
+   "title": "猫舌SHOWROOM",
+   "channel": "SHOWROOM",
+   "member": "一ノ瀬美空・金川紗耶（乃木坂46）",
+   "note": "〜21:00"
+  },
+  {
+   "time": "20:30",
+   "title": "櫻坂チャンネル『Dread Flats 凶寓』生配信",
+   "channel": "YouTube 櫻坂チャンネル",
+   "member": "小田倉麗奈・小島凪紗・谷口愛季・山下瞳月（櫻坂46）",
+   "note": ""
+  },
+  {
+   "time": "22:30",
+   "title": "佑捺の部屋",
+   "channel": "WEB配信",
+   "member": "鈴木佑捺・柴田柚菜（乃木坂46）",
+   "note": ""
+  },
+  {
+   "time": "23:25",
+   "title": "これ余談なんですけど・・・",
+   "channel": "朝日放送テレビ",
+   "member": "松田里奈（櫻坂46）",
    "note": ""
   },
   {
    "time": "24:00",
-   "title": "小峠英二のなんて美だ！",
-   "channel": "TOKYO MX",
-   "member": "池田瑛紗（乃木坂46）",
-   "note": ""
+   "title": "乃木坂46 小川彩のbaby baby maybe",
+   "channel": "BAYFM",
+   "member": "小川彩（乃木坂46）",
+   "note": "〜24:27"
+  },
+  {
+   "time": "25:00",
+   "title": "乃木坂46のオールナイトニッポン",
+   "channel": "ニッポン放送",
+   "member": "井上和・小川彩（乃木坂46）",
+   "note": "〜27:00"
   }
  ]
 }
