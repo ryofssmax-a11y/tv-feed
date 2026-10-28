@@ -1,29 +1,8 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T07:10:37+09:00",
+ "updatedAt": "2026-10-28T20:10:16+09:00",
  "source": "sakamichi-bot",
  "items": [
-  {
-   "time": "18:15",
-   "title": "のぎおび",
-   "channel": "SHOWROOM",
-   "member": "長嶋凛桜（乃木坂46）",
-   "note": ""
-  },
-  {
-   "time": "19:00",
-   "title": "世界の何だコレ！？ミステリー",
-   "channel": "フジテレビ系",
-   "member": "中西アルノ（乃木坂46）",
-   "note": "〜21:00"
-  },
-  {
-   "time": "19:00",
-   "title": "猫舌SHOWROOM",
-   "channel": "SHOWROOM",
-   "member": "一ノ瀬美空・金川紗耶（乃木坂46）",
-   "note": "〜21:00"
-  },
   {
    "time": "20:30",
    "title": "櫻坂チャンネル『Dread Flats 凶寓』生配信",
@@ -40,8 +19,8 @@
   },
   {
    "time": "23:25",
-   "title": "これ余談なんですけど・・・",
-   "channel": "朝日放送テレビ",
+   "title": "これ余談なんですけど…",
+   "channel": "ABCテレビ",
    "member": "松田里奈（櫻坂46）",
    "note": ""
   },
