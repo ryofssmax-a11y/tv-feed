@@ -1,49 +1,49 @@
 {
- "date": "2026-10-28",
- "updatedAt": "2026-10-28T18:15:29+09:00",
+ "date": "2026-10-29",
+ "updatedAt": "2026-10-29T07:54:06+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAIがGoogleのAIチップ「TPU」の購入を計画（The Information報道）",
-   "summary": "NVIDIA依存を減らし、計算資源の調達先を広げる動き。",
-   "url": "https://www.channelnewsasia.com/business/openai-plans-buy-googles-ai-chips-information-reports-6498406",
-   "publisher": "Reuters via CNA"
+   "title": "Googleが新最上位モデル「Gemini 4 Carbon」を発表、サイバー防御と長時間作業で首位",
+   "summary": "AI性能指標で首位。悪用リスクを考え、まずサイバー防御組織に限定提供",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "publisher": "Google"
   },
   {
-   "title": "Axiom、AIエージェント群で数学史上最長の証明「有限単純群の分類」を24日でLean化",
-   "summary": "1.5万ページの証明を約4310万行のコンピューター検証済みコードに。",
-   "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
-   "publisher": "Axiom"
+   "title": "Alphabet決算、クラウド売上は2倍超もフリーキャッシュフローは90億ドルの赤字",
+   "summary": "AI設備投資で現金流出。2027年の設備投資は3000億ドル超の見通し",
+   "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "publisher": "CNBC"
   },
   {
-   "title": "ChatGPTがてんかん薬の減薬を指南したとして、遺族がOpenAIを提訴",
-   "summary": "AIの医療助言の責任が問われる訴訟。",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "title": "Microsoft決算、OpenAIからの売上が1四半期で100億ドル",
+   "summary": "全売上の約11%。Azure売上も初めて金額で公表され332億ドル",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
    "publisher": "TechCrunch"
   },
   {
-   "title": "Cloudflare、GLM-5.3の提供で他の顧客のデータが155件の応答に混入していたと公表",
-   "summary": "設定ミスとSGLangのバグが原因。修正済み。",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "publisher": "Cloudflare"
+   "title": "Amazon「Alexa+」が日本で早期アクセス開始、プライム会員は追加料金なし",
+   "summary": "言外の意図をくんで動く生成AI版Alexa。通常は月3,000円",
+   "url": "https://press.aboutamazon.com/jp/2026/10/amazon-launches-alexa-its-generative-ai-powered-next-generation-personal-assistant-in-japan",
+   "publisher": "Amazon"
   },
   {
-   "title": "PFNが国産フラグシップ「PLaMo 3.1 Prime」を提供開始、API無料プランも",
-   "summary": "社内でも動くDeep Research搭載の国産モデル。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
-   "publisher": "ITmedia AI+"
+   "title": "OpenAIとServiceNowが提携拡大、ChatGPTから社内IT業務を操作可能に",
+   "summary": "障害対応や記録更新をChatGPT内で完結。MCPプラグインは本日提供",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "publisher": "OpenAI"
   },
   {
-   "title": "オランダ政府、AI活用などで国家公務員を2035年までに2万5000人削減へ",
-   "summary": "AIによる人員削減を政府が数字で示した。",
-   "url": "https://nlnow.nl/a/cabinet-plans-to-cut-25-000-central-government-jobs-by-2035/",
-   "publisher": "NL Times系 NLnow"
+   "title": "Google、GeminiとSearchに外部アプリをつなぐ開発者基盤をプレビュー公開",
+   "summary": "MCPで一度作れば検索とGemini両方に出せる。AI経由でアプリを使う流れが加速",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+   "publisher": "Google"
   },
   {
-   "title": "トランプ氏、政府文書で「AI」の語を禁止し「超知能（SI）」に置き換えると表明",
-   "summary": "9月の大統領令の延長。民間に強制はしない。",
-   "url": "https://www.yahoo.com/news/politics/articles/trump-says-ban-term-artificial-162558297.html",
-   "publisher": "Yahoo News"
+   "title": "Anthropic、企業がClaudeに払ったお金の成果を見える化する機能を提供",
+   "summary": "作業内容・費用・つまずき箇所を分析。チーム共有予算も",
+   "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+   "publisher": "Anthropic"
   }
  ]
 }
