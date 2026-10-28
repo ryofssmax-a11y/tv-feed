@@ -1,49 +1,49 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T07:47:17+09:00",
+ "updatedAt": "2026-10-28T18:15:29+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Google DeepMindが「Genie 4」を発表、音声や会話もリアルタイム生成",
-   "summary": "音声や会話まで同時に作る仮想世界AI。限定テスターから順次提供。",
-   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
-   "publisher": "ITmedia"
+   "title": "OpenAIがGoogleのAIチップ「TPU」の購入を計画（The Information報道）",
+   "summary": "NVIDIA依存を減らし、計算資源の調達先を広げる動き。",
+   "url": "https://www.channelnewsasia.com/business/openai-plans-buy-googles-ai-chips-information-reports-6498406",
+   "publisher": "Reuters via CNA"
   },
   {
-   "title": "Anthropic実験：専門家はAIエージェントの「好み」に86%従った",
-   "summary": "Claude Codeの隠れた偏りに分析の専門家の判断の86%が沿った。",
-   "url": "https://www.anthropic.com/research/agents-judgment-calls",
-   "publisher": "Anthropic"
+   "title": "Axiom、AIエージェント群で数学史上最長の証明「有限単純群の分類」を24日でLean化",
+   "summary": "1.5万ページの証明を約4310万行のコンピューター検証済みコードに。",
+   "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+   "publisher": "Axiom"
   },
   {
-   "title": "Anthropic、製薬など6社との創薬協業の成果を公開",
-   "summary": "抗体の結合力10倍超、書類チェック時間89%減などを報告。",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development",
-   "publisher": "Anthropic"
+   "title": "ChatGPTがてんかん薬の減薬を指南したとして、遺族がOpenAIを提訴",
+   "summary": "AIの医療助言の責任が問われる訴訟。",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "publisher": "TechCrunch"
   },
   {
-   "title": "OpenAIとOracleが提携拡大、Oracleの業務アプリをChatGPTの中で使えるように",
-   "summary": "会計・調達データに権限を守ったままChatGPTからアクセス。",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "publisher": "OpenAI"
+   "title": "Cloudflare、GLM-5.3の提供で他の顧客のデータが155件の応答に混入していたと公表",
+   "summary": "設定ミスとSGLangのバグが原因。修正済み。",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "publisher": "Cloudflare"
   },
   {
-   "title": "AppleがKeynote・Pages・NumbersにAIアシスタント、MCPにも対応",
-   "summary": "外部AIエージェントからも文書を編集可能に。11月配信予定。",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-   "publisher": "Apple"
+   "title": "PFNが国産フラグシップ「PLaMo 3.1 Prime」を提供開始、API無料プランも",
+   "summary": "社内でも動くDeep Research搭載の国産モデル。",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+   "publisher": "ITmedia AI+"
   },
   {
-   "title": "内閣府、生成AIの学習データ透明性への各社回答を公表、Googleは個別照会に確実に答える仕組みはないと回答",
-   "summary": "Googleなど5社が届け出。権利者が学習有無を確かめる手段は弱いまま。",
-   "url": "https://www.asahi.com/articles/ASVBW4PTPVBWUCVL04JM.html",
-   "publisher": "朝日新聞"
+   "title": "オランダ政府、AI活用などで国家公務員を2035年までに2万5000人削減へ",
+   "summary": "AIによる人員削減を政府が数字で示した。",
+   "url": "https://nlnow.nl/a/cabinet-plans-to-cut-25-000-central-government-jobs-by-2035/",
+   "publisher": "NL Times系 NLnow"
   },
   {
-   "title": "Anthropic、米政府向けにClaudeを40%引き、州・地方自治体にも拡大",
-   "summary": "GSAとの新契約で約10億ドルの節約と試算。",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "publisher": "Anthropic"
+   "title": "トランプ氏、政府文書で「AI」の語を禁止し「超知能（SI）」に置き換えると表明",
+   "summary": "9月の大統領令の延長。民間に強制はしない。",
+   "url": "https://www.yahoo.com/news/politics/articles/trump-says-ban-term-artificial-162558297.html",
+   "publisher": "Yahoo News"
   }
  ]
 }
