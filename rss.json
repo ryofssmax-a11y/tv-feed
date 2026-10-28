@@ -1,8 +1,33 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T08:54:45+09:00",
+ "updatedAt": "2026-10-28T12:55:19+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表　オンプレでDeep Research対応　API無料プランも開始",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
    "url": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
@@ -29,33 +54,28 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
-   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応 - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMjdxT1l6ek05dnhucEZQX01kN2RScDVwaUVmdkh4V1dveU45cU5nc2Q0aUdPMk81UGI5ZTJ6T0JnSk9NVkN3cEJHbXFWTzZaNVBRX00yak4xWlUyRmtIdWV4UTlXY1ls?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "「人間5人＋AI社員62体」が働く衝撃の組織…その全貌と“構築の裏側”を大公開 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOQ3czLS1HSUhJQTFCSEJSa2pZRzJibW93eGlaZEEyRUVOODlQMnFtX3RCY3B4U2J5THdZZHZXQzRBSTNjS2FVVXdyOUpncEYwNlpj?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験",
-   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "新潟県内初の大型AI展示・商談イベントが開幕 生成AIによる業務効率化やロボットの実走展示も 「NIIGATA AI EXPO」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jSWhwVDByVVViZHpGR1NJaWp3SlJ1YWdxcXlPYjNmZWc3UGIyVzNScW1PWElzeVQyNGwwOXZMRjhBSkFDZlVqU3RoTUZNV2laZ21uak9UNW0tY2Nhd2VyTDZycW9KSDFOZmM4NkNFQzEwaG1EOG1HZk5mcFRRelU?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "BrainChip、エッジで生成AIやLLMを実行できるプロセッサIP：イヤフォンやセンサーノードに - EDN Japan",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQWZjNF8yTWF5X1JHRG16ZVN1MDVaZVE0eU9KLU9zUTdQbV92OE42QzRrZUJHaEZxNXItN2hyMlhjZS10Zl9zMXlUWXcwb3c2ampCMHRpSFhVSVpCV2NXT0c5UzJ6aTBYcVVN?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後",
-   "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 - 株式会社Preferred Networks",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwN1RXMEF1WV95WDQ0b2pwdUtiV2d0RFhfT3gzSHZBZ1hfZC0xbEx0dTF6SGE2dTkxRnR3eEw1SkFUSkFmVEF6WmJXR0hLT0t4WDltTHhB?oc=5",
+   "title": "北見市教委、生成AI利用規程を運用、学校での個人情報保護や正確性確認を徹底 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYzItb0UxalBlUkYzREZtUGh0MWtUM3ZGNEI1T0loQ2JYaWItOVljdmh3R2dkVGxLV2d5OG5UckJRRkVrVVhNUlNBNW5FRkZ1Q09iZG1HNWZ6QQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -64,13 +84,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI利用時のセキュリティー意識 約3割が「意識していない」 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13QTJ3d2EyLWNiYWhrQVpBUUJSdVNfa0lfal9IQjlBaWh6ZVE0a2dwbWxIY0JVeDRXeFRvSHdGY1VmdnRiaUgyVHVGSDJlZzg4eENSUWttSE4yazZKdlVCZnI1VmxSZzJBZXV0VU9CY0JLQQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応（窓の杜） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZmdXNk1kTV90Q1VnOHJ6U0hZUUl4M0pfVzNDSzFNWXBidHZQeTRGX0VRN0lwT0ROUHhBNTU3QzRzT1h1cWRfWFBfdHF3V2VKWWdRUlJlVUtKQmEwMl90QjRIVjhWVzhDT004V1ZRRHJ4by1ZckdxSXNWdkh2a2s?oc=5",
+   "title": "生成AI、たった2年半で急速に進歩 おとにち水曜 西岡さん100回記念放送 | 日刊薬業 - 医薬品産業の総合情報サイト - 日刊薬業",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03XzJzWXM1aUFvckthRk9iZXhxRDAweGw4cTVxVDRzUEJueGEtQlVGcWozV0JVQVpwREpNV3RlMWh6cHJpbUlVOA?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,28 +94,13 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "「あさイチ」の生成AI使用に視聴者から疑問の声　大吉「今のところは不評」も鈴木アナ「NHKとしては」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGlHNVVITG5obzZRd0lLTl9MUG1mcDVjZEFCc1lHRkRWUV9acFhfbVZLb09FRjJGTlY0UzJ3ZFlGNlFFbEdEWG1POU9PY0hOSGdVQXFLSU9JVGN3cmV3cFZ1ckViTkl6Mk9kNTREd2IybEtOVlc0OE5HMFVmR0V6YUdVVXBJYzJFOGwzY2FKTlAtWXg5RjFZ0gGcAUFVX3lxTE5RVHRvYURxc3RyWFZ3TkgtUy1uU2ZOUUFYdnYzbVQwNHlna3ZFS1h0d1BrdTJUNlJJYUlGRmhQWlZTTjJaMm5CYlhnUndkUnVEc2FTbllqUU9pRllkWDlSeG9zV1JkTlBOMXFGaHpsaHhrd1J0bkYtN1RCS3BuRy04SS1PQ1RXWlNtSkZxYUpORnFlY0R2ZHk4ZlZLNg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答 [AIの時代] - 朝日新聞",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZ3dlZVhaNUF4bjJnVTVkLWJqVi1JYTBYMlY0TlFYd1N3cUxMc2dYTGswUU9vSi1WTnBjRnVJNEZVUEtacWNheWItWGlTQVJrazVMbmt2QktEWUZRMm85aGVmdmFCUHc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "すごいベンチャー【70】Cloverse／生成AIで衣服の着用画像を作成 - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IaXYzTWRrS205empJZzB1RU9QV0FPYThTdWQtemlXMktNLXNLdUxHWXFhZHZhZC15UnkyOUcwNlRIMllnbm0wTUZiX0Q3RFlBRnNRZUNHdkNPRTV4Vkpj?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIは前工程装置市場をどう変えた？ ――各装置の明暗と「After AI」の行方：湯之上隆のナノフォーカス（96）（2/5 ページ） - EE Times Japan",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MZ1ZkS0pkT2g3aHZrOHlZeDRtSEcwcmtzb2hyUDg2UHNJRm51S2xxa0ZmcE1VZnNVemxLTEhRMmdpaUR6dEpNQUFCcVhLM2hLVWJWYnJJc2Fsd29nUl90SEtpV09oLWwwUXBJ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "結局、今は生成AIで医学論文を書いていいの？ - 日経メディカル",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3JIclJwbkh1b2t0Qk9uRUpGSHE0SzJuOGRuMVFGekRzZG5uLThLTmJoQ3JfRFYzU3NHRU80dXZiZWJZYkxCU0RQVlh1Ylh6TzNyRUluZ25sQzlIMEJ1NmFEMkF2WXBHZ0VhTndILS1DSTQ5VFhLV1lKc1lUQk1QN1BR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "KDDI SUMMIT 2026で「世界povoサミット」、生成AI活用と海外進出に見るサブブランドのポテンシャル - ケータイ Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUFpjRXlXYzVPYi1fc25sTUdvUVlIMmhLSnNsRWlfbF9iR1pSVkM2SlVITWlGQmRlb0VUSW1INDhOVnU5Si1IMWpWUWRodFkwTjR5VzlkclB0NTV5Y1B5RF84QjYtSFE?oc=5",
    "publisher": "news.google.com"
   }
  ]
