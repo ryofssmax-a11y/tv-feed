@@ -1,49 +1,43 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29T07:54:06+09:00",
+ "updatedAt": "2026-10-29T18:14:57+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Googleが新最上位モデル「Gemini 4 Carbon」を発表、サイバー防御と長時間作業で首位",
-   "summary": "AI性能指標で首位。悪用リスクを考え、まずサイバー防御組織に限定提供",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "publisher": "Google"
+   "title": "DeepSeekとMoonshotがOpenAIのGPT-6 Astraの出力で最新モデルを学習と報道",
+   "summary": "米中のAI競争で、他社モデルの答えをまねて学習する「蒸留」が焦点に。OpenAIらはまだ回答なし（報道ベース）。",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report/articleshow/135286994.cms",
+   "publisher": "Reuters（Economic Times掲載）"
   },
   {
-   "title": "Alphabet決算、クラウド売上は2倍超もフリーキャッシュフローは90億ドルの赤字",
-   "summary": "AI設備投資で現金流出。2027年の設備投資は3000億ドル超の見通し",
-   "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "publisher": "CNBC"
+   "title": "ChatGPT ProとBusinessに毎月最大500ドル分のAPIクレジット",
+   "summary": "Proは料金と同額、Businessは席数に応じて上限500ドル。サブスク加入者がアプリやエージェントを作るハードルが下がる。",
+   "url": "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
+   "publisher": "OpenAI ヘルプセンター"
   },
   {
-   "title": "Microsoft決算、OpenAIからの売上が1四半期で100億ドル",
-   "summary": "全売上の約11%。Azure売上も初めて金額で公表され332億ドル",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "publisher": "TechCrunch"
+   "title": "衆院の立法業務に生成AI活用で与野党が正式合意、政府の「源内」を念頭",
+   "summary": "調査局や法制局での利用を想定。国会の仕事にもAIが入る一歩で、将来は立法府独自のAIも検討。",
+   "url": "https://www.sankei.com/article/20261029-Q4IBE53Q3NPSVKP5BCHKLUYVHY/",
+   "publisher": "産経ニュース"
   },
   {
-   "title": "Amazon「Alexa+」が日本で早期アクセス開始、プライム会員は追加料金なし",
-   "summary": "言外の意図をくんで動く生成AI版Alexa。通常は月3,000円",
-   "url": "https://press.aboutamazon.com/jp/2026/10/amazon-launches-alexa-its-generative-ai-powered-next-generation-personal-assistant-in-japan",
-   "publisher": "Amazon"
+   "title": "GitHub Copilot Fusionが一般提供、タスクごとにモデルを自動で選んで組み合わせ",
+   "summary": "最上位設定でOpus 5.5相当に近い性能を約半分のコストで出したと発表。期間限定で30%引き。",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+   "publisher": "GitHub Changelog"
   },
   {
-   "title": "OpenAIとServiceNowが提携拡大、ChatGPTから社内IT業務を操作可能に",
-   "summary": "障害対応や記録更新をChatGPT内で完結。MCPプラグインは本日提供",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "publisher": "OpenAI"
+   "title": "Android Studioの正式版で、ClaudeやCodexなど40以上のAIエージェントが使えるように",
+   "summary": "エミュレーターやビルド機能をエージェントが直接操作できる。好きなAIでAndroidアプリを作れる時代に。",
+   "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+   "publisher": "Android Developers Blog"
   },
   {
-   "title": "Google、GeminiとSearchに外部アプリをつなぐ開発者基盤をプレビュー公開",
-   "summary": "MCPで一度作れば検索とGemini両方に出せる。AI経由でアプリを使う流れが加速",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
-   "publisher": "Google"
-  },
-  {
-   "title": "Anthropic、企業がClaudeに払ったお金の成果を見える化する機能を提供",
-   "summary": "作業内容・費用・つまずき箇所を分析。チーム共有予算も",
-   "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
-   "publisher": "Anthropic"
+   "title": "中国AGIBOTがロボットの「実際の仕事量」を測る指標Workenと新AIモデルGO-3を発表",
+   "summary": "台数ではなく自律で働いた時間と成果で評価する考え方。人型ロボットが実用段階の競争に入ったことを示す。",
+   "url": "https://www.agibot.com/article/231/detail/131.html",
+   "publisher": "AGIBOT"
   }
  ]
 }
