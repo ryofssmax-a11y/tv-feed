@@ -1,8 +1,33 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29T10:11:24+09:00",
+ "updatedAt": "2026-10-29T16:27:55+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
+   "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+   "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
+   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
@@ -29,53 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazon、生成AI搭載のアレクサを日本で開始 飲食店予約可能に - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YdEo3MHU0dm1pbDlCX0JmZzMzVVF4MDBBUGJpQUpsMTdmV3FxQzFSYUpzUFpPa053WC1Kd0FTaEdFNXlwRGVPcGlsQVJ1M3Q2eGI1N3U2UWJvdEdRanV0ZWJUTGhnWVR5X2Zhdw?oc=5",
+   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応 - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMjdxT1l6ek05dnhucEZQX01kN2RScDVwaUVmdkh4V1dveU45cU5nc2Q0aUdPMk81UGI5ZTJ6T0JnSk9NVkN3cEJHbXFWTzZaNVBRX00yak4xWlUyRmtIdWV4UTlXY1ls?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「不用品回収サービス」のおすすめをAIに聞いた→ChatGPTとGeminiで異なる結果に（まいどなニュース） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3b0tDR1I2cUdiVkhvMFF1R3pSQXpZWFU0bDdFR3AyR1FCSmhod2U4c0V3eVV4cDhweUZlUmdILUxUMU45ZlJSR3EzaFBxSVozVldoNFNHZHpDVVNBdWJ0OU02VC1aMmRSNTQ2LXNTckVyelNnVmluX2Y3Y1ZFSWs?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "～生成AIの普及で75.0％が「仕事への影響」を実感～PE-BANK「IT人材のリスキリング実態調査」を実施 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1a09vcXJqUG5jRUZuUTBQaUNJaEJUZHBhZ0djbS0wUWNuX24xTmxyQmpqUTJySV9TXzVILUlfRndpd3EtajNuU1ljMndvUFFWTkE3Q25FZXcwaVU3cmR6akFLay1wM2JlcUE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "15000ページ 数学の史上最大の巨大定理を、AIエージェントが24日間で形式証明化 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTNHBMUDNfNXBJTHNGQ2s5YlN3M1M3R2ZyZVdtM2h6QWNucWNCS2Ixck9DdkdWVzdYOTFiQXZmS1U4Nm1OYTVGY2JuSHd6RnZyU19B?oc=5",
+   "title": "「生成AI講座」で“シューティング”“陣取り合戦”ゲームを制作…「青山学院中等部」がChatGPT普及前からAI教育に踏み切った理由 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSlhMblJpR0VUVXdjRFY3YXhKM0loV2VORDR2SWsxbVpDbTlxU0d1ZXF6U21rZ2tUMzg5c1hOcU54UGd3SzQxMW1iUlhBWnZ0Yi1iTlRrSTJZMk83bXRWZUhhVV9qRGlnSHNmTjMxUXVnZTZxNWdfOE9WdEpnR1U?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +74,33 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料 - AV Watch",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPLU85YjQ1Y3Z4SzZZU0p3Z0N2Q1BJQkRQTzNKUlY0NGdrVVA0d25yNHVJX3FfY3hlQ1llTmlUd0tEeW5GelYxRExqUW1Ib1YxMWpsTloxbVhLTUl6R2NORnlvOA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始 - About Amazon Japan",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xelhrRTJsMU1vUDNwUmg0ZkowZFJmVU9mamZIdDNUUDVFNEFBU3ViS3lacjQyX3ZFcVV2VWhvTTE1amtPRnZlZG9yOFY2c29QS3c?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略 - JBpress",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTXlicDNHek5vT3lyeFdiSGNadjVmRGJaM2g2Q2hrQ3ByejNzNXpsY3BUclRxSHo0aUZkWERsQ0FIZlNZWnAySzk5WXVVc1pzcU5fRjdB?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI活用へ連携協定 下野新聞社、足利銀行、WIS 栃木県内の企業や自治体支援｜下野新聞デジタル - 下野新聞社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQVMxREVmUFFrTEtla0pLOTAxZTRYY2R2N05xSHF5ZnB0TkRHLXJQV2NORnFBRFY3ZzZKeVZ2R2VBOTh1YjZqZHRMWS1wV3RlS1BoMHlYNXVmdE0?oc=5",
+   "title": "プレスリリース：Uravation、生成AIパスポートの無料問題集を新シラバス対応の300問に拡充。2027年2月試験から「AIエージェント」が独立した章になる5章に沿い、本番形式60問や章別で解けて全問に解説つき（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RcDRwNmJWd2Y1cGVoZEZCam5tUVJ6ZENRMGI0azFFYXRCMl9zQnBVcFZQdU1pYzVQN2c2X0JYOE0yNDdlc21JcFhkRmFxdnNJUUZSSFc3RGRSVHFoOWppenhaa3ZJVTVM?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "新潟県内初の大型AI展示・商談イベントが開幕 生成AIによる業務効率化やロボットの実走展示も 「NIIGATA AI EXPO」 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBId1htdEdRRUh2VGt3UGQwZVVDMVRfdHlSWlYxdm83b3dTMEk5cEYxcWlBQ2FsdWFCT096TnUwSnpsQ0NINGstRHJhSXZ2aUI3X25qaFRKZUI4RTh2ZjZMeGQybUxmSE0?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "学校での生成AI活用テーマに意見交換 上越市総合教育会議で市長と教育委員 - 上越タウンジャーナル",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00am5jTkJXQXJkbWpZSDlDVUk5aHA3Rks0NlZEbi1NM0EwQlhDTDQ3a3NQUjFNSWFlbEJXZXNvd0JLOFpMeGdKQThJRFRPTk1fMEVjNg?oc=5",
+   "title": "大学教授が生成AI利用、著作に誤情報を掲載した問題 琉大が新ガイドライン作成へ - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YYVhqakNYcHg5U19vLXpfcElZY1hUVzBKeXFCeGVFaXJJQzhKMGdhZ1FsVmZHejlBOEJpV1Nyb3Jjd2NPRHd0aHlFMldiM2ZUQl9lVy1tOA?oc=5",
    "publisher": "news.google.com"
   }
  ]
