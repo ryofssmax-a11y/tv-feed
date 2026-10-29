@@ -1,8 +1,48 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29T06:29:50+09:00",
+ "updatedAt": "2026-10-29T10:11:24+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+   "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
@@ -14,78 +54,38 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Notion AIの「クレジット制」導入は改悪か？　コスト最適化のヒケツを開発責任者に聞いた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002666/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ロボット実機で実践的に学べる、リョーサン菱洋「フィジカルAI入門パッケージ」",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news040.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
-   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
-   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表　オンプレでDeep Research対応　API無料プランも開始",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
-   "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始 - About Amazon Japan",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
+   "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZnMxYU1MWmY1bDdUTHAyWmw1UE9EbWNFLWtGYkktX3B0RGpsS2JKSEY3Rkp0S1NmaFVlcXVveFYySURadVVGd0V2S3ZwdUc0c0JpTzlFaHAxenI2TjVWN19vN0RuOXJmZ2JqUzNCa0cyQXdndmlEd05iMEt3N1E?oc=5",
+   "title": "Amazon、生成AI搭載のアレクサを日本で開始 飲食店予約可能に - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YdEo3MHU0dm1pbDlCX0JmZzMzVVF4MDBBUGJpQUpsMTdmV3FxQzFSYUpzUFpPa053WC1Kd0FTaEdFNXlwRGVPcGlsQVJ1M3Q2eGI1N3U2UWJvdEdRanV0ZWJUTGhnWVR5X2Zhdw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "【西田宗千佳のRandomTracking】Alexa+日本上陸。「生成AIベース」で変わることを責任者に直撃 - AV Watch",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JbUVYdHk5RENveS04SHlRdmlfS3kzLXhlV3ExcExrTFhpZ2NOalJ5UXEzdHg3dUwxSzVoUDFETGYzRC1ObkZPOG5pZUxkM0FxMXFSV3VGT3Z6RzhaR0Z2eEowM0dGclIwQVE?oc=5",
+   "title": "「不用品回収サービス」のおすすめをAIに聞いた→ChatGPTとGeminiで異なる結果に（まいどなニュース） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3b0tDR1I2cUdiVkhvMFF1R3pSQXpZWFU0bDdFR3AyR1FCSmhod2U4c0V3eVV4cDhweUZlUmdILUxUMU45ZlJSR3EzaFBxSVozVldoNFNHZHpDVVNBdWJ0OU02VC1aMmRSNTQ2LXNTckVyelNnVmluX2Y3Y1ZFSWs?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 - 株式会社Preferred Networks",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwN1RXMEF1WV95WDQ0b2pwdUtiV2d0RFhfT3gzSHZBZ1hfZC0xbEx0dTF6SGE2dTkxRnR3eEw1SkFUSkFmVEF6WmJXR0hLT0t4WDltTHhB?oc=5",
+   "title": "～生成AIの普及で75.0％が「仕事への影響」を実感～PE-BANK「IT人材のリスキリング実態調査」を実施 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1a09vcXJqUG5jRUZuUTBQaUNJaEJUZHBhZ0djbS0wUWNuX24xTmxyQmpqUTJySV9TXzVILUlfRndpd3EtajNuU1ljMndvUFFWTkE3Q25FZXcwaVU3cmR6akFLay1wM2JlcUE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "自作アプリで事務作業を8割削減、地方建設会社の土木技術者が生成AIで開発 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEZicGprRmQ1M1pWZmZkUTZncVZNQS1NQjhZU1MxYnJOUmR3X1VsYjZrTUd2S2ZNb3JTamlvVTRIMm9SM3FNUnlxRm1HT0dTWDFBWDZmM0czdUhTZkR3QlFZV1F1d3kxUUhxZHBObGlWNXR4ci1ma3FjMGwwa0YwQXVNOVdxbEJQZW1kTA?oc=5",
+   "title": "15000ページ 数学の史上最大の巨大定理を、AIエージェントが24日間で形式証明化 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTNHBMUDNfNXBJTHNGQ2s5YlN3M1M3R2ZyZVdtM2h6QWNucWNCS2Ixck9DdkdWVzdYOTFiQXZmS1U4Nm1OYTVGY2JuSHd6RnZyU19B?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIで企業課題解決 11月、北上にスクール開校【岩手】（岩手日日新聞社） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZzQ2RHBncUlVUnZtb1lGNUgxVzRiWmhPM1laVUE3V1E5XzhUeDJIcW1lcGdpRUtydno1TDlKUmpNaVItRGxUTmNfM09WX2ZKYWdjS21wT3lUa1p2YWZ4OFhfbVdzbjJKUUxmanNCOU1nNXNxVnVnU3c4TWtKQmM?oc=5",
+   "title": "「禁止」するだけでは防げない？ パナソニックグループで約33万人分の個人情報が外部生成AIに - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZWUxXcl9PdDNPWGs3ZVV1OVJnWU91UzlxNFhnTUw0cGJYM19vQjk3RFhQb3kxM2YyT09mY1NQLTJrQllqdERIRFJyajAyQmtSZkZPUWZlaUFMSDJhNzUxWFJyRHgwd2VETlg2VWR1dkhJaDNh?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "交通事故の兆候を見逃さない「生成AIの目」 NTTがインフラ監視の検知距離を3倍に（要約）：スマートメンテナンス - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZXlSem5HU2FKM3NIcmk0V01uZ3RWOFJxWnBjNkJkRDNMdHdLTmU3Vmc2dmlXdmswVTVfZGJQTmZuSzN5eElwa01DTHBZWmZRa0h6eVFEUkZnRnRiLWozZnM5MWowanR5RVp1ZA?oc=5",
+   "title": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTXlicDNHek5vT3lyeFdiSGNadjVmRGJaM2g2Q2hrQ3ByejNzNXpsY3BUclRxSHo0aUZkWERsQ0FIZlNZWnAySzk5WXVVc1pzcU5fRjdB?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
+   "title": "学校での生成AI活用テーマに意見交換 上越市総合教育会議で市長と教育委員 - 上越タウンジャーナル",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00am5jTkJXQXJkbWpZSDlDVUk5aHA3Rks0NlZEbi1NM0EwQlhDTDQ3a3NQUjFNSWFlbEJXZXNvd0JLOFpMeGdKQThJRFRPTk1fMEVjNg?oc=5",
    "publisher": "news.google.com"
   }
  ]
