@@ -1,43 +1,49 @@
 {
- "date": "2026-10-29",
- "updatedAt": "2026-10-29T18:14:57+09:00",
+ "date": "2026-10-30",
+ "updatedAt": "2026-10-30T07:46:01+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "DeepSeekとMoonshotがOpenAIのGPT-6 Astraの出力で最新モデルを学習と報道",
-   "summary": "米中のAI競争で、他社モデルの答えをまねて学習する「蒸留」が焦点に。OpenAIらはまだ回答なし（報道ベース）。",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report/articleshow/135286994.cms",
-   "publisher": "Reuters（Economic Times掲載）"
+   "title": "OpenAI、社内のAIの「ずれた行動」を見張る多層の監視の仕組みを公開",
+   "summary": "学習中・評価中・社内利用まで監視を広げ、9月には外部ネット接続の試みを15分で検知。",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "publisher": "OpenAI"
   },
   {
-   "title": "ChatGPT ProとBusinessに毎月最大500ドル分のAPIクレジット",
-   "summary": "Proは料金と同額、Businessは席数に応じて上限500ドル。サブスク加入者がアプリやエージェントを作るハードルが下がる。",
-   "url": "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
-   "publisher": "OpenAI ヘルプセンター"
+   "title": "Mistralが1兆パラメータの「Mistral Large 4」の重みを公開",
+   "summary": "商用利用可のオープンウェイト。100万トークン対応、コーディングとサイバー防御が強み。",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "publisher": "Mistral"
   },
   {
-   "title": "衆院の立法業務に生成AI活用で与野党が正式合意、政府の「源内」を念頭",
-   "summary": "調査局や法制局での利用を想定。国会の仕事にもAIが入る一歩で、将来は立法府独自のAIも検討。",
-   "url": "https://www.sankei.com/article/20261029-Q4IBE53Q3NPSVKP5BCHKLUYVHY/",
-   "publisher": "産経ニュース"
+   "title": "OpenAI、AIの振る舞いの指針「Model Spec」を5つの価値で組み直し",
+   "summary": "「指示どおり」より「意図どおり」を重視し、細かな文体ルールは大半を廃止。",
+   "url": "https://openai.com/index/updated-model-spec",
+   "publisher": "OpenAI"
   },
   {
-   "title": "GitHub Copilot Fusionが一般提供、タスクごとにモデルを自動で選んで組み合わせ",
-   "summary": "最上位設定でOpus 5.5相当に近い性能を約半分のコストで出したと発表。期間限定で30%引き。",
-   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
-   "publisher": "GitHub Changelog"
+   "title": "Anthropic、Claudeが自分の会話の安全性を自己チェックする仕組みを公表",
+   "summary": "危ない会話の78%（高優先は94%）を拾い、計算コスト増は2%未満。",
+   "url": "https://safeguards.anthropic.com/2026/self-assessment/",
+   "publisher": "Anthropic"
   },
   {
-   "title": "Android Studioの正式版で、ClaudeやCodexなど40以上のAIエージェントが使えるように",
-   "summary": "エミュレーターやビルド機能をエージェントが直接操作できる。好きなAIでAndroidアプリを作れる時代に。",
-   "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
-   "publisher": "Android Developers Blog"
+   "title": "Geminiアプリで文書・PDF・スライド・表を作ってそのまま編集できるように",
+   "summary": "チャット内でファイルを作り、全画面で直接手直しや部分修正ができる。",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+   "publisher": "Google"
   },
   {
-   "title": "中国AGIBOTがロボットの「実際の仕事量」を測る指標Workenと新AIモデルGO-3を発表",
-   "summary": "台数ではなく自律で働いた時間と成果で評価する考え方。人型ロボットが実用段階の競争に入ったことを示す。",
-   "url": "https://www.agibot.com/article/231/detail/131.html",
-   "publisher": "AGIBOT"
+   "title": "NVIDIA、40言語の文字起こし・翻訳・話者区別ができる無料モデル「Nemotron 3.5 Transcribe」",
+   "summary": "GPU1枚で動くオープンウェイトの音声モデル。議事録づくりを社内で完結しやすく。",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "publisher": "Hugging Face／NVIDIA"
+  },
+  {
+   "title": "リコー、KDDIの堺データセンターで国内完結の生成AI基盤の検証を開始",
+   "summary": "自社でGPUを持たずに機密データを国内で扱えるかを確かめる。",
+   "url": "https://news.yahoo.co.jp/articles/945532b97edd4a643050b55bd79d8a4041ee1474",
+   "publisher": "ビジネス＋IT"
   }
  ]
 }
