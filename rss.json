@@ -1,8 +1,13 @@
 {
- "date": "2026-10-30",
- "updatedAt": "2026-10-30T22:18:10+09:00",
+ "date": "2026-10-31",
+ "updatedAt": "2026-10-31T03:42:43+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
@@ -49,18 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応 - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMjdxT1l6ek05dnhucEZQX01kN2RScDVwaUVmdkh4V1dveU45cU5nc2Q0aUdPMk81UGI5ZTJ6T0JnSk9NVkN3cEJHbXFWTzZaNVBRX00yak4xWlUyRmtIdWV4UTlXY1ls?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,28 +74,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "厚生労働省、情報公開の事務にRAG型生成AIを導入、紙の申請書はAI-OCRでテキスト化 - IT Leaders",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbWFaWm9YNDhrZW1ydEZzZFBkLTB6RFJtZjE0Wk5mcVpHRURSTUNmc2hIMURoNVltZEN4T094X090RVpRY3I1aVFvNjNEZld2X2sw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ - 日経クロステック",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcEFNRlAtVlQ5UEg4R2JDeFd0aFozZFE2M0RkSF9JbkdxZU9jd2x0d0pXdFYzYTZORU1IeHJ1Qklma1M2MnlPRmVrekRqSlBfbXdMNElPUTcwUnFkc21EWm96R3NhLXdOSXh3dg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "音楽生成AI「Suno」、米著作権管理団体にDSP再生データ提出要求 - 音楽業界総合情報サイト",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbWRnbXJ4MUpXcUdTQTRCc093M1FvZzYwQ2UwV1RWb21uS05SNURQek12UHkzV0Y4UFlBbmFiS1dBM0J3azdscEFTQmpkSlFyLWVxaQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rcFBBaGdvTTNVWFg0cW4tWk1SSDQ5TkoxaXJYVF9XdWZCdDNEOWpRWVRTRHoxanUzWUhPemxzTE9ZTS1ldUkzWnhDUlhSSUtxRElDU2JXS2dkZTVtQUNxUHlOc29PemlRZUI3ZHRCd2NTbFRkV2lTLUExUHnSAYIBQVVfeXFMTnc3Sno2MUNXQXpEMFVtczkzRUcyY1FNUjgybW4xTExIQjBTdGQ4cGNUQkUzc3ZrQmc2cVp3Mmx3cERWdmZjOGxqR0FoTHN4M05MR3pXNXMta3hhN1Ztc2hWRVd4WTUtZ0J1NDlSdE42ellKTERPQjJJMXBPVnZVSGFldw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "クラウドだけでAI活用は語れない、「ローカルAI」が変える製造業のAI活用 - MONOist",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeUdhRWhRcUNzbDBPcFZiM2g5MTE3YjRLY1NhOVZiMkY5aWlXa3QxczV0OVh4OFJhVHlBV0dDa3gxSWE1VkVSMVFwSTFXaFpHYUY2LTA2M3hTVU9yX09OTzRFUG9IZ0NBZUpCWkxJdw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "【生成AIで“中計策定”が変わる】生産性と付加価値を高める実務セミナーを12月15日に開催(2026年10月30日10時0分) - 大分合同新聞",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yRHpGSTNpekZ6RTJEZEFDRkQ4R3Jqbm5VSVAzc3FCdHZ6QUZXMmtPZ2FKWGEtUVQzTy1aNnBtVVRvQ1VkSF8teUpjcVc5ZmhDSFRsdTdoTzJ2VnFyR1BHNG1HODBJcWNMa25OUml3?oc=5",
+   "title": "音楽生成AI「Suno」、米著作権管理団体にDSP再生データ提出要求 - 音楽業界総合情報サイト",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbWRnbXJ4MUpXcUdTQTRCc093M1FvZzYwQ2UwV1RWb21uS05SNURQek12UHkzV0Y4UFlBbmFiS1dBM0J3azdscEFTQmpkSlFyLWVxaQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "クラウドだけでAI活用は語れない、「ローカルAI」が変える製造業のAI活用 - MONOist",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeUdhRWhRcUNzbDBPcFZiM2g5MTE3YjRLY1NhOVZiMkY5aWlXa3QxczV0OVh4OFJhVHlBV0dDa3gxSWE1VkVSMVFwSTFXaFpHYUY2LTA2M3hTVU9yX09OTzRFUG9IZ0NBZUpCWkxJdw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "【西田宗千佳のRandomTracking】Alexa+日本上陸。「生成AIベース」で変わることを責任者に直撃 - AV Watch",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JbUVYdHk5RENveS04SHlRdmlfS3kzLXhlV3ExcExrTFhpZ2NOalJ5UXEzdHg3dUwxSzVoUDFETGYzRC1ObkZPOG5pZUxkM0FxMXFSV3VGT3Z6RzhaR0Z2eEowM0dGclIwQVE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xelhrRTJsMU1vUDNwUmg0ZkowZFJmVU9mamZIdDNUUDVFNEFBU3ViS3lacjQyX3ZFcVV2VWhvTTE1amtPRnZlZG9yOFY2c29QS3c?oc=5",
    "publisher": "news.google.com"
   }
  ]
