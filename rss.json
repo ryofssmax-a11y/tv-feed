@@ -1,8 +1,23 @@
 {
  "date": "2026-10-30",
- "updatedAt": "2026-10-30T05:03:25+09:00",
+ "updatedAt": "2026-10-30T09:04:48+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
@@ -39,43 +54,28 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NnlxZklDd21sSVBBcmpFWG1HXzJmSEFkY1BiV09uSHVhQ2xCSkFQR0h2Z2U2ZkY2NndEaFZ6YXAtWVNDdjhzdUZKMjAyVXNMSDlPOEpoUWxtSXdaNlY1SnBKMWdzUWR3SUlmXw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "店頭販促物の「生成AI」利用、好印象が悪印象を上回る 20代では約7割が「印象が良くなった」と回答 - AMP[アンプ]",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90U1dwVXAtWDVRMDlhNWluX1pnX3ZTWmNkZXVIYzR0NS1lV0p0OUE4WGdMR29IZFU5VFZZU05td09IeFI0TFZsQnd2dlpXM1hWWVpaOWdfNi1HbjQ?oc=5",
+   "title": "最新生成 AI 活用事例 121 社を一挙公開！ AI エージェントの本格活用が広がる（2026 年 10 月更新） - Google Cloud",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTFJpcHdLZlkwMmVCeVJYR2ZkVW4tU1pnSjg4M2lreUdMREdTUGZPRFJ5TkhCdDJuRWxvek10RWloa29HNW8wZ3BiVUlocWFKeEpkZ3Q1ZzhrRk5YWURrQzVmLUJCOFdKTFJIMmF0N1ZXNlo3NmhIY1ZEMEUtcU5nR2otc3JlblZXdTA0cGhnQkhsY25OU3BiVzNRbEFsaFJHTHYxeUViMXBQWDNBT2hjR3VWWmJ5d1RHT2RKRE4xUC00MU9wX2Z3aXV3TXRfdER1?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kbzdxei0xaTJHVTVUWGRYQWUtVGNmQXVqdmhLZkZ1MUJrUVdPNHlFNElfeDRSYzZFQ1BuOTk3WFVMNWVodGUwNml0NGZhRkRZbnZFSFAxcjZ0aGNLUWg2LXNQXzVFVGtidkUydg?oc=5",
+   "title": "生成AI 業務活用広がる 茨城県内自治体、ノウハウ共有（茨城新聞クロスアイ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vTGtVdmZzbDVRaUl3c09TRGJ6bFdZS3VxcjhNMDJydGhyd05GVGxBTWh2ZFN6NTF3alN4SlNDeWhINEZ0OEEzRXRUREh2bldDOVdQdEZUWDJ4akRpWHhOc0RIWFJMdzdHU0d1RjV4MjFtbEdvemVWTXVOQjlRWEE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "無料（フリー）で、自由（フリー）に。動画生成AI「AIVideoFree」がリニューアル Veo・Kling・Seedanceなど全12モデルを無料クレジットで利用可能、透かしなし・商用利用可 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGRDJpNnFydDQwOEc4QnR1aG5lOWV4V0hJb3FCZFlMbTlxaFdST0dfS1RyTThrT2xsVkE3Z1Raa3R0NDJWb1FGTjlzaG1BT01fUXFMM09HNEJaSWtqX0ZfUWpnczkwNXRSY3c?oc=5",
+   "title": "メシウス、生成AIによる作成支援を搭載したJavaScript帳票ライブラリ「ActiveReportsJS V6.2J」を提供 - クラウド Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqRVNLRnRsZFMzbHJ2cm0tVkstbTAyaGo2Vmk1eks0MkpIQTF1M296bjQwS3YzLTNycXFJRjZBVk5ZMlhVYTRGQ0ljeTJkU3JtdUJzUjZrd3N5VnA4N1FlWFVzWlAtVUU?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcEFNRlAtVlQ5UEg4R2JDeFd0aFozZFE2M0RkSF9JbkdxZU9jd2x0d0pXdFYzYTZORU1IeHJ1Qklma1M2MnlPRmVrekRqSlBfbXdMNElPUTcwUnFkc21EWm96R3NhLXdOSXh3dg?oc=5",
+   "title": "ゲーム制作にかかる時間は30分で模倣作も次々登場、生成AIが変える開発現場と「アイデアを先に出したら負ける」時代 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80bWtOcThBX1QtVDJpZ2JYQ3NWREluSHV6RFppdVdZN3BYWHFDMmVlVDlwSWhpeFA5c2VISVRSbnJxS1AzQ1h3d1lBWFdnbHVtY0M3eFVIdEJJQU5iakxPS2JmOGRiQWRuUW1jYU5lYi0xVmRydS1SWVg4RGo0ZHM?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始 - About Amazon Japan",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
+   "title": "プレスリリース：Uravation、生成AIパスポートの無料問題集を新シラバス対応の300問に拡充。2027年2月試験から「AIエージェント」が独立した章になる5章に沿い、本番形式60問や章別で解けて全問に解説つき（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RcDRwNmJWd2Y1cGVoZEZCam5tUVJ6ZENRMGI0azFFYXRCMl9zQnBVcFZQdU1pYzVQN2c2X0JYOE0yNDdlc21JcFhkRmFxdnNJUUZSSFc3RGRSVHFoOWppenhaa3ZJVTVM?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "アレクサが生成AIで刷新 アマゾン、より自然に会話（共同通信） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZXVOQzlXSXRYdWtZd0ZOeHN6a0xJY1FFSG5MNjdpSVVaS3ByNXo2VmRNVERHWDFXYUFVcHN3RDk5akpvU3M4dXo3UGVjN3ZNRzhLQkU0UG9PTVctSTNyWjJDd3FYZDVlNHlHNHQyYnBiQUZRUzRiekZIZEw4QTg?oc=5",
+   "title": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」（FNNプライムオンライン） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbHQzZFcydUQ0NlIzUWYwRjl6QTFfbkhyTTV0bUhOVnpFODZpM3BTaWRqaFg4Yk5xakVrRHRWOUpmRzJDUHo2R0VwZi1Xd2kwaFpOWlB4ZWx0Sk1oWVJ6VHVOZm9jSU9IdWhJZw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DZ25hbUV4TDRLVVFVU1BBZXllVjR3SWVOU0hxZjhZSEdJRzgyVTBRWFdrUEE3ejFxV3Z5alNWOWdBckFkMGFYV3M1VjlXbXhmVUNJQWNWNWZacWtGVmV0VmtyY2ZLek5wTzhBNmNNeE1JSzVJbTFlOGI0eFFjaDA?oc=5",
+   "title": "生成AIの学習データについて、グーグルなど5社が日本政府に回答しました - やさしい朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91MDd5TlZzTHRZTTM5akJySEgwN2F0THZzTm1tZGhfSGNEb3BPMDB4WE5sQUNVRkRIQzRHZ0ZyZE90TFhqZ0gtUUNGeWlFYlE2MW5ZSnBlTGNmNWVKT1U0NmY4UFFQeU0?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "視覚障害者が生成AIでポーカー オープンAI「人工知能を全ての方へ」 - 千葉テレビ放送株式会社",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zSTBIUk1EYTRWTDNXMU9WMmRWUVBxcUc3blZ4UjEyR0VNTFQ1S2RIVTEwYlpUTGhaazNITmhfSU1mbWdsMTc4ZVc5Z3kxUERhM0JYSEdON1BVdExTWXh3?oc=5",
+   "title": "新潟日報生成AI研究所、生成AI活用研修メニューを刷新 - 新潟日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ibUxBMXRFb1A2d0pVajNDa2JYVDNxelRmQm94WDVpbU9XaXVfWkRmVGU0QTNPZjNsQTZ1YXRzSjB3QXJaYTdid1l3ajZoMnlUSzA0dUppX2hFX0ozd3c?oc=5",
    "publisher": "news.google.com"
   }
  ]
