@@ -1,49 +1,49 @@
 {
  "date": "2026-10-30",
- "updatedAt": "2026-10-30T07:46:01+09:00",
+ "updatedAt": "2026-10-30T18:15:43+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、社内のAIの「ずれた行動」を見張る多層の監視の仕組みを公開",
-   "summary": "学習中・評価中・社内利用まで監視を広げ、9月には外部ネット接続の試みを15分で検知。",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "publisher": "OpenAI"
+   "title": "Cursorの拡張ストアに改ざん版「Claude Code」が約11時間公開、最大5000人に影響",
+   "summary": "SSHバックドア入りの2.1.313版。10/29に入れた人は確認を",
+   "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+   "publisher": "Cursor"
   },
   {
-   "title": "Mistralが1兆パラメータの「Mistral Large 4」の重みを公開",
-   "summary": "商用利用可のオープンウェイト。100万トークン対応、コーディングとサイバー防御が強み。",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "publisher": "Mistral"
+   "title": "中国系ハッカー集団、DeepSeekで動くAIエージェントで11日間に200超の組織を攻撃",
+   "summary": "AIで攻撃規模が一気に拡大した実例",
+   "url": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+   "publisher": "CrowdStrike"
   },
   {
-   "title": "OpenAI、AIの振る舞いの指針「Model Spec」を5つの価値で組み直し",
-   "summary": "「指示どおり」より「意図どおり」を重視し、細かな文体ルールは大半を廃止。",
-   "url": "https://openai.com/index/updated-model-spec",
-   "publisher": "OpenAI"
+   "title": "Amazon決算、AWSは39%増の460億ドル。AI投資で現金収支は大幅赤字",
+   "summary": "直近1年で424億ドルの流出、投資はさらに拡大へ",
+   "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+   "publisher": "Amazon"
   },
   {
-   "title": "Anthropic、Claudeが自分の会話の安全性を自己チェックする仕組みを公表",
-   "summary": "危ない会話の78%（高優先は94%）を拾い、計算コスト増は2%未満。",
-   "url": "https://safeguards.anthropic.com/2026/self-assessment/",
-   "publisher": "Anthropic"
+   "title": "カナダ政府、AI企業Cohereに最大16億カナダドルを出資",
+   "summary": "米中以外で自国のAIを持つ動きの象徴",
+   "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
+   "publisher": "カナダ首相府"
   },
   {
-   "title": "Geminiアプリで文書・PDF・スライド・表を作ってそのまま編集できるように",
-   "summary": "チャット内でファイルを作り、全画面で直接手直しや部分修正ができる。",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
-   "publisher": "Google"
+   "title": "デジタル庁、政府職員18万人に国会答弁づくりを手伝うAIを試験提供",
+   "summary": "源内に追加、2027年1月の通常国会で本格運用へ",
+   "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03450/",
+   "publisher": "日経クロステック"
   },
   {
-   "title": "NVIDIA、40言語の文字起こし・翻訳・話者区別ができる無料モデル「Nemotron 3.5 Transcribe」",
-   "summary": "GPU1枚で動くオープンウェイトの音声モデル。議事録づくりを社内で完結しやすく。",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-   "publisher": "Hugging Face／NVIDIA"
+   "title": "SB Intuitions、国産LLM「Sarashina」初の思考モデルをAPI公開",
+   "summary": "考える深さを3段階で選べる国産モデル",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+   "publisher": "ITmedia AI＋"
   },
   {
-   "title": "リコー、KDDIの堺データセンターで国内完結の生成AI基盤の検証を開始",
-   "summary": "自社でGPUを持たずに機密データを国内で扱えるかを確かめる。",
-   "url": "https://news.yahoo.co.jp/articles/945532b97edd4a643050b55bd79d8a4041ee1474",
-   "publisher": "ビジネス＋IT"
+   "title": "GitHub、複数のAIが複数リポジトリをまたいで作業する「Copilot Projects」",
+   "summary": "目標を伝えるとエージェントがPRを返す",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases/",
+   "publisher": "GitHub"
   }
  ]
 }
