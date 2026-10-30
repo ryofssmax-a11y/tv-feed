@@ -1,8 +1,23 @@
 {
  "date": "2026-10-30",
- "updatedAt": "2026-10-30T15:11:30+09:00",
+ "updatedAt": "2026-10-30T22:18:10+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
    "url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
@@ -39,19 +54,9 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
@@ -59,48 +64,43 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応 - 窓の杜",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMjdxT1l6ek05dnhucEZQX01kN2RScDVwaUVmdkh4V1dveU45cU5nc2Q0aUdPMk81UGI5ZTJ6T0JnSk9NVkN3cEJHbXFWTzZaNVBRX00yak4xWlUyRmtIdWV4UTlXY1ls?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "ゲーム制作にかかる時間は30分で模倣作も次々登場､生成AIが変える開発現場と｢アイデアを先に出したら負ける｣時代 - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SUYzWUZwLUJLT2thbUstR3UxYnpnT1hnR1ZoVGhpUm93bG5lR05MX01MWkFEdW8xRmFTZkpmbk94bVlHRXFmRmRQMUJOb0FWcU96di1udExqS0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cGp0SGhsS2VpOXZTY253SUhJWmxqclZsc21KQWljdl8tZF9XVnQ4SlViMENXTnhWSHUydjBVcm1tZ2pvWERpQ3RXMmlzckNDU3o0d0ZwdkNuZjA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ＪＲ西日本が生成ＡＩの画像解析システムを開発、線路の安全から食品工場の検品まで幅広く活用…３年間で３００社への導入目指す（読売新聞オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMXBmbm5CRlppSFQ4RGF3dnJIZkFVVzRhUkdva3BHWEp6VDI4U21uVzJoaFlxT0prNU56WWF1RTRvWk1aaE1aZnNRZGpLZGpEY1FwYlhTQm5jQlVPSVZPYW5hNGM0RXd6amdZcTNtM0FqcThfdWprTlBQN1c0Qk0?oc=5",
+   "title": "厚生労働省、情報公開の事務にRAG型生成AIを導入、紙の申請書はAI-OCRでテキスト化 - IT Leaders",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbWFaWm9YNDhrZW1ydEZzZFBkLTB6RFJtZjE0Wk5mcVpHRURSTUNmc2hIMURoNVltZEN4T094X090RVpRY3I1aVFvNjNEZld2X2sw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選 - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kbzdxei0xaTJHVTVUWGRYQWUtVGNmQXVqdmhLZkZ1MUJrUVdPNHlFNElfeDRSYzZFQ1BuOTk3WFVMNWVodGUwNml0NGZhRkRZbnZFSFAxcjZ0aGNLUWg2LXNQXzVFVGtidkUydg?oc=5",
+   "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcEFNRlAtVlQ5UEg4R2JDeFd0aFozZFE2M0RkSF9JbkdxZU9jd2x0d0pXdFYzYTZORU1IeHJ1Qklma1M2MnlPRmVrekRqSlBfbXdMNElPUTcwUnFkc21EWm96R3NhLXdOSXh3dg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料 - AV Watch",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPLU85YjQ1Y3Z4SzZZU0p3Z0N2Q1BJQkRQTzNKUlY0NGdrVVA0d25yNHVJX3FfY3hlQ1llTmlUd0tEeW5GelYxRExqUW1Ib1YxMWpsTloxbVhLTUl6R2NORnlvOA?oc=5",
+   "title": "音楽生成AI「Suno」、米著作権管理団体にDSP再生データ提出要求 - 音楽業界総合情報サイト",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbWRnbXJ4MUpXcUdTQTRCc093M1FvZzYwQ2UwV1RWb21uS05SNURQek12UHkzV0Y4UFlBbmFiS1dBM0J3azdscEFTQmpkSlFyLWVxaQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIベースの「Alexa+」日本上陸、月額3000円もAmazonプライム会員は無料 何ができる？ - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kZnMxYU1MWmY1bDdUTHAyWmw1UE9EbWNFLWtGYkktX3B0RGpsS2JKSEY3Rkp0S1NmaFVlcXVveFYySURadVVGd0V2S3ZwdUc0c0JpTzlFaHAxenI2TjVWN19vN0RuOXJmZ2JqUzNCa0cyQXdndmlEd05iMEt3N1E?oc=5",
+   "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rcFBBaGdvTTNVWFg0cW4tWk1SSDQ5TkoxaXJYVF9XdWZCdDNEOWpRWVRTRHoxanUzWUhPemxzTE9ZTS1ldUkzWnhDUlhSSUtxRElDU2JXS2dkZTVtQUNxUHlOc29PemlRZUI3ZHRCd2NTbFRkV2lTLUExUHnSAYIBQVVfeXFMTnc3Sno2MUNXQXpEMFVtczkzRUcyY1FNUjgybW4xTExIQjBTdGQ4cGNUQkUzc3ZrQmc2cVp3Mmx3cERWdmZjOGxqR0FoTHN4M05MR3pXNXMta3hhN1Ztc2hWRVd4WTUtZ0J1NDlSdE42ellKTERPQjJJMXBPVnZVSGFldw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazon、生成AI搭載のアレクサを日本で開始 飲食店予約可能に - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YdEo3MHU0dm1pbDlCX0JmZzMzVVF4MDBBUGJpQUpsMTdmV3FxQzFSYUpzUFpPa053WC1Kd0FTaEdFNXlwRGVPcGlsQVJ1M3Q2eGI1N3U2UWJvdEdRanV0ZWJUTGhnWVR5X2Zhdw?oc=5",
+   "title": "クラウドだけでAI活用は語れない、「ローカルAI」が変える製造業のAI活用 - MONOist",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TeUdhRWhRcUNzbDBPcFZiM2g5MTE3YjRLY1NhOVZiMkY5aWlXa3QxczV0OVh4OFJhVHlBV0dDa3gxSWE1VkVSMVFwSTFXaFpHYUY2LTA2M3hTVU9yX09OTzRFUG9IZ0NBZUpCWkxJdw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：Uravation、生成AIパスポートの無料問題集を新シラバス対応の300問に拡充。2027年2月試験から「AIエージェント」が独立した章になる5章に沿い、本番形式60問や章別で解けて全問に解説つき（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RcDRwNmJWd2Y1cGVoZEZCam5tUVJ6ZENRMGI0azFFYXRCMl9zQnBVcFZQdU1pYzVQN2c2X0JYOE0yNDdlc21JcFhkRmFxdnNJUUZSSFc3RGRSVHFoOWppenhaa3ZJVTVM?oc=5",
+   "title": "国会答弁の作成を支援する生成AIアプリの画面（デジタル庁提供） - 国会答弁の作成支援するAI導入 政府職員の負担軽減、デジタル庁 - 写真・画像(1/1) - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zc19BOVpVd1U2MEVka0Y3eWVMMC1KRzE0NkxodFVDVTNCaG9tRC1FTXNNa0NibnVhTnZHeC1tZGNsU1hjVWN5ZTF2d0x6RkxyRW5xMUtJSQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ディズニーは「夢のつくり方」をどう変えるのか 生成AIで進化する体験づくりと事業戦略 - JBpress",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTXlicDNHek5vT3lyeFdiSGNadjVmRGJaM2g2Q2hrQ3ByejNzNXpsY3BUclRxSHo0aUZkWERsQ0FIZlNZWnAySzk5WXVVc1pzcU5fRjdB?oc=5",
+   "title": "【生成AIで“中計策定”が変わる】生産性と付加価値を高める実務セミナーを12月15日に開催(2026年10月30日10時0分) - 大分合同新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yRHpGSTNpekZ6RTJEZEFDRkQ4R3Jqbm5VSVAzc3FCdHZ6QUZXMmtPZ2FKWGEtUVQzTy1aNnBtVVRvQ1VkSF8teUpjcVc5ZmhDSFRsdTdoTzJ2VnFyR1BHNG1HODBJcWNMa25OUml3?oc=5",
    "publisher": "news.google.com"
   }
  ]
