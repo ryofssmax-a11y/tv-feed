@@ -1,8 +1,13 @@
 {
  "date": "2026-10-31",
- "updatedAt": "2026-10-31T07:46:24+09:00",
+ "updatedAt": "2026-10-31T10:59:25+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
@@ -49,18 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIに入れちゃダメな情報、わかってますか？ 不正アクセスだけじゃない情報漏洩の原因 - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QjVjN1ZvS1ZsRVN4UllydUhlYUVVc2NPSHc5Y2tiZmhYalAzMzZhYkFEdmZoM0NjTWVibzdZZElxSnNQU3NjQTJ0UGI5c2RldXJUNA?oc=5",
+   "title": "生成AIは買い物の「ドラえもん」に？「相談相手」から「買い物の代理人」へ - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xVXNacHhUb1p3N3JpLVRGZlRuRElUZ0pzNXUyOWN0QVZYV3BkZmU3RzVCSEZyWEVGRE5QZm1FMVRFM1N1Zzd2RlI1dmtHS0lfWTJkTG1xd2RMdXhDVkRQLU1IWUZqMEtWcGxsNFdFSWFZQi1r?oc=5",
    "publisher": "news.google.com"
   },
   {
