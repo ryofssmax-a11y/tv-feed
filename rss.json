@@ -1,8 +1,13 @@
 {
  "date": "2026-11-01",
- "updatedAt": "2026-11-01T07:41:11+09:00",
+ "updatedAt": "2026-11-01T10:50:28+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+   "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
@@ -49,18 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUldidHlMZUllLXhxaWdZZXRJelVpRGJwOFVrUEEwZC03eVM1a2FheVhJS1V0M2xabVRVYVB6QnkyS3pPNk9jcDVzT2M0N2lVbkJaTGVkT1RfeFBYOS0teEVGRC1vcFNOaktxN053czNHVUJSY2FFbjJTNUxERW8?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnlpck52RmFVSExIdFRKQjZJbzZKSjl2Mjc0aHFuM3B5RzlJdUNBYm5ubHJGcURjMmE0ZjNDQnpQa191NlQxbmcxWGp0WGpCQk8wZlAtVkJXYWU5UTZJcFZ4Q1FKY1hGWF9Hd1ZOYWZlQXhmTHcydW1mQ2JZYkRUQzZUXzZ2bTZo?oc=5",
+   "title": "JSTQB（ソフトウェアテスト技術者資格認定組織）、Specialist シラバス 生成 AI を使用したテスト（CT-GenAI）Version 1.0 J01を公開 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SOVYzaVR3YkdNcm1iOHBaX0UxYndYamNmV1o5QVJNbnhyY2E4TU5yWUQzX2xjOUxjMWxiM3ZJS3JURzdENWRxYzRtWV9CR3VPZ2pkQUVTclJQbzJUQmk0dVF2bEdrbWU3bVE?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,8 +69,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "グーグルのAI半導体、宇宙での動作を確認 「俳句」を生成したと発表 - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56VXhQQVRLRHBYcWlVOG9FZHo2eGRjX19sWlBtd29Qei1FWVFoaEVTYkVJTHpJQTJ6RFp5cXA2UDVfSWpIY3lva2laenBiY0Vqc2c?oc=5",
+   "title": "ゲーム制作にかかる時間は30分で模倣作も次々登場､生成AIが変える開発現場と｢アイデアを先に出したら負ける｣時代 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SUYzWUZwLUJLT2thbUstR3UxYnpnT1hnR1ZoVGhpUm93bG5lR05MX01MWkFEdW8xRmFTZkpmbk94bVlHRXFmRmRQMUJOb0FWcU96di1udExqS0E?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +89,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始 - About Amazon Japan",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
+   "title": "定期観光バスで“多言語”観光案内　生成AI使った「音声ガイド」を開発　北海道中央バスとTISI - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNzRjejYxZWxkdmVleEQzQk1Xc1JGbS1IaVBYdWptekFRWEhqRTRjRDhwNHNmQjhDcFVFNEwwYUlXRkppVWJvSmNjbVNjYlBtSG9WTjZUUnE0enUwTHBXMDV0VWliMFBqak1KYtIBckFVX3lxTFBkZ3BaY21XejJTMzFIVW14d0ZubFFsTTc2Q0xPbHUxZkQ2bEkxM2tHM1hCOVRDa2cteVdrbGoxeGFJb28zek4xVWd4REx0MjI3WTlKUUpoRU44TG1wV0c3MjJsT3VmOWtCRExuWTlNN0Rvdw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI搭載「Alexa+」のために開発 Echo TimeやEcho DotでQOLアップ - イザ！",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS25WTEVXVTNjdGE5VlE2MjFNelVVN0FkTG8yLVkyNnVyRE50cFhDYXU0aDd2SDBOTHpZNGs4LTRkMjZBOXhzQkVVMmFxYURHSGRqYmxVVTlzUFFsT1dTZmhNSVN6bEtmRDhObUJFUHkySDk3ZjFQVEUtakxaZDB5QTVlUEUyU1pfT0JMc1d5NW5nU1lNR1E?oc=5",
+   "title": "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料 - AV Watch",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPLU85YjQ1Y3Z4SzZZU0p3Z0N2Q1BJQkRQTzNKUlY0NGdrVVA0d25yNHVJX3FfY3hlQ1llTmlUd0tEeW5GelYxRExqUW1Ib1YxMWpsTloxbVhLTUl6R2NORnlvOA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI搭載「Alexa+」が日本上陸。プライム会員は追加料金なし、PCブラウザにも対応 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90UlNHdkZuSjdTM0hfSHcxSjFQWjZBbnpTWFo3VkhFa3F1NlJtWVRRcU4wQlo3MUNNUEJMdG1jZ19xakZTUWNReEYxcExRTmpJOUFKX0lJUG1xdmlCQno5TFlxck56YWZIdE5iemJpcFpMUG_SAXhBVV95cUxOaDNnNTRkT1VvekwydWdyXzV0WHpzdG1kR2lFM1dyeVhBSmZRb01HQ0tvVm5NVUNBdXhfVjJZbWhmTmFhQVQyZzVLQU1KS0JBRDlmczg4MmN2clE2UDFQd1VMd2kyUnZmLVZJWUEtUlhTczhNOFNqRVE?oc=5",
+   "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ - Game*Spark",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY0MxZ3I0UWdscmFwMl9nS2lIcC1ETXh5Y3hvcXN1WWpad1RBc3BPT0F5ZmJkVmYtWlBTTHlIR2ZXcXdacjJNaGJkZzBkUEFzU19LQWxrOHFmYTdva0YxaEJpQU5wUQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
