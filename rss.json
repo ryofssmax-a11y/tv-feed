@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T00:44:06+09:00",
+ "updatedAt": "2026-11-02T05:08:38+09:00",
  "source": "rss",
  "items": [
   {
@@ -64,13 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "考える力 生成ＡＩで強化 新しい学び提示 高校生向け講座好評 - 静岡新聞DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUlhXNERXMWIzbzUwZ0lSX29EaFBGeHJTMDV2Z2RWQzVmWHZQcGlJZl96NTZEWmJkOE5JUmdMUFBWNnNKM3lJQXBrWE56dw?oc=5",
+   "title": "オンデバイスAIと親和性が高い「SLM」、LLMより小規模で効率的な言語モデル - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXJfa04zX0hLU2F5dHl4SG9vYS1iYUZqRG5UQXBHSndiR2VEZ1NQdlJfc3dqeFUyQS1oRjJMQ0gxc0JRLUxPT0ZvRHd4MDlDVEpJR242UUZHZEVoNlk1QVdtb1lmZWlGSGswMHFXNHlqeXJnTHVlbjlsT3lfVUctSnl3?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIは買い物の「ドラえもん」に？「相談相手」から「買い物の代理人」へ - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xVXNacHhUb1p3N3JpLVRGZlRuRElUZ0pzNXUyOWN0QVZYV3BkZmU3RzVCSEZyWEVGRE5QZm1FMVRFM1N1Zzd2RlI1dmtHS0lfWTJkTG1xd2RMdXhDVkRQLU1IWUZqMEtWcGxsNFdFSWFZQi1r?oc=5",
+   "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？ - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rSF9qb1d4LURtb1BfVXNrZEZCSUhDcHI5YmFucGxlaHZqZEFhNzA4OUdrOXpQNy1UeWM5a0NFc0FxQXVlSVZhakVZUjdaSEVCYlk1aS1zQmx0eEVnUl9SU0Y5NUlDNUk?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "考える力 生成ＡＩで強化 新しい学び提示 高校生向け講座好評 - 静岡新聞DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUlhXNERXMWIzbzUwZ0lSX29EaFBGeHJTMDV2Z2RWQzVmWHZQcGlJZl96NTZEWmJkOE5JUmdMUFBWNnNKM3lJQXBrWE56dw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,28 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代、料理の専門家に求められる「本物を、自分で伝える力」 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UGJuOEQ4N21xS3B6ckg4dm1yZjJJM1lFN1hJV25VQjR1VS1mTFhSeXhuZi1XQ1FZcHRfeUxzZy1NZXNtVERrajI1Tm9jbTRIX0VHdmtMdHRjQ1FnU3FXNUhPSXQxUjFYeVE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "DREAM BABY DREAMが語る、“生成AIでしか作れないMV”に全振りする理由　 - リアルサウンド",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQndqZU1CdVo3XzdtbnBLOVBLbjdtRjNaaE5uYmNnbGY3N25xWFdkSzdibGRleldSdThHbjZZWUIyUVJvNTFlQjRHZ0tnMFNJbDBQVFB0Y2FmeW9Wbk9CT9IBZkFVX3lxTFA2c3R5RmY1T3dPdFlGd0xadDNvektoV1hQRkthYm9MTmZjdUc3dVpwTk1Tekk1bFlOZTVKYzY2c1h5LTNNTVBXVzM3ZkwzQXZzdkt5emFDbmZuZmtINGJueExsWk1oQQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "定期観光バスで“多言語”観光案内　生成AI使った「音声ガイド」を開発　北海道中央バスとTISI - Infoseek",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNzRjejYxZWxkdmVleEQzQk1Xc1JGbS1IaVBYdWptekFRWEhqRTRjRDhwNHNmQjhDcFVFNEwwYUlXRkppVWJvSmNjbVNjYlBtSG9WTjZUUnE0enUwTHBXMDV0VWliMFBqak1KYtIBckFVX3lxTFBkZ3BaY21XejJTMzFIVW14d0ZubFFsTTc2Q0xPbHUxZkQ2bEkxM2tHM1hCOVRDa2cteVdrbGoxeGFJb28zek4xVWd4REx0MjI3WTlKUUpoRU44TG1wV0c3MjJsT3VmOWtCRExuWTlNN0Rvdw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcEFNRlAtVlQ5UEg4R2JDeFd0aFozZFE2M0RkSF9JbkdxZU9jd2x0d0pXdFYzYTZORU1IeHJ1Qklma1M2MnlPRmVrekRqSlBfbXdMNElPUTcwUnFkc21EWm96R3NhLXdOSXh3dg?oc=5",
+   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mdWpiUEhyT3ZpOU9oSTZBRWpoQi1ldkJlNzJyV0ptTjMzVzRVNTUyei1NUXg4bTBQcnNlRE5pWTlrbXNRUk5panJhdm4xOUZuZVlOX1VXS1dGaENiRU1oZktQSmZIN2IyQXA3djVLZUdKazg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始 - Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1dnhVb3MxNXNDNW9vSEZFNHBhR3NhR2wxdzJoOVdITDlNcDQwdnR4aVNLV25QaFdPYldqeGNJZmtVcnowS0ZhNm55RlZPWHJJYzVyTlN0U1pudG1vbXVhUzdVLThodkRjS3FSdnF6ZFVqVm8?oc=5",
+   "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ - Game*Spark",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY0MxZ3I0UWdscmFwMl9nS2lIcC1ETXh5Y3hvcXN1WWpad1RBc3BPT0F5ZmJkVmYtWlBTTHlIR2ZXcXdacjJNaGJkZzBkUEFzU19LQWxrOHFmYTdva0YxaEJpQU5wUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "中小事業者100社を対象に独自調査｜生成AIの回答に名前が挙がったのは6社、根拠として参照された公式ホームページは0.7% - valuepress",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PX3FtM1oyd1l3eXdtRkpqRGswQm9vdl9GVVFDU3JudTFnM21XTTRDaVFld21MMWZNTDJWQUNmUWRxYzVDOXNTcHA2VmFLZDhfd3haYVZBeWR0YTg?oc=5",
    "publisher": "news.google.com"
   }
  ]
