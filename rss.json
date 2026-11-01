@@ -1,8 +1,33 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T05:08:38+09:00",
+ "updatedAt": "2026-11-02T08:44:35+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+   "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
    "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
@@ -29,33 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
-   "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -64,8 +69,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "オンデバイスAIと親和性が高い「SLM」、LLMより小規模で効率的な言語モデル - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXJfa04zX0hLU2F5dHl4SG9vYS1iYUZqRG5UQXBHSndiR2VEZ1NQdlJfc3dqeFUyQS1oRjJMQ0gxc0JRLUxPT0ZvRHd4MDlDVEpJR242UUZHZEVoNlk1QVdtb1lmZWlGSGswMHFXNHlqeXJnTHVlbjlsT3lfVUctSnl3?oc=5",
+   "title": "JPX、取引システムでの監視アラートの対処に生成AI技術を本格適用 - デジタルクロス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdTBOSG1qOGlVTnhaVkg5T01GcUxrUUs4WXZIaWYxLWo2MVFTbEtQaDlXakh5YjB5cVhxX05oMUIta1VnWmM1VXdVYXpFYy1nODBiY29nMkN4RWlvZDM2eDBCRQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "日本企業の58％が「生成AIで成果創出」段階に デル調査で着実な移行明らかに - キーマンズネット",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45d1p6M2d2aTJwVEY2SlpSWFhFZ091ZGtWVUMtSC1hS3dqZC1mNHR1WjhRb0NodEpsWmZNQ0pBZDhKR1VlSzdId1lCcU81bFF0SnlDemRzcE5kUEdOaF9hREdrUll2dw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "Amazonが生成AI搭載の「Alexa+」を日本で提供開始、月額3000円でプライム会員は追加料金なし - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTU1WQ0t2ZU1fcnJ5eUxKUV93SEpWNkJsOE1rRGFZZzFZbFJfVnRuSXdKTDRyRmhlWEFaYTMwbV9odDNCb2pCaWdYOGVFczk4ZW12bzlfWG5icXNDZUM4WTZZXy1zY3lXVUpwTG5UVEJxSDJnRXlBTTRBUUlRem9FSGk4TTFmX3k0ZFpXb0RQamJDSHN3cEkyYnpDLXNQM25KdmFfeG02c0tTSVA4MVVDbVhMZnpVWk9rOGxoX1dmUnFpT2pJTHhPb2o2S2FaNHNHNFlmOWJqNDJ3OUtlYnQtOE95a25hYmxBX09MSXJ3N2dETmk1X2licVUzRmhCQ3FR0gGwAUFVX3lxTE1Cd2xCY1JLQ2FVSkJVZUhMWUMybmRwVFA1VVdIR29WVjlOaW5TUlRPVVd4SThrY2JVLW5rYjI2VnY0a1F0Y1MzeTVub1M4aC1PcmJoU25fbUUteDloMFJpWUxPMjYwLW5ueVMycVhQM2I1RHBzYlRyc2o1Wm1wZUtBUm1aOE1wVmVObGNVeDB2SDUtc0tlSkVXY0RkNUNCZmxoS0JTSF84aGR1cTBuRG1n?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -81,26 +101,6 @@
   {
    "title": "米中間選挙、生成AI広告に巨額投入 敵対陣営のディープフェイク作成…対話型AI活用も - 産経ニュース",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54STZzMWdZYlRkbnE2QnNaYVJZd1NIQ0FOSVo3NF9VM2NCeXpNTjA0eGY0aDVMbEtaSDZzVm5KNXVockFWc1N0SnlJR1dUOTBDZ0tYVGtRLWpBUGtwSVRfaGJGcDBEQnFBd2wydlAxMHY4anNjSnc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "定期観光バスで“多言語”観光案内　生成AI使った「音声ガイド」を開発　北海道中央バスとTISI - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNzRjejYxZWxkdmVleEQzQk1Xc1JGbS1IaVBYdWptekFRWEhqRTRjRDhwNHNmQjhDcFVFNEwwYUlXRkppVWJvSmNjbVNjYlBtSG9WTjZUUnE0enUwTHBXMDV0VWliMFBqak1KYtIBckFVX3lxTFBkZ3BaY21XejJTMzFIVW14d0ZubFFsTTc2Q0xPbHUxZkQ2bEkxM2tHM1hCOVRDa2cteVdrbGoxeGFJb28zek4xVWd4REx0MjI3WTlKUUpoRU44TG1wV0c3MjJsT3VmOWtCRExuWTlNN0Rvdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始 - Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mdWpiUEhyT3ZpOU9oSTZBRWpoQi1ldkJlNzJyV0ptTjMzVzRVNTUyei1NUXg4bTBQcnNlRE5pWTlrbXNRUk5panJhdm4xOUZuZVlOX1VXS1dGaENiRU1oZktQSmZIN2IyQXA3djVLZUdKazg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ - Game*Spark",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY0MxZ3I0UWdscmFwMl9nS2lIcC1ETXh5Y3hvcXN1WWpad1RBc3BPT0F5ZmJkVmYtWlBTTHlIR2ZXcXdacjJNaGJkZzBkUEFzU19LQWxrOHFmYTdva0YxaEJpQU5wUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "中小事業者100社を対象に独自調査｜生成AIの回答に名前が挙がったのは6社、根拠として参照された公式ホームページは0.7% - valuepress",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PX3FtM1oyd1l3eXdtRkpqRGswQm9vdl9GVVFDU3JudTFnM21XTTRDaVFld21MMWZNTDJWQUNmUWRxYzVDOXNTcHA2VmFLZDhfd3haYVZBeWR0YTg?oc=5",
    "publisher": "news.google.com"
   }
  ]
