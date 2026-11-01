@@ -1,49 +1,49 @@
 {
- "date": "2026-10-30",
- "updatedAt": "2026-10-30T18:15:43+09:00",
+ "date": "2026-11-02",
+ "updatedAt": "2026-11-02T07:47:12+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Cursorの拡張ストアに改ざん版「Claude Code」が約11時間公開、最大5000人に影響",
-   "summary": "SSHバックドア入りの2.1.313版。10/29に入れた人は確認を",
-   "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-   "publisher": "Cursor"
+   "title": "AI学習を断る共通ルール、OpenAI・Google・Microsoft・Anthropicが対応へ",
+   "summary": "robots.txtに1行書けば参加各社にまとめて学習拒否を伝えられるように",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "publisher": "OpenAI"
   },
   {
-   "title": "中国系ハッカー集団、DeepSeekで動くAIエージェントで11日間に200超の組織を攻撃",
-   "summary": "AIで攻撃規模が一気に拡大した実例",
-   "url": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
-   "publisher": "CrowdStrike"
+   "title": "OpenAI、資金調達の目標を300億ドルから200億ドルに引き下げ（報道）",
+   "summary": "AI株の急落とAnthropic上場を前に投資家が慎重に",
+   "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
+   "publisher": "CNBC"
   },
   {
-   "title": "Amazon決算、AWSは39%増の460億ドル。AI投資で現金収支は大幅赤字",
-   "summary": "直近1年で424億ドルの流出、投資はさらに拡大へ",
-   "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
-   "publisher": "Amazon"
+   "title": "Claudeの「Max 20x」が「Ultra」に改名、5時間上限を撤廃",
+   "summary": "料金据え置き、本人確認済みのUltraは5時間ごとの上限なし",
+   "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+   "publisher": "Claude Help Center"
   },
   {
-   "title": "カナダ政府、AI企業Cohereに最大16億カナダドルを出資",
-   "summary": "米中以外で自国のAIを持つ動きの象徴",
-   "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
-   "publisher": "カナダ首相府"
+   "title": "DeepSeek、自律型コーディングAI「Super-agent」をオープンソース公開",
+   "summary": "チャットを見て指示なしで修正案を出す試作版、Claude Codeに対抗",
+   "url": "https://www.straitstimes.com/asia/east-asia/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+   "publisher": "The Straits Times"
   },
   {
-   "title": "デジタル庁、政府職員18万人に国会答弁づくりを手伝うAIを試験提供",
-   "summary": "源内に追加、2027年1月の通常国会で本格運用へ",
-   "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03450/",
-   "publisher": "日経クロステック"
+   "title": "OpenAI、企業向けデータ保護の仕組み「Private Intelligence」を発表",
+   "summary": "データ非保存や機密計算でAI利用時の情報を守る",
+   "url": "https://openai.com/business/private-intelligence/",
+   "publisher": "OpenAI"
   },
   {
-   "title": "SB Intuitions、国産LLM「Sarashina」初の思考モデルをAPI公開",
-   "summary": "考える深さを3段階で選べる国産モデル",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-   "publisher": "ITmedia AI＋"
+   "title": "Anthropic、数千のClaudeで安全チェックをすり抜ける学習データを自動探索",
+   "summary": "無害に見えてAIを悪く学習させるデータを発見、監視の強化に活用",
+   "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+   "publisher": "Anthropic"
   },
   {
-   "title": "GitHub、複数のAIが複数リポジトリをまたいで作業する「Copilot Projects」",
-   "summary": "目標を伝えるとエージェントがPRを返す",
-   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases/",
-   "publisher": "GitHub"
+   "title": "総務省、「AI事業者ガイドライン」の改定へ議論開始",
+   "summary": "AIエージェントとフィジカルAIに対応、2027年3月下旬メドに改定",
+   "url": "https://www.nikkei.com/article/DGXZQOUA3076W0Q6A031C2000000/",
+   "publisher": "日本経済新聞"
   }
  ]
 }
