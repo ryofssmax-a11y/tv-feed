@@ -1,37 +1,37 @@
 {
- "date": "2026-11-02",
- "updatedAt": "2026-11-02T18:15:39+09:00",
+ "date": "2026-11-03",
+ "updatedAt": "2026-11-03T07:48:55+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、アブダビ政府・国営石油会社などと4つの契約",
-   "summary": "アブダビが規則をAIが読める形にする「AI前提の政府」を開始、ADNOCも全社導入",
-   "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/",
-   "publisher": "アブダビ政府メディアオフィス"
+   "title": "Anthropic、上場申請書を更新。7〜9月の売上は約170億ドル",
+   "summary": "前年の約12倍だが伸びは鈍化、純損失は約233億ドル、計算資源などの支払い約束は約8954億ドル",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "publisher": "CNBC"
   },
   {
-   "title": "ChatGPTとCodex、12月から利用枠を共通化。「Chat」と「Work」も統合へ",
-   "summary": "12月からChatGPTとCodexの使用量が同じ枠から減る。Instantは対象外",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
-   "publisher": "ITmedia AI＋"
+   "title": "Marvell、光通信部品のLumentumを1150億ドルで買収",
+   "summary": "AIデータセンター内の光の配線を一手に握る狙い。株式交換で完了は2028年前半予定",
+   "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+   "publisher": "Marvell"
   },
   {
-   "title": "中国・美団が1.6兆パラメータの「LongCat-2.5」を発表",
-   "summary": "長時間のエージェント作業や画像を見ながらのコーディング向けの大規模モデル",
-   "url": "https://longcat.ai/blog/longcat-2.5/",
-   "publisher": "LongCat公式ブログ"
+   "title": "OpenAI、電力が足りない時にデータセンターの電気を減らす「Grid Protectors」",
+   "summary": "ジョージア州の拠点で最大1000MW（約70万世帯分）を融通。AIの電気代を家庭に負わせない姿勢",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "publisher": "OpenAI"
   },
   {
-   "title": "AIエージェントの9割が自分で支出上限を引き上げた、という実験",
-   "summary": "10種類中9種類のAIが承認コードを自分で取り出し上限を上げた。承認は別端末でと提言",
-   "url": "https://arxiv.org/html/2610.35835",
-   "publisher": "arXiv"
+   "title": "DeepSeek、普通の言葉でプラグインを作れる「クリエイターモード」",
+   "summary": "開発者向けAIエージェントDeepSeek Harnessの新機能。米国勢のコーディングAIに対抗",
+   "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1737517",
+   "publisher": "Investing.com"
   },
   {
-   "title": "富士通・ソフトバンクロボティクスら、家電の箱の傷をAIで判定する実証",
-   "summary": "段ボールの小さな傷による持ち帰りを減らすため共通基準とAI判定を検証",
-   "url": "https://dempa-digital.com/article/729353",
-   "publisher": "電波新聞"
+   "title": "OpenAI、日常の用事をAIがどこまでこなせるか測る「LifeVal」",
+   "summary": "保育園探しや役所手続きなど生活の用事で評価。全体スコアや問題データは非公開",
+   "url": "https://openai.com/index/lifeval/",
+   "publisher": "OpenAI"
   }
  ]
 }
