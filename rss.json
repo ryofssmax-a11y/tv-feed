@@ -1,8 +1,23 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T08:44:35+09:00",
+ "updatedAt": "2026-11-02T13:20:20+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "キオクシア、2桁成長に“急ブレーキ”？　Q3「売上収益1％増」、決算説明会で幹部らが語ったこと",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news048.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "建設現場の「古い図面」問題　紙とデジタルのズレが招く「手戻り」と「工事遅延」、日本HPはどう解消した？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news006.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
@@ -39,19 +54,9 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIエージェントは「実運用」が主流に　「明確な成果」を得る企業の共通点は？",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
@@ -59,13 +64,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
+   "title": "Steamで10月発売の新作ゲーム、「約半数が生成AI使用を開示していた」との調査報告。1年でほぼ倍増、ただし“使い道”は千差万別 - AUTOMATON",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndFdlUHdzdDczSnVUc2xCakpFVTdWV1VrMmdoTHgzTGJXQmNJUXlrRG84dUhpeTltazJ2RDV4U3dpRVI4bHZvVjBTWkYteUE2aXhibnZ5WENGV3pnbmJST0ZsRkp2bktRZUplbw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnlpck52RmFVSExIdFRKQjZJbzZKSjl2Mjc0aHFuM3B5RzlJdUNBYm5ubHJGcURjMmE0ZjNDQnpQa191NlQxbmcxWGp0WGpCQk8wZlAtVkJXYWU5UTZJcFZ4Q1FKY1hGWF9Hd1ZOYWZlQXhmTHcydW1mQ2JZYkRUQzZUXzZ2bTZo?oc=5",
+   "title": "AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,18 +79,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "日本企業の58％が「生成AIで成果創出」段階に デル調査で着実な移行明らかに - キーマンズネット",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45d1p6M2d2aTJwVEY2SlpSWFhFZ091ZGtWVUMtSC1hS3dqZC1mNHR1WjhRb0NodEpsWmZNQ0pBZDhKR1VlSzdId1lCcU81bFF0SnlDemRzcE5kUEdOaF9hREdrUll2dw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Amazonが生成AI搭載の「Alexa+」を日本で提供開始、月額3000円でプライム会員は追加料金なし - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTU1WQ0t2ZU1fcnJ5eUxKUV93SEpWNkJsOE1rRGFZZzFZbFJfVnRuSXdKTDRyRmhlWEFaYTMwbV9odDNCb2pCaWdYOGVFczk4ZW12bzlfWG5icXNDZUM4WTZZXy1zY3lXVUpwTG5UVEJxSDJnRXlBTTRBUUlRem9FSGk4TTFmX3k0ZFpXb0RQamJDSHN3cEkyYnpDLXNQM25KdmFfeG02c0tTSVA4MVVDbVhMZnpVWk9rOGxoX1dmUnFpT2pJTHhPb2o2S2FaNHNHNFlmOWJqNDJ3OUtlYnQtOE95a25hYmxBX09MSXJ3N2dETmk1X2licVUzRmhCQ3FR0gGwAUFVX3lxTE1Cd2xCY1JLQ2FVSkJVZUhMWUMybmRwVFA1VVdIR29WVjlOaW5TUlRPVVd4SThrY2JVLW5rYjI2VnY0a1F0Y1MzeTVub1M4aC1PcmJoU25fbUUteDloMFJpWUxPMjYwLW5ueVMycVhQM2I1RHBzYlRyc2o1Wm1wZUtBUm1aOE1wVmVObGNVeDB2SDUtc0tlSkVXY0RkNUNCZmxoS0JTSF84aGR1cTBuRG1n?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +89,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "考える力 生成ＡＩで強化 新しい学び提示 高校生向け講座好評 - 静岡新聞DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUlhXNERXMWIzbzUwZ0lSX29EaFBGeHJTMDV2Z2RWQzVmWHZQcGlJZl96NTZEWmJkOE5JUmdMUFBWNnNKM3lJQXBrWE56dw?oc=5",
+   "title": "日本企業の58％が「生成AIで成果創出」段階に デル調査で着実な移行明らかに - キーマンズネット",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45d1p6M2d2aTJwVEY2SlpSWFhFZ091ZGtWVUMtSC1hS3dqZC1mNHR1WjhRb0NodEpsWmZNQ0pBZDhKR1VlSzdId1lCcU81bFF0SnlDemRzcE5kUEdOaF9hREdrUll2dw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "米中間選挙、生成AI広告に巨額投入 敵対陣営のディープフェイク作成…対話型AI活用も - 産経ニュース",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54STZzMWdZYlRkbnE2QnNaYVJZd1NIQ0FOSVo3NF9VM2NCeXpNTjA0eGY0aDVMbEtaSDZzVm5KNXVockFWc1N0SnlJR1dUOTBDZ0tYVGtRLWpBUGtwSVRfaGJGcDBEQnFBd2wydlAxMHY4anNjSnc?oc=5",
+   "title": "第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HMGM1QjNsVDFwVEFKbGQ5UkFhM2doMjlVVEM2c3BuLXpkc2dyUmktMmE5MkxLc2hZektjOVF5SDFKYnlhczllX25aM2Z0YnRWV2FSSnhNSE1KRUhGSkE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "シンポジウム「生成AI最前線とメディアの未来～SNS時代の「真実」とは～」開催のお知らせ - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VQWFIeUtkVnVfWDRrbDNteHRYaUg4ZUlWZlpoRFFrZUZjZV9Rc1A2VmtaTkVWWXlCMVhnUVlsM2hQdGRoN3pjcW9ubWkyX2hhRWp5bHJpSHhvZC1vcmc?oc=5",
    "publisher": "news.google.com"
   }
  ]
