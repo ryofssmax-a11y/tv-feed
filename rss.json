@@ -1,8 +1,13 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T13:20:20+09:00",
+ "updatedAt": "2026-11-02T21:45:00+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "キオクシア、2桁成長に“急ブレーキ”？　Q3「売上収益1％増」、決算説明会で幹部らが語ったこと",
    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news048.html",
@@ -49,11 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
    "publisher": "news.google.com"
@@ -64,13 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Steamで10月発売の新作ゲーム、「約半数が生成AI使用を開示していた」との調査報告。1年でほぼ倍増、ただし“使い道”は千差万別 - AUTOMATON",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndFdlUHdzdDczSnVUc2xCakpFVTdWV1VrMmdoTHgzTGJXQmNJUXlrRG84dUhpeTltazJ2RDV4U3dpRVI4bHZvVjBTWkYteUE2aXhibnZ5WENGV3pnbmJST0ZsRkp2bktRZUplbw?oc=5",
+   "title": "生成AI初心者がまず最初に使うべき生成AIは？noteで2億円稼いだインフルエンサーの答え（みんかぶマガジン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMTF6X2dRVjQ4dzE4cWlxVXFoSkJDd0V1a1Nqc0RhMlo5N0RqUFRTclQyQ1VZMURkbWZxd3JFbEdmN0R1R25SRE82NlJqM3ZZVFdfeTk2VmU5eDAwZ0ZLYkxzRDRuUWRsNGZMMWQ1ZF9MZTZUWnRoVmtRb3MtcHc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "AI生成曲検知 JASRACが導入検討 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
+   "title": "ゲーム業界のビジネスモデル崩壊、救うのは生成AI－創造性復活の可能性 - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdEVWX0FGeHcwODB0NEJLUFZSQkRuMmdYLWVfdExYR09abkYzTHpfN0pmTU9laTZ2OFlpcG81cXY0Z0JhVXg5N1ZPandDWUt3aEVEWkVIVkRkYm9naDIwVEJwTU5FZjMyb1J4OExQdHFRcFJTY3Rj?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「新しいステージに入っている気がする」生成AIの活用を小学校にも拡大へ 高知県と高知市トップが教育課題を議論 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vV1RJNVUwMy1SWko5MkRSNGp5UkRiLTZmSGVlaVpsZE9tN2hGd2p3d2RFanB0N0g4SzJUVno1TWxsS2gxb1A2akJZcDhqNGJqNGt6ZGZGTnQ0NGc?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -81,11 +86,6 @@
   {
    "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？ - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rSF9qb1d4LURtb1BfVXNrZEZCSUhDcHI5YmFucGxlaHZqZEFhNzA4OUdrOXpQNy1UeWM5a0NFc0FxQXVlSVZhakVZUjdaSEVCYlk1aS1zQmx0eEVnUl9SU0Y5NUlDNUk?oc=5",
    "publisher": "news.google.com"
   },
   {
