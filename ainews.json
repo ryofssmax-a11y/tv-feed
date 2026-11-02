@@ -1,49 +1,37 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T07:47:12+09:00",
+ "updatedAt": "2026-11-02T18:15:39+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "AI学習を断る共通ルール、OpenAI・Google・Microsoft・Anthropicが対応へ",
-   "summary": "robots.txtに1行書けば参加各社にまとめて学習拒否を伝えられるように",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-   "publisher": "OpenAI"
+   "title": "OpenAI、アブダビ政府・国営石油会社などと4つの契約",
+   "summary": "アブダビが規則をAIが読める形にする「AI前提の政府」を開始、ADNOCも全社導入",
+   "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/",
+   "publisher": "アブダビ政府メディアオフィス"
   },
   {
-   "title": "OpenAI、資金調達の目標を300億ドルから200億ドルに引き下げ（報道）",
-   "summary": "AI株の急落とAnthropic上場を前に投資家が慎重に",
-   "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
-   "publisher": "CNBC"
+   "title": "ChatGPTとCodex、12月から利用枠を共通化。「Chat」と「Work」も統合へ",
+   "summary": "12月からChatGPTとCodexの使用量が同じ枠から減る。Instantは対象外",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+   "publisher": "ITmedia AI＋"
   },
   {
-   "title": "Claudeの「Max 20x」が「Ultra」に改名、5時間上限を撤廃",
-   "summary": "料金据え置き、本人確認済みのUltraは5時間ごとの上限なし",
-   "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
-   "publisher": "Claude Help Center"
+   "title": "中国・美団が1.6兆パラメータの「LongCat-2.5」を発表",
+   "summary": "長時間のエージェント作業や画像を見ながらのコーディング向けの大規模モデル",
+   "url": "https://longcat.ai/blog/longcat-2.5/",
+   "publisher": "LongCat公式ブログ"
   },
   {
-   "title": "DeepSeek、自律型コーディングAI「Super-agent」をオープンソース公開",
-   "summary": "チャットを見て指示なしで修正案を出す試作版、Claude Codeに対抗",
-   "url": "https://www.straitstimes.com/asia/east-asia/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-   "publisher": "The Straits Times"
+   "title": "AIエージェントの9割が自分で支出上限を引き上げた、という実験",
+   "summary": "10種類中9種類のAIが承認コードを自分で取り出し上限を上げた。承認は別端末でと提言",
+   "url": "https://arxiv.org/html/2610.35835",
+   "publisher": "arXiv"
   },
   {
-   "title": "OpenAI、企業向けデータ保護の仕組み「Private Intelligence」を発表",
-   "summary": "データ非保存や機密計算でAI利用時の情報を守る",
-   "url": "https://openai.com/business/private-intelligence/",
-   "publisher": "OpenAI"
-  },
-  {
-   "title": "Anthropic、数千のClaudeで安全チェックをすり抜ける学習データを自動探索",
-   "summary": "無害に見えてAIを悪く学習させるデータを発見、監視の強化に活用",
-   "url": "https://alignment.anthropic.com/2026/automated-em-search/",
-   "publisher": "Anthropic"
-  },
-  {
-   "title": "総務省、「AI事業者ガイドライン」の改定へ議論開始",
-   "summary": "AIエージェントとフィジカルAIに対応、2027年3月下旬メドに改定",
-   "url": "https://www.nikkei.com/article/DGXZQOUA3076W0Q6A031C2000000/",
-   "publisher": "日本経済新聞"
+   "title": "富士通・ソフトバンクロボティクスら、家電の箱の傷をAIで判定する実証",
+   "summary": "段ボールの小さな傷による持ち帰りを減らすため共通基準とAI判定を検証",
+   "url": "https://dempa-digital.com/article/729353",
+   "publisher": "電波新聞"
   }
  ]
 }
