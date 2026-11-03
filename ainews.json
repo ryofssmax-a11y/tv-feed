@@ -1,37 +1,43 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03T07:48:55+09:00",
+ "updatedAt": "2026-11-03T18:18:18+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Anthropic、上場申請書を更新。7〜9月の売上は約170億ドル",
-   "summary": "前年の約12倍だが伸びは鈍化、純損失は約233億ドル、計算資源などの支払い約束は約8954億ドル",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-   "publisher": "CNBC"
-  },
-  {
-   "title": "Marvell、光通信部品のLumentumを1150億ドルで買収",
-   "summary": "AIデータセンター内の光の配線を一手に握る狙い。株式交換で完了は2028年前半予定",
-   "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
-   "publisher": "Marvell"
-  },
-  {
-   "title": "OpenAI、電力が足りない時にデータセンターの電気を減らす「Grid Protectors」",
-   "summary": "ジョージア州の拠点で最大1000MW（約70万世帯分）を融通。AIの電気代を家庭に負わせない姿勢",
-   "url": "https://openai.com/index/grid-protectors-program",
+   "title": "OpenAI、外部のセキュリティ企業と組み、自社AIで自社の守りを試す",
+   "summary": "Cathedralと次の社内セキュリティ点検を計画。重大な脆弱性の報奨金も4倍超に。",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "publisher": "OpenAI"
   },
   {
-   "title": "DeepSeek、普通の言葉でプラグインを作れる「クリエイターモード」",
-   "summary": "開発者向けAIエージェントDeepSeek Harnessの新機能。米国勢のコーディングAIに対抗",
-   "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1737517",
-   "publisher": "Investing.com"
+   "title": "Claude API、会話を毎回送り直さなくてよい「メッセージスレッド」",
+   "summary": "長い作業をするAIエージェントの返事の出だしが約35%速く。料金は同じ。",
+   "url": "https://claude.com/resources/articles/message-threads",
+   "publisher": "Anthropic"
   },
   {
-   "title": "OpenAI、日常の用事をAIがどこまでこなせるか測る「LifeVal」",
-   "summary": "保育園探しや役所手続きなど生活の用事で評価。全体スコアや問題データは非公開",
-   "url": "https://openai.com/index/lifeval/",
-   "publisher": "OpenAI"
+   "title": "Anthropic、日本の投資家向けに最大35億ドルの株式募集を届け出",
+   "summary": "上場に合わせ関東財務局に届け出。みずほ証券が事務幹事、楽天・SBIも取り扱い。",
+   "url": "https://news.yahoo.co.jp/articles/f057458fc08b869c2b7e6d900697f2ef1cfd8267",
+   "publisher": "ロイター"
+  },
+  {
+   "title": "専門家の仕事を試す新テスト「GDPx」、トップのClaudeでも12%",
+   "summary": "SemiAnalysisが206の実務課題で採点。2位のGemini 4 Carbonは費用が約3分の1。",
+   "url": "https://gdpx.semianalysis.com/",
+   "publisher": "SemiAnalysis"
+  },
+  {
+   "title": "Oracle、AI設備のために200億ドルを調達",
+   "summary": "株と社債で半分ずつ。OpenAI向けを含むデータセンター投資の重さが表に。",
+   "url": "https://www.business-standard.com/world-news/oracle-raises-20-billion-through-stock-and-bond-sales-to-fund-ai-push-126110300303_1.html",
+   "publisher": "Reuters"
+  },
+  {
+   "title": "itch.io、新作ページが2カ月で倍増。大半はAI作品",
+   "summary": "1日3000件から6000件超に。でもダウンロードや購入は倍になっていない。",
+   "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+   "publisher": "Polygon"
   }
  ]
 }
