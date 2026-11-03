@@ -1,43 +1,31 @@
 {
- "date": "2026-11-03",
- "updatedAt": "2026-11-03T18:18:18+09:00",
+ "date": "2026-11-04",
+ "updatedAt": "2026-11-04T07:53:08+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、外部のセキュリティ企業と組み、自社AIで自社の守りを試す",
-   "summary": "Cathedralと次の社内セキュリティ点検を計画。重大な脆弱性の報奨金も4倍超に。",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "title": "OpenAI、AIで機械・電子機器の設計を加速。マツダと共同研究も",
+   "summary": "GPT-6 Astraが試作機の外装・基板・ソフトを設計。マツダと空力・衝突安全で研究開始",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
    "publisher": "OpenAI"
   },
   {
-   "title": "Claude API、会話を毎回送り直さなくてよい「メッセージスレッド」",
-   "summary": "長い作業をするAIエージェントの返事の出だしが約35%速く。料金は同じ。",
-   "url": "https://claude.com/resources/articles/message-threads",
+   "title": "Anthropic、答えが本当にそのAIから来たかを暗号で証明する「FlashProve」",
+   "summary": "重みを見せずにすり替え・改ざんを見抜く試作をオープンソース公開",
+   "url": "https://www.anthropic.com/research/provable-inference",
    "publisher": "Anthropic"
   },
   {
-   "title": "Anthropic、日本の投資家向けに最大35億ドルの株式募集を届け出",
-   "summary": "上場に合わせ関東財務局に届け出。みずほ証券が事務幹事、楽天・SBIも取り扱い。",
-   "url": "https://news.yahoo.co.jp/articles/f057458fc08b869c2b7e6d900697f2ef1cfd8267",
-   "publisher": "ロイター"
+   "title": "Google、小中高生のGeminiや検索を学校が許可するまでオフに",
+   "summary": "検索のAI概要だけは切れず批判も。NYTによると2027年初めから",
+   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+   "publisher": "ITmedia NEWS"
   },
   {
-   "title": "専門家の仕事を試す新テスト「GDPx」、トップのClaudeでも12%",
-   "summary": "SemiAnalysisが206の実務課題で採点。2位のGemini 4 Carbonは費用が約3分の1。",
-   "url": "https://gdpx.semianalysis.com/",
-   "publisher": "SemiAnalysis"
-  },
-  {
-   "title": "Oracle、AI設備のために200億ドルを調達",
-   "summary": "株と社債で半分ずつ。OpenAI向けを含むデータセンター投資の重さが表に。",
-   "url": "https://www.business-standard.com/world-news/oracle-raises-20-billion-through-stock-and-bond-sales-to-fund-ai-push-126110300303_1.html",
-   "publisher": "Reuters"
-  },
-  {
-   "title": "itch.io、新作ページが2カ月で倍増。大半はAI作品",
-   "summary": "1日3000件から6000件超に。でもダウンロードや購入は倍になっていない。",
-   "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
-   "publisher": "Polygon"
+   "title": "Salesforce、AI音声エージェントのCrestaを買収へ",
+   "summary": "コールセンターの声のAIをCRMに統合。買収額は非公表",
+   "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+   "publisher": "Salesforce"
   }
  ]
 }
