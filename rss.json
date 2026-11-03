@@ -1,8 +1,18 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03T07:07:19+09:00",
+ "updatedAt": "2026-11-03T12:34:44+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+   "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+   "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
@@ -44,16 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-   "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
    "publisher": "news.google.com"
@@ -74,18 +74,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI初心者がまず最初に使うべき生成AIは？noteで2億円稼いだインフルエンサーの答え（みんかぶマガジン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMTF6X2dRVjQ4dzE4cWlxVXFoSkJDd0V1a1Nqc0RhMlo5N0RqUFRTclQyQ1VZMURkbWZxd3JFbEdmN0R1R25SRE82NlJqM3ZZVFdfeTk2VmU5eDAwZ0ZLYkxzRDRuUWRsNGZMMWQ1ZF9MZTZUWnRoVmtRb3MtcHc?oc=5",
+   "title": "＜子どもと生成AI＞宿題にAI、使ってOK？子どもの「考える力」を奪わない上手な使い方 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Sm82UUNXN3pfYk1GTVVpSGM1M2VRYWxHZTdjb2JlY1dUajhZWGVMdWRaWHNpaHRpeWRfT0RyMnh6VGl0QTZBRTFieGZCMlozXzFvU2l0cHV2LWFuSTZNeHAzR2h6WXp6UVFHTzJPcHE2RkFya040MzBn0gF_QVVfeXFMUFFtV2RNb2tkUi1ZcFFTNjZCQW1VNm1ReEVJZjRhVmNKNVN4ajZETF9WQ2k5TUNUci1MQU1CM2Q0Q2JZakw1ZkFMcl9HdjdhU3kzZTAxNEFSeGpEUnFhUkY1TEJrQ2QwMHpXSUdpd0VJSDNjbkV4M1hUYV9qdElaaw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "JPX、取引システムでの監視アラートの対処に生成AI技術を本格適用 - デジタルクロス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdTBOSG1qOGlVTnhaVkg5T01GcUxrUUs4WXZIaWYxLWo2MVFTbEtQaDlXakh5YjB5cVhxX05oMUIta1VnWmM1VXdVYXpFYy1nODBiY29nMkN4RWlvZDM2eDBCRQ?oc=5",
+   "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Lemh5WHk0S1hicTFKYXoxd3Rkc0tfU0ZHbEQ5SExxVm9NcUpRNkY1MGsyUFZsUlU1eEFleXpESDhUeV9oMW9yMDZiMWdZQzZGR1JDUm50eVJ0NVY1T05hc2xSSUlsTlFuMXNYRFJmcm1FOVZCZE9kVWtIWEIyQzg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「新しいステージに入っている気がする」生成AIの活用を小学校にも拡大へ 高知県と高知市トップが教育課題を議論 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vV1RJNVUwMy1SWko5MkRSNGp5UkRiLTZmSGVlaVpsZE9tN2hGd2p3d2RFanB0N0g4SzJUVno1TWxsS2gxb1A2akJZcDhqNGJqNGt6ZGZGTnQ0NGc?oc=5",
+   "title": "生成AIの米アンソロピック、7～9月期の売上高47％増 新モデルの投入で利用拡大 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RVGVFdHREb25hRk9BMGVYc3BDdjNLS2x0RUVFVTdGaWozQ0lKbnBkbTlIdURYWkhoUXRLOC0zeFU4WGJjNzdqcVFpaHJFRU1NYU1sMlNMNWUtNHlQR18yX0NLMkpXZTRMVV9qYV9nX2pxaXA1b2c?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
+   "title": "「新しいステージに入っている気がする」生成AIの活用を小学校にも拡大へ 高知県と高知市トップが教育課題を議論 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vV1RJNVUwMy1SWko5MkRSNGp5UkRiLTZmSGVlaVpsZE9tN2hGd2p3d2RFanB0N0g4SzJUVno1TWxsS2gxb1A2akJZcDhqNGJqNGt6ZGZGTnQ0NGc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HMGM1QjNsVDFwVEFKbGQ5UkFhM2doMjlVVEM2c3BuLXpkc2dyUmktMmE5MkxLc2hZektjOVF5SDFKYnlhczllX25aM2Z0YnRWV2FSSnhNSE1KRUhGSkE?oc=5",
+   "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
    "publisher": "news.google.com"
   }
  ]
