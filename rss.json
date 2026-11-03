@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03T12:34:44+09:00",
+ "updatedAt": "2026-11-03T20:36:48+09:00",
  "source": "rss",
  "items": [
   {
@@ -59,28 +59,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "ゲーム業界のビジネスモデル崩壊、救うのは生成AI－創造性復活の可能性 - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdEVWX0FGeHcwODB0NEJLUFZSQkRuMmdYLWVfdExYR09abkYzTHpfN0pmTU9laTZ2OFlpcG81cXY0Z0JhVXg5N1ZPandDWUt3aEVEWkVIVkRkYm9naDIwVEJwTU5FZjMyb1J4OExQdHFRcFJTY3Rj?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Steam新作の生成AI使用、26年10月は「約半数」が開示―24年1月の1.7％から急増。最多用途はアート、除外フィルター求める声も（Game Spark） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNTdhOW14cGVGMGJPLWgtU2w3T09uRks0cVdIa3hadkU5VGl5SlRkTzMxeGxiV3pORHNvZW9WQWYtWmdhcXlpYThOcHF4TEFNLUJVeFhtNzBkbGd5MzRoSGEyOFlyeUFDcTZVeDE0aDA1RVdCT2Q3aHZTbU90cWM?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "Steamで10月発売の新作ゲーム、「約半数が生成AI使用を開示していた」との調査報告。1年でほぼ倍増、ただし“使い道”は千差万別 - AUTOMATON",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndFdlUHdzdDczSnVUc2xCakpFVTdWV1VrMmdoTHgzTGJXQmNJUXlrRG84dUhpeTltazJ2RDV4U3dpRVI4bHZvVjBTWkYteUE2aXhibnZ5WENGV3pnbmJST0ZsRkp2bktRZUplbw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "＜子どもと生成AI＞宿題にAI、使ってOK？子どもの「考える力」を奪わない上手な使い方 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Sm82UUNXN3pfYk1GTVVpSGM1M2VRYWxHZTdjb2JlY1dUajhZWGVMdWRaWHNpaHRpeWRfT0RyMnh6VGl0QTZBRTFieGZCMlozXzFvU2l0cHV2LWFuSTZNeHAzR2h6WXp6UVFHTzJPcHE2RkFya040MzBn0gF_QVVfeXFMUFFtV2RNb2tkUi1ZcFFTNjZCQW1VNm1ReEVJZjRhVmNKNVN4ajZETF9WQ2k5TUNUci1MQU1CM2Q0Q2JZakw1ZkFMcl9HdjdhU3kzZTAxNEFSeGpEUnFhUkY1TEJrQ2QwMHpXSUdpd0VJSDNjbkV4M1hUYV9qdElaaw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】（ITmedia ビジネスオンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Lemh5WHk0S1hicTFKYXoxd3Rkc0tfU0ZHbEQ5SExxVm9NcUpRNkY1MGsyUFZsUlU1eEFleXpESDhUeV9oMW9yMDZiMWdZQzZGR1JDUm50eVJ0NVY1T05hc2xSSUlsTlFuMXNYRFJmcm1FOVZCZE9kVWtIWEIyQzg?oc=5",
+   "title": "Amazonが生成AI搭載の「Alexa+」を日本で提供開始、月額3000円でプライム会員は追加料金なし（Web担当者Forum） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5udTZmWTM3Q2R3UWNCeThGdWpqTFZHdDFlUGFLYXdWeGxnLTdiREcxa0Zzb08xVG9nUnZWbGU2LXBaakJrS2Y1S0ZfSEtRN255cjRBNV9zMzU2WjV2ZEctdGtsTDMtX2xGaUw0LTRVSWgzNklDVDRweWQzYVE4c2s?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +74,33 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "日本企業の58％が「生成AIで成果創出」段階に デル調査で着実な移行明らかに - キーマンズネット",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45d1p6M2d2aTJwVEY2SlpSWFhFZ091ZGtWVUMtSC1hS3dqZC1mNHR1WjhRb0NodEpsWmZNQ0pBZDhKR1VlSzdId1lCcU81bFF0SnlDemRzcE5kUEdOaF9hREdrUll2dw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "「新しいステージに入っている気がする」生成AIの活用を小学校にも拡大へ 高知県と高知市トップが教育課題を議論 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vV1RJNVUwMy1SWko5MkRSNGp5UkRiLTZmSGVlaVpsZE9tN2hGd2p3d2RFanB0N0g4SzJUVno1TWxsS2gxb1A2akJZcDhqNGJqNGt6ZGZGTnQ0NGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBucDJmQmw2TFRCN2s3RFpHZmVhZ2hmSHVWOW9OOGJKdjhLbVplQzBabHJFTVZSWjh1ZzZ2MEJjdi04WVF6YUFiZ0FETUlzY2lnZTd6SUJQVQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "工事写真の改ざんどう防ぐ、生成AIリスクに要注意 技術力低下に懸念も - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jcm9hTzRuTzMtM0lIX1ZUc0J3d2NCcUw4ZllyWk5rekNIUjNDRGlNVklzSHozbkdPRm9BRmtkdWpJY0FOcFZETjJFMnMxWk1sYmk5dUVZcm1GWTM5ZV9KcTVjdlN2WnRsTi02cg?oc=5",
+   "title": "ゲーム業界のビジネスモデル崩壊、救うのは生成AI－創造性復活の可能性 - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdEVWX0FGeHcwODB0NEJLUFZSQkRuMmdYLWVfdExYR09abkYzTHpfN0pmTU9laTZ2OFlpcG81cXY0Z0JhVXg5N1ZPandDWUt3aEVEWkVIVkRkYm9naDIwVEJwTU5FZjMyb1J4OExQdHFRcFJTY3Rj?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "＜子どもと生成AI＞宿題にAI、使ってOK？子どもの「考える力」を奪わない上手な使い方 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Sm82UUNXN3pfYk1GTVVpSGM1M2VRYWxHZTdjb2JlY1dUajhZWGVMdWRaWHNpaHRpeWRfT0RyMnh6VGl0QTZBRTFieGZCMlozXzFvU2l0cHV2LWFuSTZNeHAzR2h6WXp6UVFHTzJPcHE2RkFya040MzBn0gF_QVVfeXFMUFFtV2RNb2tkUi1ZcFFTNjZCQW1VNm1ReEVJZjRhVmNKNVN4ajZETF9WQ2k5TUNUci1MQU1CM2Q0Q2JZakw1ZkFMcl9HdjdhU3kzZTAxNEFSeGpEUnFhUkY1TEJrQ2QwMHpXSUdpd0VJSDNjbkV4M1hUYV9qdElaaw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「紫→青グラデ背景」「ベージュ」など、WebページのAI臭を消すスキル3種（生成AIクローズアップ） - テクノエッジ TechnoEdge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCcHhFRzVuWWdBRmZrdVhYc2hVbFhtLWhGQV9uYjE0MDdRU3ZQMU9XRVlEWFdwZ0ViWUZhUlRNR3lhNmZMRWJYcnctd0l1WHNjckpENXc5UXlRWmVkMGpTX2U2aHJUd28?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "『生成AIに聞く前に、その集計データ、信用できますか？』というテーマのウェビナーを開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FejNqbnIyblFMbi1mXzFjTGprb0xFLUZzRU40bWVLeUlMcXhqTDM4djVBTUxRVXIyZzhabkxkTUM1LVRWWlRnRHB5T0NpNUNJbHhaWTlBT2pscXY3bXVtckxhS1VoRGVwQ1E?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
    "publisher": "news.google.com"
   }
  ]
