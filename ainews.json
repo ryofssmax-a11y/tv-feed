@@ -1,43 +1,49 @@
 {
- "date": "2026-11-04",
- "updatedAt": "2026-11-04T18:22:28+09:00",
+ "date": "2026-11-05",
+ "updatedAt": "2026-11-05T07:46:58+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "中国勢のNVIDIAチップ注文約700億ドル、4カ月で届くのは約1%（報道）",
-   "summary": "アリババやテンセントなどが約600万個を注文。NVIDIAの生産が追いつかずAI半導体の奪い合いが続く。",
-   "url": "https://www.investing.com/news/stock-market-news/nvidia-china-clients-to-get-1-of-70-bln-rtx-chips-ordered-bloomberg-4997319",
-   "publisher": "Bloomberg（Investing.com経由）"
-  },
-  {
-   "title": "Apple、新しい「Siri AI」をすべての開発者に開放",
-   "summary": "iOS 27.3ベータから、どのアプリもApp IntentsでSiri AIに操作を任せられる。日本語にも対応。",
-   "url": "https://developer.apple.com/news/?id=gdk2umrf",
-   "publisher": "Apple Developer"
-  },
-  {
-   "title": "テンセント、新しい主力モデル「Hy4」をオープンウェイトで公開",
-   "summary": "初めて画像やグラフを読み解く力が付いた。中国のオープンモデル競争がさらに激しく。",
-   "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
-   "publisher": "South China Morning Post"
-  },
-  {
-   "title": "OpenAI、AIエージェントの大量作業に耐える新しいGit基盤「Pando」",
-   "summary": "変更を送る時間の中央値を約5分の1に。Codexで作り10週間で本番投入。",
-   "url": "https://openai.com/index/scaling-git-at-openai/",
+   "title": "OpenAI、AIでLinuxのroot奪取の穴948件を発見し修正案も作成",
+   "summary": "AIが脆弱性の発見から修正案まで自動処理。API代は約120万ドル",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
    "publisher": "OpenAI"
   },
   {
-   "title": "画像・動画生成AIの実行基盤「fal」、合計16.5億ドルを調達",
-   "summary": "企業価値は160億ドルで4月から倍に。NVIDIAも出資。",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "publisher": "TechCrunch"
+   "title": "米中間選挙で民主党が議会を制す。AIデータセンターへの監視強化を意識",
+   "summary": "公聴会や調査が増え、AI設備のコスト負担が重くなるとの見方",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep",
+   "publisher": "Reuters（The Star）"
   },
   {
-   "title": "東北大学とアイシン、65.7ミリ秒で起動するAIチップを開発",
-   "summary": "電源を切っても消えないメモリを内蔵。起動は約39倍速く、電力は約50分の1。",
-   "url": "https://www.tohoku.ac.jp/japanese/2026/11/press20261102-03-emram.html",
-   "publisher": "東北大学"
+   "title": "OpenAI、コード管理ツールのPierreを買収へ",
+   "summary": "Codexの差分表示などの開発元。AIエージェント時代のGitを作り直す狙い",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "publisher": "OpenAI"
+  },
+  {
+   "title": "ChatGPT、文章や写真から動くGIFを作れるように（Images 2.6）",
+   "summary": "再生速度やコマ単位の修正も可能。全ユーザーに順次提供",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "publisher": "The Verge"
+  },
+  {
+   "title": "Anthropic、Claudeと組んで細菌側のボールト粒子の立体構造を初解明",
+   "summary": "精製は3日から約90分、最初の構造モデルは34時間で完成",
+   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "publisher": "Anthropic"
+  },
+  {
+   "title": "Claude Marketplace、外部パートナー製品が25超に拡大",
+   "summary": "Datadog、Runway、Zoomなどを追加。契約予算の一部を購入に充当可能",
+   "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+   "publisher": "Anthropic"
+  },
+  {
+   "title": "続報：Moonshot「Kimi K3.1 Pro」、予告どおり重みを公開",
+   "summary": "2.8兆パラメータ・100万トークン対応のモデルを誰でも利用可能に",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "publisher": "Moonshot AI"
   }
  ]
 }
