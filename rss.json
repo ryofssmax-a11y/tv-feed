@@ -1,8 +1,13 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05T00:03:57+09:00",
+ "updatedAt": "2026-11-05T06:24:03+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/",
@@ -49,9 +54,54 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "教育現場を変える生成ＡＩ、問われる「使い方」…専門分野を身につける学びを代替させるのはもったいない（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wOTRZV3V5ZnNCYWJMMFA0ZTVJQ0RxeWxCQmxyMUtvOUZZVG9ycXFmdWVRRXdBUGdSQnFLcnR1dFB4VmxucENzWkR1ZTBmbV9WY29sd2xMTkJWb1dsZWppRnhERGJGS0NpdU5xZFdrZE5hdEluTzh0b3VLSngzd2M?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "JR九州、生成AIで非エンジニアが車両データ可視化アプリを内製、開発期間は2～3カ月 - IT Leaders",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YWEZ2eGlUM3RLbzctSGZlbXZrTUhJX3BKWmg1SlMwSU8wdU0za2NiSFNVa0dkcDR1U2hDY19VM2xWbkxtb2Vib2NLMG5vbFBGUHNJ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "山形新聞と地銀3行が生成AI活用で連携 人手不足の深刻な県内企業の業務効率化やビジネス創出を後押し（YBC山形放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyeGVSM0lVVXAxemhfUHZLY0xadDFNSWxuRnhVNTNUSmowSlctVDExTFBCLVlkVTNfQ3lkVGdZdTdJamJGMkZtOEdXS2g5YVlwVG0xWVU5RFF3YllVbTFfeUh5anZYLXd0NUtSbkdRdTJSTkpHNXVSekVCWjB6MGs?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine - CodeZine",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeXlyd3ZSQVUzNEw3NjVOeFVUZWFsNGFvN09IQzlIWDRONU5aQzNheFdPTDdsLU91Y0FjZFJEY245VDZ5Y2ZEaEVLX2xrWm1GMkE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プレスリリース：生成AI「Claude」のスライド入門セミナーに97名が申込 受講後アンケートの回答者の94.7%が満足（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85elgtZDRocmFaQlBTUFdGUF9GRHd5WDBUS2l2S1hIQjkxbDRuLTREZUZCVkhoUDN5Q0NGNi1WUzJsVHR5cEZYLUtyeUNMQ3B2QUZtSDhtNlRnRHNKZ1BaUmFlYTZNVnZ0?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUDFsMTJYMmtYRzFJTVJwdDhCY2wxX0pIS3NDUUVFckRMWHAtN2luaWRvd19VVi1LTjdCVlRreV9LRUNtdmJIUnlTcHBYUGdreHRlT3FKTGNZS1E?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI時代に「BtoBオウンドメディア」はどうなるか？枌谷氏に聞く、情報発信のあり方 (1/3) - MarkeZine",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44OERoS3lndlNMSngzQy0yYUdic0xzXzNUNFJmNjZ6bW5OeGoxa0MySzVGcm5Cc0tuNGVjcjFnLW1tSXBqbmhENkpxVXlLem9aTHhj?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ChatGPT脚本のフル生成AI映画「時空遊郭ラビリンス」2027年公開決定！ 監督は曽根剛、実在する俳優陣も“AI出演”【特報映像公開】 : 映画ニュース - 映画.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zUWpJT0xZV1FlMDJfZ3FnM21TcWY4YzdzUWtSUEtOaHNSeWNMZ19TMUZtaEhabzRzN1lKZUs1dHI3blNONEtGcw?oc=5",
+   "publisher": "news.google.com"
   }
  ]
 }
