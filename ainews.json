@@ -1,31 +1,43 @@
 {
  "date": "2026-11-04",
- "updatedAt": "2026-11-04T07:53:08+09:00",
+ "updatedAt": "2026-11-04T18:22:28+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、AIで機械・電子機器の設計を加速。マツダと共同研究も",
-   "summary": "GPT-6 Astraが試作機の外装・基板・ソフトを設計。マツダと空力・衝突安全で研究開始",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "title": "中国勢のNVIDIAチップ注文約700億ドル、4カ月で届くのは約1%（報道）",
+   "summary": "アリババやテンセントなどが約600万個を注文。NVIDIAの生産が追いつかずAI半導体の奪い合いが続く。",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-china-clients-to-get-1-of-70-bln-rtx-chips-ordered-bloomberg-4997319",
+   "publisher": "Bloomberg（Investing.com経由）"
+  },
+  {
+   "title": "Apple、新しい「Siri AI」をすべての開発者に開放",
+   "summary": "iOS 27.3ベータから、どのアプリもApp IntentsでSiri AIに操作を任せられる。日本語にも対応。",
+   "url": "https://developer.apple.com/news/?id=gdk2umrf",
+   "publisher": "Apple Developer"
+  },
+  {
+   "title": "テンセント、新しい主力モデル「Hy4」をオープンウェイトで公開",
+   "summary": "初めて画像やグラフを読み解く力が付いた。中国のオープンモデル競争がさらに激しく。",
+   "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
+   "publisher": "South China Morning Post"
+  },
+  {
+   "title": "OpenAI、AIエージェントの大量作業に耐える新しいGit基盤「Pando」",
+   "summary": "変更を送る時間の中央値を約5分の1に。Codexで作り10週間で本番投入。",
+   "url": "https://openai.com/index/scaling-git-at-openai/",
    "publisher": "OpenAI"
   },
   {
-   "title": "Anthropic、答えが本当にそのAIから来たかを暗号で証明する「FlashProve」",
-   "summary": "重みを見せずにすり替え・改ざんを見抜く試作をオープンソース公開",
-   "url": "https://www.anthropic.com/research/provable-inference",
-   "publisher": "Anthropic"
+   "title": "画像・動画生成AIの実行基盤「fal」、合計16.5億ドルを調達",
+   "summary": "企業価値は160億ドルで4月から倍に。NVIDIAも出資。",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "publisher": "TechCrunch"
   },
   {
-   "title": "Google、小中高生のGeminiや検索を学校が許可するまでオフに",
-   "summary": "検索のAI概要だけは切れず批判も。NYTによると2027年初めから",
-   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
-   "publisher": "ITmedia NEWS"
-  },
-  {
-   "title": "Salesforce、AI音声エージェントのCrestaを買収へ",
-   "summary": "コールセンターの声のAIをCRMに統合。買収額は非公表",
-   "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
-   "publisher": "Salesforce"
+   "title": "東北大学とアイシン、65.7ミリ秒で起動するAIチップを開発",
+   "summary": "電源を切っても消えないメモリを内蔵。起動は約39倍速く、電力は約50分の1。",
+   "url": "https://www.tohoku.ac.jp/japanese/2026/11/press20261102-03-emram.html",
+   "publisher": "東北大学"
   }
  ]
 }
