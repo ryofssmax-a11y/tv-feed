@@ -1,8 +1,13 @@
 {
- "date": "2026-11-04",
- "updatedAt": "2026-11-04T15:49:25+09:00",
+ "date": "2026-11-05",
+ "updatedAt": "2026-11-05T00:03:57+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news064.html",
@@ -47,61 +52,6 @@
    "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
    "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
    "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "PE-BANKの「IT人材のリスキリング実態調査」、生成AIの普及で「影響がある」は75％に（BCN） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WYVlQNFBGRnFPajhYa01ReXotYUptOUVoc3B1MHluVUFONjRxeWtUaURHV0pleWpxVi1pLTVhS3hwWWotQm5uQzhLbWNHbmhpUjR2TTZXaTJUVkhsemtEOE1FZ1lVMHV0R09ydVRtRmJrOFJuYmZyM1hJT0lqR1k?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "日本の医師の51%「治療法選択に生成AI活用」 デロイト調査 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VTWt4R0tMRzZqNUFVWkM0MVROa2o1Q3AtVTA1MEptTXpsMFRLalZ2clhWT0QyNHk1dUhVbXM0VzFCaTBRQ3g5MmpTQUJTMkplUFAwNzluSi1BaEQydkhpU1RvYTdpSDRiY2x0Yg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プレスリリース：和から、生成AIの60講座以上が月額11,880円で学び放題の「和からの生成AIパス会員」を本格開始 ライブ講座への無料参加・月例会・学習相談も（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wTWQ5UjZmNkZ2bFYwN3F4WnYxQ2dpWnBOeU85a3lxdjUzWHNzYnlIOGU4ekFXM2pFaXBraW9HRmFfVG9iM19LRldLdUhMVHIxaFY1eHdRQkNiaktIQVowa0VDRmpNdnVx?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI時代に「BtoBオウンドメディア」はどうなるか？枌谷氏に聞く、情報発信のあり方 (1/3) - MarkeZine",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44OERoS3lndlNMSngzQy0yYUdic0xzXzNUNFJmNjZ6bW5OeGoxa0MySzVGcm5Cc0tuNGVjcjFnLW1tSXBqbmhENkpxVXlLem9aTHhj?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "ChatGPT脚本のフル生成AI映画「時空遊郭ラビリンス」2027年公開決定！ 監督は曽根剛、実在する俳優陣も“AI出演”【特報映像公開】 : 映画ニュース - 映画.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zUWpJT0xZV1FlMDJfZ3FnM21TcWY4YzdzUWtSUEtOaHNSeWNMZ19TMUZtaEhabzRzN1lKZUs1dHI3blNONEtGcw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "JR九州、生成AIで非エンジニアが車両データ可視化アプリを内製、開発期間は2～3カ月 - IT Leaders",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YWEZ2eGlUM3RLbzctSGZlbXZrTUhJX3BKWmg1SlMwSU8wdU0za2NiSFNVa0dkcDR1U2hDY19VM2xWbkxtb2Vib2NLMG5vbFBGUHNJ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで仕事は速くなったのに売上は増えない――IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdkU4RG9VYkc4SHdJeEhCOWdRY0ZLVjJ2Wkw4UVBkNERvZzFvajBQQVo5Vi1oUUtKNnkxcngwVjhVOGE2dFg4dnZWQzBETjFOMV9laXlwdGRtMkhwTUoxT2Jfc3p1dmxkckQ2VmRjeFRfT083THBPVGtTUXF5N3M?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jYmVwZXJNU1FhR3dxY2NUd0tYUFlfbXp3V0pqVlVyS3YwVkR4ZU44VU1WSkxzYzk2MHNwQUpqaTJDQ2hUS04wNWxDNE1wb2p3ZEE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "【11/24 オンライン】生成AIを個人活用から全社の成果へ。「生成AI 全社展開 Forum｜AI Market Focus」を開催 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ybk1ZeDd3SlpfcW85Szg4YjZiSnJMREpmZXdMOGwtYTBicnFzdjhacmpZRlBLV2dJS3RyNFY1RU9WX01NQVNoT29DUGlScUpVV2NPMFc4ejRUVlVBdzdPUWYyVWk4dzNjckE?oc=5",
-   "publisher": "news.google.com"
   }
  ]
 }
