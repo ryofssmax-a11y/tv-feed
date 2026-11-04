@@ -1,8 +1,28 @@
 {
  "date": "2026-11-04",
- "updatedAt": "2026-11-04T04:00:53+09:00",
+ "updatedAt": "2026-11-04T09:03:51+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002712/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
    "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
@@ -34,26 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-   "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「作品の78.3％がAI生成」と判定された作家も、出版中止騒動が突きつけた文章の真贋と検出技術の限界 - JBpress",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54N0hQUjdQczBXTVJGc3FjTHBnN2t0N2dTc1JOcnlPNERFR2I4MEs2cUZkYl9RQ1M2aFZ1ckNvQlZCb2hzbDJDM1lCUVNYVmlTblRfTHBn?oc=5",
    "publisher": "news.google.com"
@@ -64,43 +64,43 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "国内医師の51%「治療法選択に生成AI活用」 デロイト調査 - 日本経済新聞",
+   "title": "NTT東日本、企業・店舗情報の一元配信と生成AI検索の可視化を行うサービス提供へ - MarkeZine",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GTHZBVlU2eGJBU29Gd3Vrd3pBRVZPWXVwQVVsdDd4V1M4WlBwNDFaUU40ZGlrQkJFZ3daaGYzbXRHSmw5OTRMa3AxbXNULWM?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jYmVwZXJNU1FhR3dxY2NUd0tYUFlfbXp3V0pqVlVyS3YwVkR4ZU44VU1WSkxzYzk2MHNwQUpqaTJDQ2hUS04wNWxDNE1wb2p3ZEE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「そりゃうまくいかないわ…」生成AI導入に失敗する会社の決定的特徴「法律事務所の専門職の8割超が効率化検討業務から立ち去ったワケ」（集英社オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZDVheFNBakg0dkNGaVBDZVVSZGlsZ0lqcURYczZ1NFlJamlNd2NHaU9SNVMxMGdtSXprNGsyYWpoOEZnT1hXZ3Z0WFhyZUJrY3UyV3YybmlQMm9FUnN5TlRsaHJ3dVdYRFo4Y3RSRWs0YVhfRnp5MU11VC1Rbms?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "日本の医師の51%「治療法選択に生成AI活用」 デロイト調査 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VTWt4R0tMRzZqNUFVWkM0MVROa2o1Q3AtVTA1MEptTXpsMFRLalZ2clhWT0QyNHk1dUhVbXM0VzFCaTBRQ3g5MmpTQUJTMkplUFAwNzluSi1BaEQydkhpU1RvYTdpSDRiY2x0Yg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "Amazonが生成AI搭載の「Alexa+」を日本で提供開始、月額3000円でプライム会員は追加料金なし（Web担当者Forum） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5udTZmWTM3Q2R3UWNCeThGdWpqTFZHdDFlUGFLYXdWeGxnLTdiREcxa0Zzb08xVG9nUnZWbGU2LXBaakJrS2Y1S0ZfSEtRN255cjRBNV9zMzU2WjV2ZEctdGtsTDMtX2xGaUw0LTRVSWgzNklDVDRweWQzYVE4c2s?oc=5",
+   "title": "【発表！2026年のヒット商品】生成AI・ボンドロ…今年の1位は？ 来年流行する？「人間証明書」（2026年11月3日掲載） - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZMzM1WmxzU3Uzck4ta3lwV2RVcnNmVEtWdXRVNU1IUnFOeVJXazREOFNyd3ZkWGEyOEtiOFBneThaMUgyZDZUOVpCTDFqalRfRmJ2eTZZZXFIaV81TS15VjJYeHNpdF9PQkRIRV9sR2pXemF4c1hOcnM1RGQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ZETAが生成AIなどにおける広告表示に関する技術で特許査定を受領 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2V0bHlBQ1dPTk85OXA5ajFrd3c0QlVqMWc5VFZmVE03QUt2Rjlrc3hJYW5iczE2b1B5bkR6VXNMSllrWkRMbk5HTTUtdDAzMFA0Z1p3VWRrakRCcVJFOTkwdjZZaEVjUUNZMzhtVmMxR2FYTF9rNTJoeU5KUjNtZHRkUUd2Tk56TmY4eG9XeTUyelk4WXZZeHdUbU5DYjNXQnVDb2ZNXzZ1dm94T05j0gG0AUFVX3lxTE9Ia3VsX2ZldXJ4MzRaREJWWXc0c09DRHp3VjE4QTNCQlU5OWJzNkVVTUV1Y0YyMjFscFoxNmExX0NGSHE3Z0RtZkpnYVF3TmxQMF85Yk1mUld5Tml4MDNfOW5nYzNyLTZ2dDVIVDMtVmg0TUI3S0V2d1UzeW5fcGRjaHRrdVZqdWF1Y3dEMXVZSnFrMGl1MWk0WXgtNmVScE9iaGRpUHlsaklfc3gzWS1uVzNjQQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ - キーマンズネット",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfa3RGWXBCYndiMVZReFoxWHIzU2VlQkowNllNVWphdVp4bGNJTEhLaFNYaW51SUk5UG45WGczcC1ZWERueVFVRFo1MF9KcFlWVFQxZE5RTG05S0pNSHNYRWRRMDZKZw?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "生成AIの米アンソロピック、7～9月期の売上高47％増 新モデルの投入で利用拡大 - 産経ニュース",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RVGVFdHREb25hRk9BMGVYc3BDdjNLS2x0RUVFVTdGaWozQ0lKbnBkbTlIdURYWkhoUXRLOC0zeFU4WGJjNzdqcVFpaHJFRU1NYU1sMlNMNWUtNHlQR18yX0NLMkpXZTRMVV9qYV9nX2pxaXA1b2c?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "＜子どもと生成AI＞宿題にAI、使ってOK？子どもの「考える力」を奪わない上手な使い方 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Sm82UUNXN3pfYk1GTVVpSGM1M2VRYWxHZTdjb2JlY1dUajhZWGVMdWRaWHNpaHRpeWRfT0RyMnh6VGl0QTZBRTFieGZCMlozXzFvU2l0cHV2LWFuSTZNeHAzR2h6WXp6UVFHTzJPcHE2RkFya040MzBn0gF_QVVfeXFMUFFtV2RNb2tkUi1ZcFFTNjZCQW1VNm1ReEVJZjRhVmNKNVN4ajZETF9WQ2k5TUNUci1MQU1CM2Q0Q2JZakw1ZkFMcl9HdjdhU3kzZTAxNEFSeGpEUnFhUkY1TEJrQ2QwMHpXSUdpd0VJSDNjbkV4M1hUYV9qdElaaw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「初の試み！生成AIで商品を開発」ローソン社長・竹増貞信 - AERA DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRHdfUjhFY1Baa01QbDhtampCdGhDbWpRTTFMSjBXemk5UGprSzN5d3ZrNEdTMGVMTjdEa2pqdWVGYjhLOUp6a0MxdmtPazF3Qjl5SmtWVHlBZw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "見送られた8億円AI 精度上がっても「1％」の異議どう尊重? - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbFBjdWp6RU56NmlZdi0wTzFCVDl6ZkdRZ2N4S0ZPRGcxWFE2Mmh1eTBuWHJURHAxeWVac0tac29rdHJDNFRVSXZjd2NJY2RLMV9XSHlMZ1RrSWtsakE2czJhUFpiNE1u?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「紫→青グラデ背景」「ベージュ」など、WebページのAI臭を消すスキル3種（生成AIクローズアップ） - テクノエッジ TechnoEdge",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCcHhFRzVuWWdBRmZrdVhYc2hVbFhtLWhGQV9uYjE0MDdRU3ZQMU9XRVlEWFdwZ0ViWUZhUlRNR3lhNmZMRWJYcnctd0l1WHNjckpENXc5UXlRWmVkMGpTX2U2aHJUd28?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Z世代の生成AI利用、商品・サービスの検討・購入時に54％が活用、最多は候補の「絞り込み」 ―楽天調査 - トラベルボイス",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GWHRjZG5kRVl1bmdXNFhfbDVKRFVPcG9ZbkVMUnJVaFBSZGhkSUkwNmR0OXp4bWZCU2FzWmg5R3lkbE4wMGhVQU43aDZhZUxxN1FySA?oc=5",
    "publisher": "news.google.com"
   }
  ]
