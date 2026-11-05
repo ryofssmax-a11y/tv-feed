@@ -1,49 +1,25 @@
 {
- "date": "2026-11-05",
- "updatedAt": "2026-11-05T18:17:03+09:00",
+ "date": "2026-11-06",
+ "updatedAt": "2026-11-06T07:52:38+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Meta、AIコーディングのConductorを買収",
-   "summary": "Conductorを複数AIエージェントで同時にコードを書かせる道具。チームはMetaの超知能研究所へ、クラウド版は11/20停止。",
-   "url": "https://www.conductor.build/announcement",
-   "publisher": "TechCrunch／Conductor公式"
+   "title": "OpenAI、脆弱性を探すGPT-6 Cyberを限定提供",
+   "summary": "許可された範囲内で脆弱性を発見・検証するモデルを、一部のDaybreak Red顧客向けに提供開始。OpenAIはFirefoxで未知の重大な脆弱性81件を発見したと説明。能力向上と同時に悪用対策・アクセス制限も強化している。",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "publisher": "OpenAI"
   },
   {
-   "title": "Claude Codeの製品責任者Cat Wu氏、AnthropicからOpenAIへ",
-   "summary": "Claude Codeを育てた人がOpenAIの主力製品の製品管理を率いる。OpenAIは移籍を確認。",
-   "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
-   "publisher": "Business Insider"
+   "title": "METR、AnthropicのAI開発ペースは従来の約2倍と評価",
+   "summary": "内部データを調べ、明確に採点できる課題での能力向上ペースが従来の約2倍になったと推定。AIによる研究支援が主因の可能性を示すが、不確実性は大きく、重要な根拠の多くは非公開。全面的な研究自動化を実証したものではない。",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "publisher": "METR"
   },
   {
-   "title": "xAI、11/7からGrok APIの文章に見えない透かしを標準で入れる",
-   "summary": "grok-4.7など7モデルが対象。EUのAI法対応で、管理者はモデルごとにオフ可能。",
-   "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
-   "publisher": "xAI公式ドキュメント"
-  },
-  {
-   "title": "Anthropic、初のニュース使用料契約をAP通信と結んだと報道",
-   "summary": "選挙の夜にClaudeがAPの開票情報を出典つきで表示。両社は公式コメントなし。",
-   "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
-   "publisher": "Adweek"
-  },
-  {
-   "title": "PFN、翻訳専用AI「PLaMo 3 Translate」を無料公開",
-   "summary": "0.8B〜31Bの4サイズをオープンウェイトで公開。スマホでも動き、条件付きで商用可。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-   "publisher": "ITmedia AI＋"
-  },
-  {
-   "title": "新興Ricursive、65Bのコーディング向けAI「Ripple」を公開",
-   "summary": "米国製オープンウェイトでTerminal-Bench 2.1首位の80.5点、開発費は約3200万ドル。",
-   "url": "https://www.ricursive.com/ripple",
-   "publisher": "Ricursive公式"
-  },
-  {
-   "title": "NEC、機密を伏せたままAIを使える「cotomi Gateway」",
-   "summary": "機密情報を自動で置き換え、仕事に応じてモデルを自動で選び費用も抑える。",
-   "url": "https://www.nikkei.com/article/DGXZQOUC0530N0V01C26A1000000/",
-   "publisher": "日本経済新聞"
+   "title": "Google、ワイオミング州のデータセンターに170億ドル投資へ",
+   "summary": "同州初のGoogleデータセンターを発表。計画には702MWの天然ガス燃料電池と二酸化炭素回収・貯留、冷却水を抑える空冷方式を含む。AI基盤拡大で、計算能力だけでなく電力・水・地域負担への対応が重要になっている。",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+   "publisher": "Google"
   }
  ]
 }
