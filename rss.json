@@ -1,8 +1,38 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05T06:24:03+09:00",
+ "updatedAt": "2026-11-05T10:37:08+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
@@ -24,48 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Claudeプラン名変更で容量半減？→公式が否定　「元々、Max 20xの週次制限はProの10倍」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
-   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "3D CADデータ×AIで造船設計を支援、設計情報の確認作業を効率化へ",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news020.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
-   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "教育現場を変える生成ＡＩ、問われる「使い方」…専門分野を身につける学びを代替させるのはもったいない（読売新聞オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wOTRZV3V5ZnNCYWJMMFA0ZTVJQ0RxeWxCQmxyMUtvOUZZVG9ycXFmdWVRRXdBUGdSQnFLcnR1dFB4VmxucENzWkR1ZTBmbV9WY29sd2xMTkJWb1dsZWppRnhERGJGS0NpdU5xZFdrZE5hdEluTzh0b3VLSngzd2M?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,8 +64,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "山形新聞と地銀3行が生成AI活用で連携 人手不足の深刻な県内企業の業務効率化やビジネス創出を後押し（YBC山形放送） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyeGVSM0lVVXAxemhfUHZLY0xadDFNSWxuRnhVNTNUSmowSlctVDExTFBCLVlkVTNfQ3lkVGdZdTdJamJGMkZtOEdXS2g5YVlwVG0xWVU5RFF3YllVbTFfeUh5anZYLXd0NUtSbkdRdTJSTkpHNXVSekVCWjB6MGs?oc=5",
+   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 下野新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SnFUcGNveEFyN1Y5aV9LdkJRRXNjaDFOdXpyUHI1ZExQNXItdkpLN3hLeEZDcnhBakRtMTAtaU1KcGtadlhpc2Z3TjdyalpnVXp0MGh2VTdzczQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNEItSVlueTB6aEtOUVhiUE5seVlCOTJFVWw4NUY3c2Y0QkdhSTNnMTc3Y2RDZ21pcEdnbFNQZXlsU1VRMXV1aWV5VFkxVXA3azQ5ODNPMEF3T1ZJSXdjVkNVM2FBVFFvNFE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "SMFL、ユーザーごとの業務アプリケーションを生成AIで高速に開発してSaaS型で提供 - IT Leaders",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSUl1WG1MRmlWWDZaRUhPQURWSS1qTFFCUnJLbHlxaW9IV1dfVldfb1BlVDVlUUplVmVDSk1Dc0ZLdm5hVl9TU2xfLU1JQjZXanI0?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "デザイン業の倒産が上半期最多、生成ＡＩだけでは語れない小規模企業の苦境 #エキスパートトピ（中村智彦） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2pZOEJpd0JtZEl3akR4dHhhUzEwbE15YU5yWWxPa0kydFhVWE41bmRSOGNPVHhDblRQUDhpalY1SW1YWDdPWlBCal9wYUdTa2pjSGg1MHNzYWZId2xkeEllZnI4U19zVW5HVW1MU29EY2FrUmcyYmRSUW1EcDQ5OTdDc0VxdEcy?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +94,13 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - 東洋経済オンライン",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUDFsMTJYMmtYRzFJTVJwdDhCY2wxX0pIS3NDUUVFckRMWHAtN2luaWRvd19VVi1LTjdCVlRreV9LRUNtdmJIUnlTcHBYUGdreHRlT3FKTGNZS1E?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI時代に「BtoBオウンドメディア」はどうなるか？枌谷氏に聞く、情報発信のあり方 (1/3) - MarkeZine",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44OERoS3lndlNMSngzQy0yYUdic0xzXzNUNFJmNjZ6bW5OeGoxa0MySzVGcm5Cc0tuNGVjcjFnLW1tSXBqbmhENkpxVXlLem9aTHhj?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "ChatGPT脚本のフル生成AI映画「時空遊郭ラビリンス」2027年公開決定！ 監督は曽根剛、実在する俳優陣も“AI出演”【特報映像公開】 : 映画ニュース - 映画.com",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zUWpJT0xZV1FlMDJfZ3FnM21TcWY4YzdzUWtSUEtOaHNSeWNMZ19TMUZtaEhabzRzN1lKZUs1dHI3blNONEtGcw?oc=5",
    "publisher": "news.google.com"
   }
  ]
