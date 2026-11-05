@@ -1,8 +1,28 @@
 {
  "date": "2026-11-06",
- "updatedAt": "2026-11-06T02:07:32+09:00",
+ "updatedAt": "2026-11-06T07:45:44+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002909/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
    "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
@@ -34,26 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
    "publisher": "news.google.com"
@@ -74,8 +74,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "JR九州、生成AIで非エンジニアが車両データ可視化アプリを内製、開発期間は2～3カ月 - IT Leaders",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YWEZ2eGlUM3RLbzctSGZlbXZrTUhJX3BKWmg1SlMwSU8wdU0za2NiSFNVa0dkcDR1U2hDY19VM2xWbkxtb2Vib2NLMG5vbFBGUHNJ?oc=5",
+   "title": "AI新世紀：オットGPTで見つけた亡夫の宝物 AI故人とどう向き合うか - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRjlkWGRBUUtuVVk1X0RnZ09qcUFNVm9CY09fdUVtSVhyVjBibHRtTHlLcFlKcUdEcUJqUGdLczRFZmFlaDVaRG5oWnAwWFJOcExfazVRODhCbEphSEtlWnZfNWFENDJJ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プライム会員には追加料金なしの生成AI「Alexa+」日本上陸、アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか（東洋経済オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZUjU5TXBtbFIwTGl1Z0hyczZta2VOeC1mUmF4RFI5Zk9LenY4c0VQRWFhd1Rld1ZON0dpVTNiUHM5VFVyMFctSmpYdzFtdXBVWmN5eEw4QWxBT1gtaGItajd1Sjl3b3F3cG1UeFNUU21xRVdXNDRfS0xUOXBnYTg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +94,13 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "SMFL、ユーザーごとの業務アプリケーションを生成AIで高速に開発してSaaS型で提供 - IT Leaders",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSUl1WG1MRmlWWDZaRUhPQURWSS1qTFFCUnJLbHlxaW9IV1dfVldfb1BlVDVlUUplVmVDSk1Dc0ZLdm5hVl9TU2xfLU1JQjZXanI0?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "「ラリーペイジが正しかったかもしれない」イーロン・マスクが語ったAIと人類共存の道 - ビジネス+IT",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FdE5naklGaXB2Y3ZpUmlvYUJsY25BM3AzTjBGUGhKQTFLSHhkWTFoZFFYdkJHUF9SMkREZFFmSm9kVU9xNmtDclVoQll6ZG9RUUxz?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プレスリリース：生成AI「Claude」のスライド入門セミナーに97名が申込 受講後アンケートの回答者の94.7%が満足（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85elgtZDRocmFaQlBTUFdGUF9GRHd5WDBUS2l2S1hIQjkxbDRuLTREZUZCVkhoUDN5Q0NGNi1WUzJsVHR5cEZYLUtyeUNMQ3B2QUZtSDhtNlRnRHNKZ1BaUmFlYTZNVnZ0?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 下野新聞社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SnFUcGNveEFyN1Y5aV9LdkJRRXNjaDFOdXpyUHI1ZExQNXItdkpLN3hLeEZDcnhBakRtMTAtaU1KcGtadlhpc2Z3TjdyalpnVXp0MGh2VTdzczQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
    "publisher": "news.google.com"
   }
  ]
