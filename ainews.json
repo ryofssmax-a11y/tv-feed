@@ -1,49 +1,49 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05T07:46:58+09:00",
+ "updatedAt": "2026-11-05T18:17:03+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、AIでLinuxのroot奪取の穴948件を発見し修正案も作成",
-   "summary": "AIが脆弱性の発見から修正案まで自動処理。API代は約120万ドル",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "publisher": "OpenAI"
+   "title": "Meta、AIコーディングのConductorを買収",
+   "summary": "Conductorを複数AIエージェントで同時にコードを書かせる道具。チームはMetaの超知能研究所へ、クラウド版は11/20停止。",
+   "url": "https://www.conductor.build/announcement",
+   "publisher": "TechCrunch／Conductor公式"
   },
   {
-   "title": "米中間選挙で民主党が議会を制す。AIデータセンターへの監視強化を意識",
-   "summary": "公聴会や調査が増え、AI設備のコスト負担が重くなるとの見方",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep",
-   "publisher": "Reuters（The Star）"
+   "title": "Claude Codeの製品責任者Cat Wu氏、AnthropicからOpenAIへ",
+   "summary": "Claude Codeを育てた人がOpenAIの主力製品の製品管理を率いる。OpenAIは移籍を確認。",
+   "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+   "publisher": "Business Insider"
   },
   {
-   "title": "OpenAI、コード管理ツールのPierreを買収へ",
-   "summary": "Codexの差分表示などの開発元。AIエージェント時代のGitを作り直す狙い",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "publisher": "OpenAI"
+   "title": "xAI、11/7からGrok APIの文章に見えない透かしを標準で入れる",
+   "summary": "grok-4.7など7モデルが対象。EUのAI法対応で、管理者はモデルごとにオフ可能。",
+   "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
+   "publisher": "xAI公式ドキュメント"
   },
   {
-   "title": "ChatGPT、文章や写真から動くGIFを作れるように（Images 2.6）",
-   "summary": "再生速度やコマ単位の修正も可能。全ユーザーに順次提供",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "publisher": "The Verge"
+   "title": "Anthropic、初のニュース使用料契約をAP通信と結んだと報道",
+   "summary": "選挙の夜にClaudeがAPの開票情報を出典つきで表示。両社は公式コメントなし。",
+   "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+   "publisher": "Adweek"
   },
   {
-   "title": "Anthropic、Claudeと組んで細菌側のボールト粒子の立体構造を初解明",
-   "summary": "精製は3日から約90分、最初の構造モデルは34時間で完成",
-   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
-   "publisher": "Anthropic"
+   "title": "PFN、翻訳専用AI「PLaMo 3 Translate」を無料公開",
+   "summary": "0.8B〜31Bの4サイズをオープンウェイトで公開。スマホでも動き、条件付きで商用可。",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+   "publisher": "ITmedia AI＋"
   },
   {
-   "title": "Claude Marketplace、外部パートナー製品が25超に拡大",
-   "summary": "Datadog、Runway、Zoomなどを追加。契約予算の一部を購入に充当可能",
-   "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
-   "publisher": "Anthropic"
+   "title": "新興Ricursive、65Bのコーディング向けAI「Ripple」を公開",
+   "summary": "米国製オープンウェイトでTerminal-Bench 2.1首位の80.5点、開発費は約3200万ドル。",
+   "url": "https://www.ricursive.com/ripple",
+   "publisher": "Ricursive公式"
   },
   {
-   "title": "続報：Moonshot「Kimi K3.1 Pro」、予告どおり重みを公開",
-   "summary": "2.8兆パラメータ・100万トークン対応のモデルを誰でも利用可能に",
-   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-   "publisher": "Moonshot AI"
+   "title": "NEC、機密を伏せたままAIを使える「cotomi Gateway」",
+   "summary": "機密情報を自動で置き換え、仕事に応じてモデルを自動で選び費用も抑える。",
+   "url": "https://www.nikkei.com/article/DGXZQOUC0530N0V01C26A1000000/",
+   "publisher": "日本経済新聞"
   }
  ]
 }
