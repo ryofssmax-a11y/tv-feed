@@ -1,8 +1,23 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05T10:37:08+09:00",
+ "updatedAt": "2026-11-05T17:55:54+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+   "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
@@ -39,21 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news064.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
-   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
    "publisher": "news.google.com"
@@ -64,23 +64,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 下野新聞社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SnFUcGNveEFyN1Y5aV9LdkJRRXNjaDFOdXpyUHI1ZExQNXItdkpLN3hLeEZDcnhBakRtMTAtaU1KcGtadlhpc2Z3TjdyalpnVXp0MGh2VTdzczQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNEItSVlueTB6aEtOUVhiUE5seVlCOTJFVWw4NUY3c2Y0QkdhSTNnMTc3Y2RDZ21pcEdnbFNQZXlsU1VRMXV1aWV5VFkxVXA3azQ5ODNPMEF3T1ZJSXdjVkNVM2FBVFFvNFE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "SMFL、ユーザーごとの業務アプリケーションを生成AIで高速に開発してSaaS型で提供 - IT Leaders",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSUl1WG1MRmlWWDZaRUhPQURWSS1qTFFCUnJLbHlxaW9IV1dfVldfb1BlVDVlUUplVmVDSk1Dc0ZLdm5hVl9TU2xfLU1JQjZXanI0?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "デザイン業の倒産が上半期最多、生成ＡＩだけでは語れない小規模企業の苦境 #エキスパートトピ（中村智彦） - エキスパート - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2pZOEJpd0JtZEl3akR4dHhhUzEwbE15YU5yWWxPa0kydFhVWE41bmRSOGNPVHhDblRQUDhpalY1SW1YWDdPWlBCal9wYUdTa2pjSGg1MHNzYWZId2xkeEllZnI4U19zVW5HVW1MU29EY2FrUmcyYmRSUW1EcDQ5OTdDc0VxdEcy?oc=5",
+   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,8 +74,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：生成AI「Claude」のスライド入門セミナーに97名が申込 受講後アンケートの回答者の94.7%が満足（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85elgtZDRocmFaQlBTUFdGUF9GRHd5WDBUS2l2S1hIQjkxbDRuLTREZUZCVkhoUDN5Q0NGNi1WUzJsVHR5cEZYLUtyeUNMQ3B2QUZtSDhtNlRnRHNKZ1BaUmFlYTZNVnZ0?oc=5",
+   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yX3l2cXpZSlNfQUUyc2luLUlkU2VwRUlxeUJyTmdZYzh5cGtzYm1oSkJvSVJsNWVtdTZDRGJXQVk2QldhMkVoVloxMF9rakRLMEVQX1R0NmRRQ21hOUE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "災害報道、生成ＡＩ課題議論＝マスコミ倫理懇大会が開幕―広島 - 時事通信ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aeGRvSU1ldlpQMzlLeHlVQk5CME03UDdVUFZYQlg4Rk5KYTMySDZybGM3OW5wdE1LeHRpOFZLazg1eFo2VG1uZEVpZk5KbjhlNS1pVw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +89,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIで仕事は速くなったのに売り上げは増えない―IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUDFsMTJYMmtYRzFJTVJwdDhCY2wxX0pIS3NDUUVFckRMWHAtN2luaWRvd19VVi1LTjdCVlRreV9LRUNtdmJIUnlTcHBYUGdreHRlT3FKTGNZS1E?oc=5",
+   "title": "「ラリーペイジが正しかったかもしれない」イーロン・マスクが語ったAIと人類共存の道 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FdE5naklGaXB2Y3ZpUmlvYUJsY25BM3AzTjBGUGhKQTFLSHhkWTFoZFFYdkJHUF9SMkREZFFmSm9kVU9xNmtDclVoQll6ZG9RUUxz?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UG5HcjFGd05uV1o1TDV0SGc1SU9DQ09uTzV4Sld3b2JtOTdOckh6OFJ6aUF2ZXdQTFprdF9HbUhSakVJYWJ6aFNrdkdlM2haSXg0bnJxcERoVm9VUmowblZn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ChatGPTでGIFアニメが作れるように OpenAI、画像生成AI「Images 2.6」発表（アスキー） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVTTJhRExORnRva3Z4blNwZEdoakhBZ3RNWkYxMGlGNGlLTWNkTjdYTEI5WkFTSGljTzJWbjlOSTBJTGFVR2pRamtLaDBoTW5VZTk1aVZOeTdhaDh1MF9GYWw3SHh0RF82ZW5uZzBGZUNHZ2pZbWM1SVM0TDQwMW8?oc=5",
    "publisher": "news.google.com"
   }
  ]
