@@ -1,8 +1,13 @@
 {
- "date": "2026-11-05",
- "updatedAt": "2026-11-05T17:55:54+09:00",
+ "date": "2026-11-06",
+ "updatedAt": "2026-11-06T02:07:32+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
@@ -34,11 +39,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
    "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
    "publisher": "rss.itmedia.co.jp"
@@ -54,6 +54,21 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
+   "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "フジ、ドラマ制作に生成AI活用本格化「救命病棟24時」でも導入　27年10月めどに体制整備 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU0xbEZLRzhWdU16eHVlREF4YUZVb2JhWTZxb2RxaENwV3QySnEzVi04am1CeTVSX2VDOXBuZDVKMEdEQXdTbl94SVVrbVhDM3ZWWk13SmltM01BY1F4R0tBa0F3SnoxS1p3TG5xazFtSnFyNWVweHAzYTRZQTBfcENuV2JiME1LNE10TUhyTFV3Y1NMY2FGOUlzcHVUdWvSAaQBQVVfeXFMUHQxd2JjZmZDSkdqRU5iaVhPdWF5TDNRV0ptdldVX0J4WFRjV1Y1N3J6Y0tzSW1QeWx4SHoxclFaeF8tRGpXT1FHUC1jMmZvaVVtOFBjREcwTUNqa25XcnFsa3MxcThjaDM4UVNURTg0SC1pS0RaQUVaTGpxNWVEZjJ0MDVHSl9YVVJPZk5yR2dFeHk4enlBS3pURGtyRGZSaUh5dG4?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
    "publisher": "news.google.com"
@@ -64,28 +79,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine - CodeZine",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeXlyd3ZSQVUzNEw3NjVOeFVUZWFsNGFvN09IQzlIWDRONU5aQzNheFdPTDdsLU91Y0FjZFJEY245VDZ5Y2ZEaEVLX2xrWm1GMkE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yX3l2cXpZSlNfQUUyc2luLUlkU2VwRUlxeUJyTmdZYzh5cGtzYm1oSkJvSVJsNWVtdTZDRGJXQVk2QldhMkVoVloxMF9rakRLMEVQX1R0NmRRQ21hOUE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "災害報道、生成ＡＩ課題議論＝マスコミ倫理懇大会が開幕―広島 - 時事通信ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aeGRvSU1ldlpQMzlLeHlVQk5CME03UDdVUFZYQlg4Rk5KYTMySDZybGM3OW5wdE1LeHRpOFZLazg1eFo2VG1uZEVpZk5KbjhlNS1pVw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
+   "title": "「肘を正しく固定して」生成AIがトレーニングのアドバイス!? 高校生がAIの上手な使い方を学ぶ（山形・酒田市） - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5POFdRM0VLczV6ZzktajEyY0E1djBGMllWVmdnNmt1RXVKY1YzRHFZSW9MMWJKdW9JbE9MbXF6Y2UtS1l3SkZLTnoxdERfaV9QMmNWMmJmQUM3QQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +89,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15UG5HcjFGd05uV1o1TDV0SGc1SU9DQ09uTzV4Sld3b2JtOTdOckh6OFJ6aUF2ZXdQTFprdF9HbUhSakVJYWJ6aFNrdkdlM2haSXg0bnJxcERoVm9VUmowblZn?oc=5",
+   "title": "プレスリリース：生成AI「Claude」のスライド入門セミナーに97名が申込 受講後アンケートの回答者の94.7%が満足（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85elgtZDRocmFaQlBTUFdGUF9GRHd5WDBUS2l2S1hIQjkxbDRuLTREZUZCVkhoUDN5Q0NGNi1WUzJsVHR5cEZYLUtyeUNMQ3B2QUZtSDhtNlRnRHNKZ1BaUmFlYTZNVnZ0?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ChatGPTでGIFアニメが作れるように OpenAI、画像生成AI「Images 2.6」発表（アスキー） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVTTJhRExORnRva3Z4blNwZEdoakhBZ3RNWkYxMGlGNGlLTWNkTjdYTEI5WkFTSGljTzJWbjlOSTBJTGFVR2pRamtLaDBoTW5VZTk1aVZOeTdhaDh1MF9GYWw3SHh0RF82ZW5uZzBGZUNHZ2pZbWM1SVM0TDQwMW8?oc=5",
+   "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満 - 下野新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SnFUcGNveEFyN1Y5aV9LdkJRRXNjaDFOdXpyUHI1ZExQNXItdkpLN3hLeEZDcnhBakRtMTAtaU1KcGtadlhpc2Z3TjdyalpnVXp0MGh2VTdzczQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
    "publisher": "news.google.com"
   }
  ]
