@@ -1,25 +1,49 @@
 {
  "date": "2026-11-06",
- "updatedAt": "2026-11-06T07:52:38+09:00",
+ "updatedAt": "2026-11-06T18:21:46+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、脆弱性を探すGPT-6 Cyberを限定提供",
-   "summary": "許可された範囲内で脆弱性を発見・検証するモデルを、一部のDaybreak Red顧客向けに提供開始。OpenAIはFirefoxで未知の重大な脆弱性81件を発見したと説明。能力向上と同時に悪用対策・アクセス制限も強化している。",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "publisher": "OpenAI"
-  },
-  {
-   "title": "METR、AnthropicのAI開発ペースは従来の約2倍と評価",
-   "summary": "内部データを調べ、明確に採点できる課題での能力向上ペースが従来の約2倍になったと推定。AIによる研究支援が主因の可能性を示すが、不確実性は大きく、重要な根拠の多くは非公開。全面的な研究自動化を実証したものではない。",
-   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-   "publisher": "METR"
-  },
-  {
-   "title": "Google、ワイオミング州のデータセンターに170億ドル投資へ",
-   "summary": "同州初のGoogleデータセンターを発表。計画には702MWの天然ガス燃料電池と二酸化炭素回収・貯留、冷却水を抑える空冷方式を含む。AI基盤拡大で、計算能力だけでなく電力・水・地域負担への対応が重要になっている。",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+   "title": "Google、動画生成「Gemini Omni 1.2 Flash」を正式公開",
+   "summary": "最長15秒・会話編集対応。720pは1秒0.07ドルで前版より約3割安い。",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "publisher": "Google"
+  },
+  {
+   "title": "Claudeに「Personal Finance」β、銀行口座と連携",
+   "summary": "米有料プラン向け。Plaid経由で読み取り専用接続し、支出の内訳を聞ける。",
+   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "publisher": "Anthropic"
+  },
+  {
+   "title": "米司法省、超知能（SI）対策の特別班を発足",
+   "summary": "外国勢や犯罪組織による先進AI悪用を防ぐSuper Intelligence Task Force。",
+   "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+   "publisher": "米司法省"
+  },
+  {
+   "title": "Thinking Machines、Inkling 2 Smallを発表",
+   "summary": "5940億パラメータのMoE。安全点検後にApache 2.0で重み公開予定。",
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "publisher": "Thinking Machines Lab"
+  },
+  {
+   "title": "Anthropic、企業向けセキュリティ強化。推論フックは正式提供",
+   "summary": "プロンプトやツール呼び出しを社内セキュリティで許可・拒否できる仕組みが正式版。",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "publisher": "Anthropic"
+  },
+  {
+   "title": "Google、Anthropic向け約190億ドルのデータセンター契約を信用面で支援",
+   "summary": "TeraWulfのケンタッキー拠点。稼働は2027年末〜2028年頃の予定。",
+   "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
+   "publisher": "TeraWulf"
+  },
+  {
+   "title": "🇯🇵 NTTデータ×FLUX、経営判断を助けるAIエージェントサービス開始",
+   "summary": "社内データを根拠付きで分析。3年で累計100億円規模の事業をめざす。",
+   "url": "https://www.nttdata.com/global/ja/news/topics/2026/110500/",
+   "publisher": "NTTデータ"
   }
  ]
 }
