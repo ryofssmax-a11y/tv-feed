@@ -1,8 +1,23 @@
 {
  "date": "2026-11-07",
- "updatedAt": "2026-11-07T03:12:47+09:00",
+ "updatedAt": "2026-11-07T08:23:23+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
@@ -39,21 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "エンタープライズSaaSにもバイブコーディングの波　三井住友系が顧客ごとのカスタマイズに活用　安定性をどう確保？",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
    "publisher": "news.google.com"
@@ -69,13 +69,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
+   "title": "GENSHI AI、「医療生成AIスペシャリスト試験」の試験の運営を担当。公式テキストの予約受付を開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HdXpiWndzcWpEOWFZLTBaaWx5NTBSenRFSnNpY0V4WDlDMXJ6OGN2UVJRaUJSZ2VyRnNrdm5ORy1RbjM0ZHNVMDNYenVaXzJOd3hjSnhNQTA2UWxySnprdTZ6YVg0VFdZOWc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85NGRld2FyMU5OQWJ5YnpFcXdQVjR2SHEtNlFHd3VGR2syNG4tcTZpT3hHLXVIejU3WmN5ZmNBbmZ6Zl82cVNDNVhqa2llSkp1UVdDYjY1QXNWSFU?oc=5",
+   "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集 - キーマンズネット",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdFNHTno0RDJ1ZzRSTE1IRnl5U3RRdXQ4TXpvWk1FMzRabHJXYzhXajdNMGNfR1RmN3l0RkY5dzk2RWN1aEZqWmNoMzFpQ2lVaWRTZ2hFQUI4c3FRR0pnbGU5TTdvZw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIを使わないという選択は通用しない――「 #芝浦工大柏中高 」が目指す“禁止しない教育” #宮本さおり - 新潮QUE",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ubzd2R1ZhRlQxU282anhFRDFERGIzOWZObDZpc3pJdnFMTGZSamlXd1dkWmdJb0JRc3l1LUM2N1hWX0xqYlFMMnp3d0UwcEhw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「肘を正しく固定して」生成AIがトレーニングのアドバイス!? 高校生がAIの上手な使い方を学ぶ（山形・酒田市） - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5POFdRM0VLczV6ZzktajEyY0E1djBGMllWVmdnNmt1RXVKY1YzRHFZSW9MMWJKdW9JbE9MbXF6Y2UtS1l3SkZLTnoxdERfaV9QMmNWMmJmQUM3QQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Google、動画生成AI「Gemini Omni 1.2 Flash」を一般提供 前モデルから30%値下げ、最大15秒に長尺化 - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQVFSV1hVVkdNTldpSzR2a0xMdmVLSUFtc29pOWJIZ1gzLWFKMldCem1BN1FsWWxkakZRZFl2Unp0Ry05akFvNk9CaVU0VEV4eDVMRVl0UlExNEpualpDRUVHTQ?oc=5",
+   "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PNXFCaVlYUXlEMlhPUzlCbjJnRWNjUlp0OG1XLTVwM21HYWdPX1lDTE94Q1VSblhkejVfZEt5Yld1cFgzZVQ4QWctR3Y1c2tiTHY2OXkxRmp6ZFU?oc=5",
    "publisher": "news.google.com"
   }
  ]
