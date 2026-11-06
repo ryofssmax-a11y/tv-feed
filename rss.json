@@ -1,8 +1,48 @@
 {
  "date": "2026-11-06",
- "updatedAt": "2026-11-06T07:45:44+09:00",
+ "updatedAt": "2026-11-06T12:07:50+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "エンタープライズSaaSにもバイブコーディングの波　三井住友系が顧客ごとのカスタマイズに活用　安定性をどう確保？",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002933/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
@@ -14,53 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
-   "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
+   "title": "「救命病棟24時」の爆発事故シーンに生成AI フジテレビ、制作の一部工程で工数最大8割減（電波タイムズ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekJNYVp4ZlRqOVBLdGJmMFF0UUVmYUxQUVlWOE9LYjItRzFTTjhvWV84ZkNsc2ZxSXdSdnR2amJpVWNRYXJsZl83WVJQaTM0RHNmR21yMmlXclJJQTBab002azRFWFRQSmoxbmQ1XzdPOTFkc2tabi1wdENFaE0?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,23 +69,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
+   "title": "経済プラス：生成AIの偽画像を見破れ！保険金不正請求に損保業界が対応強化 - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOEJoU1ljNXJNb1h0MXhSajN5c3RSdDBIczZZZkNyaS1SSmhpSGtwQURjdnRSczZmdWJLTWNOcGdlbUdqdE1qdHl1WFF2VkxwaUlVZW9MZUFvd3Mzb193WW4tOFhrWHd2?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "AI新世紀：オットGPTで見つけた亡夫の宝物 AI故人とどう向き合うか - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRjlkWGRBUUtuVVk1X0RnZ09qcUFNVm9CY09fdUVtSVhyVjBibHRtTHlLcFlKcUdEcUJqUGdLczRFZmFlaDVaRG5oWnAwWFJOcExfazVRODhCbEphSEtlWnZfNWFENDJJ?oc=5",
+   "title": "インソース[6200]：年末年始に学ぶ生成AI「冬の自己研鑽キャンペーン」を開始 ～夏の好評企画を受け、Copilot・Geminiなど全９コースを開講 2026年11月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHJOUVhneWFVSjd0ZnNuWVU0bDZ2OFBrRUtORjdKUFJsdDJoSEFrdTAyRV9ZVkhmVjNZbGwwNFMzUEpVM0VhbjlsNmpkd2tGSGp3OFR3alVNSEREbXZicmV1Tkx4SHZDbVFlNk9GdWJ3VnM1cVJ3ejVtenY1V0hqRm0tR1hJZkYzTzFSQVQ1WDh5Q2Y0Y3J0VkQ1RmN6WXZxMDA0MlJueGNGUFdPWFJCYnNZREZXdTV4YjdfTGNOV0UxNVRaekJsblZ5MkE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プライム会員には追加料金なしの生成AI「Alexa+」日本上陸、アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか（東洋経済オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZUjU5TXBtbFIwTGl1Z0hyczZta2VOeC1mUmF4RFI5Zk9LenY4c0VQRWFhd1Rld1ZON0dpVTNiUHM5VFVyMFctSmpYdzFtdXBVWmN5eEw4QWxBT1gtaGItajd1Sjl3b3F3cG1UeFNUU21xRVdXNDRfS0xUOXBnYTg?oc=5",
+   "title": "生成AI活用により建設現場の業務効率化を加速 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVVVFMmpHSmRNWVEtRmhvSndrQlNlMUJZZERWUElBSmlVak1UV2pLMGt3YlhYSUtoSDB3RzFkM1JBOGNNZzdERk1TMmE0bVM3a1hGSm4zb2oxNW5DUFE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "裁判に生成ＡＩ どこまで…民事「迅速化」へ活用検討 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Vk5lMENMSGNhRlQ0Ty1YS2ZwZjBONXl2Y1FQWmRtSmJ0dkRRTkJOWnlBMUVXX21Ecm90dllSZzdEMXAxd1lneEtnR01sTklsZ2hpczJSZ0R5bmctNmZONUgxTS1Hc2h2?oc=5",
+   "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9weGVabC02emVudkxLbVBVcXdMZTFweVVOZ3FyOUo4RkNFOGpMU2VEUjJyVVRJam9Hc0E2YWpzMldDS3I3dlQxVndEMnZXZ29mNk5wTFFFUzc1RFQxb1Z3?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「ラリーペイジが正しかったかもしれない」イーロン・マスクが語ったAIと人類共存の道 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FdE5naklGaXB2Y3ZpUmlvYUJsY25BM3AzTjBGUGhKQTFLSHhkWTFoZFFYdkJHUF9SMkREZFFmSm9kVU9xNmtDclVoQll6ZG9RUUxz?oc=5",
+   "title": "サイバーエージェント次世代生活研究所、「若者の生成AI利用実態調査」を実施 最終回となる第4回は「生成AIが消費に効く理由」を発表 - 株式会社サイバーエージェント",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LY19BbmJWR1hRemxFWEU4c1Z2RTdPTktqVDBzaDBwd1RpdUJUSzVhNS1iSnhlTDhUYlEzZGhNbjhpTHluWFptaVp1OGRGOWFvZ3RVZ0NuQXhaOExiaVE?oc=5",
    "publisher": "news.google.com"
   }
  ]
