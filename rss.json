@@ -1,8 +1,23 @@
 {
  "date": "2026-11-06",
- "updatedAt": "2026-11-06T12:07:50+09:00",
+ "updatedAt": "2026-11-06T20:18:14+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "国内GPUサーバでオープンモデルを利用可能に　フィックスターズが新サービス　まずは「DeepSeek-V4.1-Flash-1017」から",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
@@ -39,68 +54,53 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002909/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「救命病棟24時」の爆発事故シーンに生成AI フジテレビ、制作の一部工程で工数最大8割減（電波タイムズ） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekJNYVp4ZlRqOVBLdGJmMFF0UUVmYUxQUVlWOE9LYjItRzFTTjhvWV84ZkNsc2ZxSXdSdnR2amJpVWNRYXJsZl83WVJQaTM0RHNmR21yMmlXclJJQTBab002azRFWFRQSmoxbmQ1XzdPOTFkc2tabi1wdENFaE0?oc=5",
+   "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xQmdGN2RlNWJONnhpRm4yVS1JVHFRX2FVdHdZVV9lUlFjX3BIT3Z0WUhUS3VseG1TT25MRXUtQU1wdEJUYUUwV3Ytb003SUNydW95NTlRd0xRY1NPMm1qaFYyRzBHV2xNcXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "フジ、ドラマ制作に生成AI活用本格化「救命病棟24時」でも導入　27年10月めどに体制整備 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU0xbEZLRzhWdU16eHVlREF4YUZVb2JhWTZxb2RxaENwV3QySnEzVi04am1CeTVSX2VDOXBuZDVKMEdEQXdTbl94SVVrbVhDM3ZWWk13SmltM01BY1F4R0tBa0F3SnoxS1p3TG5xazFtSnFyNWVweHAzYTRZQTBfcENuV2JiME1LNE10TUhyTFV3Y1NMY2FGOUlzcHVUdWvSAaQBQVVfeXFMUHQxd2JjZmZDSkdqRU5iaVhPdWF5TDNRV0ptdldVX0J4WFRjV1Y1N3J6Y0tzSW1QeWx4SHoxclFaeF8tRGpXT1FHUC1jMmZvaVVtOFBjREcwTUNqa25XcnFsa3MxcThjaDM4UVNURTg0SC1pS0RaQUVaTGpxNWVEZjJ0MDVHSl9YVVJPZk5yR2dFeHk4enlBS3pURGtyRGZSaUh5dG4?oc=5",
+   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "経済プラス：生成AIの偽画像を見破れ！保険金不正請求に損保業界が対応強化 - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOEJoU1ljNXJNb1h0MXhSajN5c3RSdDBIczZZZkNyaS1SSmhpSGtwQURjdnRSczZmdWJLTWNOcGdlbUdqdE1qdHl1WFF2VkxwaUlVZW9MZUFvd3Mzb193WW4tOFhrWHd2?oc=5",
+   "title": "商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTVRvdkJNTDdkUWRtQ0ZIdkU3SHlMV2dMaFB6U1VkZGNESndhYnZxMUV1TXJuU3ZYZHl0TTRmdGhSbjIzMDhpUjBkU1BaakhubTE0SWFNLXVydTZWblpIMHhkdl9oT2t0VC12VA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "インソース[6200]：年末年始に学ぶ生成AI「冬の自己研鑽キャンペーン」を開始 ～夏の好評企画を受け、Copilot・Geminiなど全９コースを開講 2026年11月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbHJOUVhneWFVSjd0ZnNuWVU0bDZ2OFBrRUtORjdKUFJsdDJoSEFrdTAyRV9ZVkhmVjNZbGwwNFMzUEpVM0VhbjlsNmpkd2tGSGp3OFR3alVNSEREbXZicmV1Tkx4SHZDbVFlNk9GdWJ3VnM1cVJ3ejVtenY1V0hqRm0tR1hJZkYzTzFSQVQ1WDh5Q2Y0Y3J0VkQ1RmN6WXZxMDA0MlJueGNGUFdPWFJCYnNZREZXdTV4YjdfTGNOV0UxNVRaekJsblZ5MkE?oc=5",
+   "title": "「そこだけ直して」で動画編集可。動画生成AI「Gemini Omni 1.2 Flash」登場 - PC Watch",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWN3FQSzRpVG1Vb2FWd1J3ZnlYSFVGR1NOVG1uOXp4ekRybnh3MXR1RGxJZjZDb3lRb1I3VVVCRmJwWWVCOUJGclYwYjAwT1k2R3plQVlHTUgxeEtZdThDSmlYOA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI活用により建設現場の業務効率化を加速 - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVVVFMmpHSmRNWVEtRmhvSndrQlNlMUJZZERWUElBSmlVak1UV2pLMGt3YlhYSUtoSDB3RzFkM1JBOGNNZzdERk1TMmE0bVM3a1hGSm4zb2oxNW5DUFE?oc=5",
+   "title": "Google、動画生成AI「Gemini Omni 1.2 Flash」を一般提供 前モデルから30%値下げ、最大15秒に長尺化 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQVFSV1hVVkdNTldpSzR2a0xMdmVLSUFtc29pOWJIZ1gzLWFKMldCem1BN1FsWWxkakZRZFl2Unp0Ry05akFvNk9CaVU0VEV4eDVMRVl0UlExNEpualpDRUVHTQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "グーグル、動画生成AIを3割値下げ 15秒の広告が1回で作れ、Vidsでは追加費用なし - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DaVlTekxOaEo5U05YYjYzMVM5Y0MyYmdlSEJ3UmJIZ0c3TXQxSHlJendodkdoOTI3NzR1QlVuWEFWM09sakZOUnlCUmZhS2MxVHcw?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9weGVabC02emVudkxLbVBVcXdMZTFweVVOZ3FyOUo4RkNFOGpMU2VEUjJyVVRJam9Hc0E2YWpzMldDS3I3dlQxVndEMnZXZ29mNk5wTFFFUzc1RFQxb1Z3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PNXFCaVlYUXlEMlhPUzlCbjJnRWNjUlp0OG1XLTVwM21HYWdPX1lDTE94Q1VSblhkejVfZEt5Yld1cFgzZVQ4QWctR3Y1c2tiTHY2OXkxRmp6ZFU?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「肘を正しく固定して」生成AIがトレーニングのアドバイス!? 高校生がAIの上手な使い方を学ぶ（山形・酒田市） - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5POFdRM0VLczV6ZzktajEyY0E1djBGMllWVmdnNmt1RXVKY1YzRHFZSW9MMWJKdW9JbE9MbXF6Y2UtS1l3SkZLTnoxdERfaV9QMmNWMmJmQUM3QQ?oc=5",
+   "title": "AI新世紀：オットGPTで見つけた亡夫の宝物 AI故人とどう向き合うか - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlRjlkWGRBUUtuVVk1X0RnZ09qcUFNVm9CY09fdUVtSVhyVjBibHRtTHlLcFlKcUdEcUJqUGdLczRFZmFlaDVaRG5oWnAwWFJOcExfazVRODhCbEphSEtlWnZfNWFENDJJ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "SMFL、ユーザーごとの業務アプリケーションを生成AIで高速に開発してSaaS型で提供 - IT Leaders",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSUl1WG1MRmlWWDZaRUhPQURWSS1qTFFCUnJLbHlxaW9IV1dfVldfb1BlVDVlUUplVmVDSk1Dc0ZLdm5hVl9TU2xfLU1JQjZXanI0?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "サイバーエージェント次世代生活研究所、「若者の生成AI利用実態調査」を実施 最終回となる第4回は「生成AIが消費に効く理由」を発表 - 株式会社サイバーエージェント",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LY19BbmJWR1hRemxFWEU4c1Z2RTdPTktqVDBzaDBwd1RpdUJUSzVhNS1iSnhlTDhUYlEzZGhNbjhpTHluWFptaVp1OGRGOWFvZ3RVZ0NuQXhaOExiaVE?oc=5",
+   "title": "人事の生成AI活用、約9割が“個人の業務効率化”止まり 大手56法人調査で見えた3つの壁と次の一手 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VUUN6OUhNbWRBdVNDM2dYY0NSTEdmWkRRXzlxdGI3V09wWk9lX2dqQ3BnUFZDTXhzaGpFb3R6REZfdHhwWUFxakJiaUktc1JEeDFYdnp3?oc=5",
    "publisher": "news.google.com"
   }
  ]
