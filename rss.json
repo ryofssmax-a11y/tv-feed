@@ -1,8 +1,13 @@
 {
  "date": "2026-11-08",
- "updatedAt": "2026-11-08T05:23:53+09:00",
+ "updatedAt": "2026-11-08T08:47:18+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
@@ -49,11 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
    "publisher": "news.google.com"
@@ -64,8 +64,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "【人工知能学会前会長・栗原聡インタビュー #2】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MeTNRSFg5NUprZFl0NVQ2STdhNDczMGwwNHZCNmFLLS1GRktpYzFqRVJ1R1FHVy1PTHRPSXNIVXVPSkJuRTZ1dG5LUldCTndk?oc=5",
+   "title": "自律して動き、仕事を進める「AIエージェント」とは？従来の生成AIとの決定的な違い - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xYVpDc29GeElFSWxVZ0RkWEJLX1hwYzlKeGFkZjRNUzR0eklpSGJucE5ncmd6cGhYMzFlQ3BhdGhqQ1RxMHVPb2tlU3BTTlQzcXliNkx0NkJHOHg3TE1hbmI2b0wwaGVoLWVNVzVEdGNVNXdRazFWLVZB0gF_QVVfeXFMT0lRUlVlS3hLeGR6b0lmUTY3czVRMHlUVnRSekJlU29fa2doMHd1amdqR0xIa1pqQ3hXY1B6NEdYeVhXU3ZNQlRUR29lRjJzaE9oWHpmeGFzZnAwNzZqSUlrVUhVVFR5UTk5Wkk5WnhPZjBtQzZ4ZjlZLTRnaWhOWQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,13 +89,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換・社員のキャリアにも変化。年36万時間相当の業務拡大に対応 - Manegy[マネジー]",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yaU1aM3JDTTZSSDFaY3RlcHIwNHNWTVkzaEFsMXdMRjEtX1QxeTR6WnBNdGtqTTNBZVkxNF9MWnZtY0xzUzNER05yOHlWalVrcjFN?oc=5",
+   "title": "生成AIを使わないという選択は通用しない――「 #芝浦工大柏中高 」が目指す“禁止しない教育” #宮本さおり - 新潮QUE",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ubzd2R1ZhRlQxU282anhFRDFERGIzOWZObDZpc3pJdnFMTGZSamlXd1dkWmdJb0JRc3l1LUM2N1hWX0xqYlFMMnp3d0UwcEhw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "経済プラス：生成AIの偽画像を見破れ！保険金不正請求に損保業界が対応強化 - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOEJoU1ljNXJNb1h0MXhSajN5c3RSdDBIczZZZkNyaS1SSmhpSGtwQURjdnRSczZmdWJLTWNOcGdlbUdqdE1qdHl1WFF2VkxwaUlVZW9MZUFvd3Mzb193WW4tOFhrWHd2?oc=5",
+   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換・社員のキャリアにも変化。年36万時間相当の業務拡大に対応 - Manegy[マネジー]",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yaU1aM3JDTTZSSDFaY3RlcHIwNHNWTVkzaEFsMXdMRjEtX1QxeTR6WnBNdGtqTTNBZVkxNF9MWnZtY0xzUzNER05yOHlWalVrcjFN?oc=5",
    "publisher": "news.google.com"
   },
   {
