@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updatedAt": "2026-11-07T11:59:47+09:00",
+ "updatedAt": "2026-11-07T18:53:58+09:00",
  "source": "rss",
  "items": [
   {
@@ -54,18 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "フジ 全ドラマに生成AI導入へ - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xQmdGN2RlNWJONnhpRm4yVS1JVHFRX2FVdHdZVV9lUlFjX3BIT3Z0WUhUS3VseG1TT25MRXUtQU1wdEJUYUUwV3Ytb003SUNydW95NTlRd0xRY1NPMm1qaFYyRzBHV2xNcXc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ - Impress Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
+   "title": "ドラマ制作で生成AIの活用を本格化、フジテレビが発表 「救命病棟24時」で実践 - ナタリー",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XbVdPY1IwTHVuN3lNWUNVUnRic3dSSTQ4dENFQ2d1Wm13UllVLXpMNi1XRDUtVEJ1Mzd6R3c0dVhkak1kTXE0a0E4UQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,18 +64,28 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "生成AI広告「ネガティブな印象」5割超 故人や実在人物の生成に抵抗感 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xd1dZVGREVUhqblJURFNLQ09QSXN0OThCcmVQclQtTUxfNVJ3d21GVG8zbDZXZERXdU83eWwyNzdqb2xrY1l3MXJ4RWR0RXBlV1FtRS1zS2k1Ti1lMUdNc2Fjbmh5ZU9jQy1BSg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プライム会員には追加料金なしの生成AI「Alexa+」日本上陸、アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか（東洋経済オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZUjU5TXBtbFIwTGl1Z0hyczZta2VOeC1mUmF4RFI5Zk9LenY4c0VQRWFhd1Rld1ZON0dpVTNiUHM5VFVyMFctSmpYdzFtdXBVWmN5eEw4QWxBT1gtaGItajd1Sjl3b3F3cG1UeFNUU21xRVdXNDRfS0xUOXBnYTg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "企業の業務改善に役立てて 「生成AI」など最新IT技術に触れるイベント【岡山】 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qNFY3VzluSVM3b05GMUFOMVpjYlMwaVU2T3huVVV6NmRQOGJmNHNRSXZwTGZaZENmblh3VkZvOTdZWDNKWUJpN0F1V3VEUGZtTWhrcUhFTQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換・社員のキャリアにも変化。年36万時間相当の業務拡大に対応 - Manegy[マネジー]",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yaU1aM3JDTTZSSDFaY3RlcHIwNHNWTVkzaEFsMXdMRjEtX1QxeTR6WnBNdGtqTTNBZVkxNF9MWnZtY0xzUzNER05yOHlWalVrcjFN?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集 - キーマンズネット",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdFNHTno0RDJ1ZzRSTE1IRnl5U3RRdXQ4TXpvWk1FMzRabHJXYzhXajdNMGNfR1RmN3l0RkY5dzk2RWN1aEZqWmNoMzFpQ2lVaWRTZ2hFQUI4c3FRR0pnbGU5TTdvZw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "経済プラス：生成AIの偽画像を見破れ！保険金不正請求に損保業界が対応強化 - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOEJoU1ljNXJNb1h0MXhSajN5c3RSdDBIczZZZkNyaS1SSmhpSGtwQURjdnRSczZmdWJLTWNOcGdlbUdqdE1qdHl1WFF2VkxwaUlVZW9MZUFvd3Mzb193WW4tOFhrWHd2?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "グライムス、生成AI映画「Gods Don’t Give Gifts」に出演 先行映像公開 - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qd1NSWkpuSngzd093MC1qVWVlaUVqWWUzaTF0Vk9uRlZuLU5BOV9sZVZHOEI1Qk1kejZXVExmRmNJSmQxWXlsclIwX2p4RFNBMXc?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Google、動画生成AI「Gemini Omni 1.2 Flash」を発表！15秒の動画を一度に生成、料金は30%値下げ - CGinterest",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVjZ0X0E5bnkwanA4aDFDQXB3NEs2Wm5fOTZoLXI4NUVYLTBVcXZIaXdzUnNGWVhNZGJwNmdONERvMFNhdWtLRlJ1N253UTBSbUR0YV9IN0Z5ejJvVnBSVmtmeFNuOG8?oc=5",
+   "title": "グライムス、生成AI映画「Gods Don’t Give Gifts」に出演 先行映像公開 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qd1NSWkpuSngzd093MC1qVWVlaUVqWWUzaTF0Vk9uRlZuLU5BOV9sZVZHOEI1Qk1kejZXVExmRmNJSmQxWXlsclIwX2p4RFNBMXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「そこだけ直して」で動画編集可。動画生成AI「Gemini Omni 1.2 Flash」登場（PC Watch） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kYWJNYU5naFRSQlgtcDRYOTdMbWpKN0VmV3g5bDlnSmY1LUc3bXdCRDZRSDF4UTEzaEp1MERGUjNZQkY5cmtUWVh4Z2lweHFhTVlrWGU3Zjl4R2hZeF9neVFnRTBYN2ktLXBaQXVrdFlaTGgyei0tZHFYMjU4Ylk?oc=5",
+   "title": "「ヴィジョンクエスト」リアルだけど不自然！生成AIの世界を再現した“マインドスペース”の裏側が明らかに - 映画.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1weXczUHpwNkVsTmM0OVc3TU81dUVnM29kV1oxamhSendqZ2FnV3NPdklhcjZKTWIyMGpZSEZIaU5OXzFTWWZHOQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
