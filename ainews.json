@@ -1,49 +1,49 @@
 {
- "date": "2026-11-06",
- "updatedAt": "2026-11-06T18:21:46+09:00",
+ "date": "2026-11-09",
+ "updatedAt": "2026-11-09T07:48:38+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Google、動画生成「Gemini Omni 1.2 Flash」を正式公開",
-   "summary": "最長15秒・会話編集対応。720pは1秒0.07ドルで前版より約3割安い。",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "publisher": "Google"
+   "title": "NVIDIA取締役会、フアンCEOが外国の情報工作の標的になった件で独立調査",
+   "summary": "機密漏れの根拠はないとしつつ、社外取締役が調査。11/17決算前。",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "publisher": "NVIDIA"
   },
   {
-   "title": "Claudeに「Personal Finance」β、銀行口座と連携",
-   "summary": "米有料プラン向け。Plaid経由で読み取り専用接続し、支出の内訳を聞ける。",
-   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
-   "publisher": "Anthropic"
+   "title": "Anthropic、感謝祭前の上場へ（評価額1.25兆〜1.75兆ドル見込み）",
+   "summary": "相場下落でも上場を進め、期待より低い値段を受け入れる構え。",
+   "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+   "publisher": "CNBC"
   },
   {
-   "title": "米司法省、超知能（SI）対策の特別班を発足",
-   "summary": "外国勢や犯罪組織による先進AI悪用を防ぐSuper Intelligence Task Force。",
-   "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
-   "publisher": "米司法省"
+   "title": "OpenAI、評価額1.25兆ドルで110億ドルを調達と報道",
+   "summary": "最終約200億ドルの見込みで、9月の目標を下回る。",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "publisher": "TechCrunch"
   },
   {
-   "title": "Thinking Machines、Inkling 2 Smallを発表",
-   "summary": "5940億パラメータのMoE。安全点検後にApache 2.0で重み公開予定。",
-   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-   "publisher": "Thinking Machines Lab"
+   "title": "Google DeepMind、AIで古い1024ビットRSA暗号の弱点を2つ発見",
+   "summary": "今の主流の2048ビット以上には影響なし。暗号の点検をAIで速める研究。",
+   "url": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+   "publisher": "Google DeepMind"
   },
   {
-   "title": "Anthropic、企業向けセキュリティ強化。推論フックは正式提供",
-   "summary": "プロンプトやツール呼び出しを社内セキュリティで許可・拒否できる仕組みが正式版。",
-   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
-   "publisher": "Anthropic"
+   "title": "Anthropic、ガス発電機1.7GW分を約34億ドルで確保",
+   "summary": "AIの計算に使う電力の確保競争が激しくなっている。",
+   "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+   "publisher": "CNBC"
   },
   {
-   "title": "Google、Anthropic向け約190億ドルのデータセンター契約を信用面で支援",
-   "summary": "TeraWulfのケンタッキー拠点。稼働は2027年末〜2028年頃の予定。",
-   "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
-   "publisher": "TeraWulf"
+   "title": "Suno、エルビスとエミネムの権利者から新たに提訴される",
+   "summary": "歌声のAI模倣を禁じるELVIS法違反などを主張。",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "publisher": "The Verge"
   },
   {
-   "title": "🇯🇵 NTTデータ×FLUX、経営判断を助けるAIエージェントサービス開始",
-   "summary": "社内データを根拠付きで分析。3年で累計100億円規模の事業をめざす。",
-   "url": "https://www.nttdata.com/global/ja/news/topics/2026/110500/",
-   "publisher": "NTTデータ"
+   "title": "AIロボット協会、ロボット用の基盤AI「AIRoA-0」を公開",
+   "summary": "人の操作記録16,151時間で学習、10作業で成功率78%。重みとコードを公開。",
+   "url": "https://prtimes.jp/main/html/rd/p/000000020.000158322.html",
+   "publisher": "AIRoA"
   }
  ]
 }
