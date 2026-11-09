@@ -1,11 +1,31 @@
 {
  "date": "2026-11-09",
- "updatedAt": "2026-11-09T10:06:58+09:00",
+ "updatedAt": "2026-11-09T17:23:44+09:00",
  "source": "rss",
  "items": [
   {
+   "title": "Sakana AI「初のモバイルアプリ」開発中　テスターも募集",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
+   "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
    "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "クラウドインフラのシェア、AWSが26％に後退　Google Cloudは16％に上昇　市場全体は過去最大の高成長率へ　2026年第3四半期調査",
+   "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も　Hermes Agent開発元",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003002/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
@@ -34,33 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "コクヨが開発部門の「資料散乱」をAIでゼロに　「Notion」をどう使ったか？",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現 (1/4) - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82N3VveEhWb2pBbjlKYXY3eGJyT3pFcnVnWmpMS1o5Y0pVcmJVY1NJaUZoa3NfRlYya19zaWwwSXJ3ZlFnRmhJNklHSmxZUk1NQWRuRw?oc=5",
+   "title": "サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWlBxbFhxbzhwbVZWdUdzVDkwem8yUmZpX3BfLTFSZnZVSndnaFNtWHZvZHdib21jY3R3RlAtcW1PNkQtNHNHY3hYd3JQVkpENTJCMUtIVVFBNkYwVFcyMmNZektYNWlrc3ozeg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） - テクノエッジ TechnoEdge",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ENHNrNm41QkpyMkZxNEVRX1VBdGFpQVBGWnJaT3Z5eGFwRlpVdHpEdWR0b3FCT0o4T3BmbzZvdUdRem1vWHhubTYtWldMWlRjMGVWLUh6WF94Q045aDJvYlJxZVJHX2M?oc=5",
+   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現（アスキー） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaE1NWE5Zdi16Y3NPaUVzN1I0WlNRUzlBcWFGOTVOeVdfRW1yVDZqZDBYV2ZFZC1JbjNMVExGRW1zejBzUUFZQ3Y1bkxvVV9seVdYWnpTVDUzMmVoYUJjRXFBLWpCSFczaTlqT2ZOcHNvSHRNOXlQTXNxNHpaTHM?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査：ちょっと昔のInnovative Tech - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41c2RWWVJNOG1zQVVXVkpuYlE5ZVh0elNGeDFPamlvVVZMSkgwVk5vaG9FdjJVeXlJTnZqRkdEeHg4dzF4T0NxTWZvMVJ5OHBIMGxhLVZ2R0o4d1hiQmZpNzNlclJ0RGdralE?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,38 +74,33 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍　海外比率も5割に - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xMGQxeDgzcGtmR1dyR0RvWkI0UlBiUTFTZjdIdDYzaHd4YmFWWWZMZlhyQkZKRWVnQ29uZzlQVmd1U2hoMnc2QVhlVUdaSXQ1eHNlSU9XX19xNVhRWWFjYTNYS1ZRWXk1WTdBUGEzc21VREnSAXhBVV95cUxNN1NVaDc0aGtFR25EWS1VdndTMFQ4RkwwQzAzWkFVMEdDYVBHT2diUmxadDNwNTJsaklWUE5NelRtdGdTcmROTExYN1FweTMxR2gyTmJRMkNUWGh6Q3dfME1FUnN5STNKX0NHM1JxOXJtQ3EwVkZTNW8?oc=5",
+   "title": "自社の認証情報で生成AI不正利用される ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNTVyMldmT3dRajl2ak1uMEpidVVNeHZZQ2I2dElnOWliaGJNb0FET2lHNWdHMnRRck9HZG8tSF82REVtZC1VcXRDeDlTV2tNYkZ0RFU3d1haM3B4YVpNR2ZjeHJnNHdHSHNnd2lUWE43WHlmTFg2VmZtRXlacUU?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「PHP重大脆弱性でEOL版にも異例パッチ」「勘定系にClaude Code適用」、現場を揺るがすセキュリティと生成AI最前線 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTDRjbUxkSFlJTnV6MGs0aDEtdnVUS2NOb1VCUHVwMnFTOXFXSVcxeWlITVpQVC16b1JrX3pCSUduSnVwdXM2aU9sbXdNeVduTlFEdU9LUkFoTlU5VlotWVVDc0tBcUxoNVN2OFZTeVFwUQ?oc=5",
+   "title": "生成AIが加速させる光インフラの技術革新、見えてきた日本の勝機 - ダイヤモンド・オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTFB4clgwU0gtMkhERkJtcnVVS0ZiVkd4RU5rV0JJNFV1NzJibVNET3ExNjUyX2htTjN4WDdsbnR1dTVzSVI2MTFEZ2I?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "弁護士に聞く！ 今のタイミングだからこそケアしておきたい「生成AI使用リスク」Q&A【デジタル＆AIギア 完全ガイド】 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZG9jME1rV0E2OVJ2RFZLZUNTbTlJenl5clQyWjNSZWxwTlAyUjRRa0pQTmhuNGwtV2JIYnRUQWRKV201TTZfNkVnM09qeXR4QnBwRElOb1A0QXpfekJocVhtbVNHcXN6Tld3OURRTU5qV3B3cWw1Y2NnSVZkVEU?oc=5",
+   "title": "生成AIやドローンで警察業務を後方支援 NPO法人「SIRSI」【いつか千里を ぎふの子馬たち】：ニュース - 中日BIZナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBdXZGN0Y4dUVUUHZubzQ2eDRPUk9qcUhaRGw3bVc2R0pTeEg0dk40UExuelQ4cHF2dDJwSjVuT3UtMTd3V09odGNNQm9nSzk5UWNqTlYtQkRlam5UQ2tN?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "空知10市 生成AI活用で情報交換 6市は指針策定 4市は利用可否を職員判断 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RelV1ZERlQlUwMW02VnJ4RVVIQ0pfbWVNdGk4Ulg4a3ZpbjU2S2JTUHFMVG5GbzVyeWFtUElhTTJUdWZVOXFHYXg4bWgzLXBib1FUamZDcGhNZw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "動画生成AI「Kling AI」、約4800億円を調達　評価額は2.8兆円、香港IPOも視野 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjZXV1hzdWNRRzN6dVV0dFI2aFdwSmdKZjkxbHREZmtVUGZONDN5clo0ZEdKQVdKZ1N6X05BZjB6QVJLdWtKZkhXNi1pNTFLTUJWbVlRRDd5Sy10X2EzZzN0NEV4Y2JSRTY2eTNISFp4UmYxdWppbTRuT2h3TWJfajBjRlpHUdIBeEFVX3lxTFBYVEVlR0hha0h6OUxQQ3U2bVBjTHFPTElNdFRzWTlqYTRtZTBBOVJucTk4M3JSTW1nOVZkSENuWHVIZnpmcmpaVk1qcGEzZ29kUEFrQWJlbXo0amJ6Z05tYmlwVVRRM3gtVXhqcHNxSTducl9XUjFFRA?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 - ファミ通",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI広告「ネガティブな印象」5割超 故人や実在人物の生成に抵抗感 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xd1dZVGREVUhqblJURFNLQ09QSXN0OThCcmVQclQtTUxfNVJ3d21GVG8zbDZXZERXdU83eWwyNzdqb2xrY1l3MXJ4RWR0RXBlV1FtRS1zS2k1Ti1lMUdNc2Fjbmh5ZU9jQy1BSg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換・社員のキャリアにも変化。年36万時間相当の業務拡大に対応 - Manegy[マネジー]",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yaU1aM3JDTTZSSDFaY3RlcHIwNHNWTVkzaEFsMXdMRjEtX1QxeTR6WnBNdGtqTTNBZVkxNF9MWnZtY0xzUzNER05yOHlWalVrcjFN?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化 - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMTF4UU4yMDdnUjg3LUNwdzZyRFpXbjRwcXhwWnpmaEVHOUxGLS1XelF2RHBmdThtbVpHZWplUC1KakxwaTcybTdOUE1HLW9ENmwwT0lUVXd5OUJLWnNqcC1BSTg1eHg2MkFEeDZvWDBRdw?oc=5",
    "publisher": "news.google.com"
   }
  ]
