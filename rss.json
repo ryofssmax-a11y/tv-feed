@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "updatedAt": "2026-11-09T17:23:44+09:00",
+ "date": "2026-11-10",
+ "updatedAt": "2026-11-10T03:59:52+09:00",
  "source": "rss",
  "items": [
   {
@@ -54,7 +54,7 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞",
+   "title": "サカナAIが27年秋にも上場へ スタートアップ国内最大級、生成AI初 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWlBxbFhxbzhwbVZWdUdzVDkwem8yUmZpX3BfLTFSZnZVSndnaFNtWHZvZHdib21jY3R3RlAtcW1PNkQtNHNHY3hYd3JQVkpENTJCMUtIVVFBNkYwVFcyMmNZektYNWlrc3ozeg?oc=5",
    "publisher": "news.google.com"
   },
@@ -84,8 +84,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIやドローンで警察業務を後方支援 NPO法人「SIRSI」【いつか千里を ぎふの子馬たち】：ニュース - 中日BIZナビ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBdXZGN0Y4dUVUUHZubzQ2eDRPUk9qcUhaRGw3bVc2R0pTeEg0dk40UExuelQ4cHF2dDJwSjVuT3UtMTd3V09odGNNQm9nSzk5UWNqTlYtQkRlam5UQ2tN?oc=5",
+   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 - ファミ通",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "【佐藤優】生成AIで世界に勝てない日本は「デジタル属国」に成り下がるのか？ - Business Insider Japan",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkJDZWt3ck5qMDdTU0p0UUVCNE56WWdkcHZiaEhOakVMMzhYYXdnUndQdzV6WHgzZGZZMjJDeDZlTFBhSkVXTE9mT3RVZVExYkgxcTFfN0hCZHRLVy1yaDRlZGgwNnBROUs5VWQ1N0lqUzJlUm5GN0xwTFZSY3pCcw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -96,11 +101,6 @@
   {
    "title": "動画生成AI「Kling AI」、約4800億円を調達　評価額は2.8兆円、香港IPOも視野 - ｄメニューニュース",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjZXV1hzdWNRRzN6dVV0dFI2aFdwSmdKZjkxbHREZmtVUGZONDN5clo0ZEdKQVdKZ1N6X05BZjB6QVJLdWtKZkhXNi1pNTFLTUJWbVlRRDd5Sy10X2EzZzN0NEV4Y2JSRTY2eTNISFp4UmYxdWppbTRuT2h3TWJfajBjRlpHUdIBeEFVX3lxTFBYVEVlR0hha0h6OUxQQ3U2bVBjTHFPTElNdFRzWTlqYTRtZTBBOVJucTk4M3JSTW1nOVZkSENuWHVIZnpmcmpaVk1qcGEzZ29kUEFrQWJlbXo0amJ6Z05tYmlwVVRRM3gtVXhqcHNxSTducl9XUjFFRA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 - ファミ通",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
    "publisher": "news.google.com"
   }
  ]
