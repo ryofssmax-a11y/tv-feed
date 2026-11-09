@@ -1,8 +1,43 @@
 {
  "date": "2026-11-09",
- "updatedAt": "2026-11-09T06:17:35+09:00",
+ "updatedAt": "2026-11-09T10:06:58+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+   "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "コクヨが開発部門の「資料散乱」をAIでゼロに　「Notion」をどう使ったか？",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
@@ -19,48 +54,38 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現 (1/4) - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82N3VveEhWb2pBbjlKYXY3eGJyT3pFcnVnWmpMS1o5Y0pVcmJVY1NJaUZoa3NfRlYya19zaWwwSXJ3ZlFnRmhJNklHSmxZUk1NQWRuRw?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） - テクノエッジ TechnoEdge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ENHNrNm41QkpyMkZxNEVRX1VBdGFpQVBGWnJaT3Z5eGFwRlpVdHpEdWR0b3FCT0o4T3BmbzZvdUdRem1vWHhubTYtWldMWlRjMGVWLUh6WF94Q045aDJvYlJxZVJHX2M?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "国内GPUサーバでオープンモデルを利用可能に　フィックスターズが新サービス　まずは「DeepSeek-V4.1-Flash-1017」から",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中 - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40SDh2Z3BEbkt5QVNyaEdRbjBHRzFGS05CVk1UeTZsQVQ4eUE4aEkwb0lGY2FJbGtmQ2M1MU92dHFSY1FfQVhZNUFuTWxjcDBZcF9mR0tnVQ?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍　海外比率も5割に - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xMGQxeDgzcGtmR1dyR0RvWkI0UlBiUTFTZjdIdDYzaHd4YmFWWWZMZlhyQkZKRWVnQ29uZzlQVmd1U2hoMnc2QVhlVUdaSXQ1eHNlSU9XX19xNVhRWWFjYTNYS1ZRWXk1WTdBUGEzc21VREnSAXhBVV95cUxNN1NVaDc0aGtFR25EWS1VdndTMFQ4RkwwQzAzWkFVMEdDYVBHT2diUmxadDNwNTJsaklWUE5NelRtdGdTcmROTExYN1FweTMxR2gyTmJRMkNUWGh6Q3dfME1FUnN5STNKX0NHM1JxOXJtQ3EwVkZTNW8?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "「PHP重大脆弱性でEOL版にも異例パッチ」「勘定系にClaude Code適用」、現場を揺るがすセキュリティと生成AI最前線 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTDRjbUxkSFlJTnV6MGs0aDEtdnVUS2NOb1VCUHVwMnFTOXFXSVcxeWlITVpQVC16b1JrX3pCSUduSnVwdXM2aU9sbXdNeVduTlFEdU9LUkFoTlU5VlotWVVDc0tBcUxoNVN2OFZTeVFwUQ?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
-   "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "弁護士に聞く！ 今のタイミングだからこそケアしておきたい「生成AI使用リスク」Q&A【デジタル＆AIギア 完全ガイド】 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZG9jME1rV0E2OVJ2RFZLZUNTbTlJenl5clQyWjNSZWxwTlAyUjRRa0pQTmhuNGwtV2JIYnRUQWRKV201TTZfNkVnM09qeXR4QnBwRElOb1A0QXpfekJocVhtbVNHcXN6Tld3OURRTU5qV3B3cWw1Y2NnSVZkVEU?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 - ファミ通",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIによる自動電話「ロボコール」はなぜ嫌われるのか？ 回数の多さだけではない、リアルタイムで受け答えされても「ニュアンスが通じない」（マネーポストWEB） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVAyTHE2OE9RNmRkOFNqdzFWeTQwU2dsZGlvVFZRVS1faWZQSWtWUUVJNTE4amhmcWlHVzhEdnNPcTZHQnlhUmRSLVZuVkV6NWY3LXRzb2xQVE9aN1pPNS1rVVFqVjYzQVlFdWRQZFpHcXN5SW8xMUhad21RMlk?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,38 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化 - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMTF4UU4yMDdnUjg3LUNwdzZyRFpXbjRwcXhwWnpmaEVHOUxGLS1XelF2RHBmdThtbVpHZWplUC1KakxwaTcybTdOUE1HLW9ENmwwT0lUVXd5OUJLWnNqcC1BSTg1eHg2MkFEeDZvWDBRdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換・社員のキャリアにも変化。年36万時間相当の業務拡大に対応 - Manegy[マネジー]",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yaU1aM3JDTTZSSDFaY3RlcHIwNHNWTVkzaEFsMXdMRjEtX1QxeTR6WnBNdGtqTTNBZVkxNF9MWnZtY0xzUzNER05yOHlWalVrcjFN?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "自律して動き、仕事を進める「AIエージェント」とは？従来の生成AIとの決定的な違い - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xYVpDc29GeElFSWxVZ0RkWEJLX1hwYzlKeGFkZjRNUzR0eklpSGJucE5ncmd6cGhYMzFlQ3BhdGhqQ1RxMHVPb2tlU3BTTlQzcXliNkx0NkJHOHg3TE1hbmI2b0wwaGVoLWVNVzVEdGNVNXdRazFWLVZB0gF_QVVfeXFMT0lRUlVlS3hLeGR6b0lmUTY3czVRMHlUVnRSekJlU29fa2doMHd1amdqR0xIa1pqQ3hXY1B6NEdYeVhXU3ZNQlRUR29lRjJzaE9oWHpmeGFzZnAwNzZqSUlrVUhVVFR5UTk5Wkk5WnhPZjBtQzZ4ZjlZLTRnaWhOWQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プライム会員には追加料金なしの生成AI｢Alexa+｣日本上陸､アマゾンはなぜChatGPTと同じ月額3000円のAIを家庭に持ち込むのか - 東洋経済オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ckt5NXdual9YQ3NMcnlfZi15TDNFdzNwUXBTR1VKZ29pYS1mOHktUkxTRDJpbnB6Zk1oSGhxSGpxSDk2WmhReVBxSWowMXdNa2VHUHZiNnl0Mjg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81V3U3WHFQdGpqczJOVzEzOFhueEwwelFnc3hJaEZ0VExiWVpfR1BtaWh4ZlYwOFpYRHcwUnRKM2l0SGZGSGRiR0VTQmhseUZyUURrV2tUZ0wyYU5Db3k4cEpPTVdpLVk1di1sbVVXQ0NPdlQ4WTdn?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成 - Excite エキサイト",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWnhwNWE3Zzg2YTVnZDZ6RVlRYWZBcTJvSk1FTEwxQXh3VWxnSlNBTUhnX2RiN3BsWXRZYlBudEhuSGNjVDZqYkdWWUZ3dFZIbTZSakpGc3kwUGxGZGxLTlZCZDJWMUwxbkpNZWZUbkl6THJl?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "経済プラス：生成AIの偽画像を見破れ！保険金不正請求に損保業界が対応強化 - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOEJoU1ljNXJNb1h0MXhSajN5c3RSdDBIczZZZkNyaS1SSmhpSGtwQURjdnRSczZmdWJLTWNOcGdlbUdqdE1qdHl1WFF2VkxwaUlVZW9MZUFvd3Mzb193WW4tOFhrWHd2?oc=5",
+   "title": "プエンテの生成AIアニメ制作「AI Anime Factory」に漫画制作を追加 オリジナルアニメ『花魁転生』第1話を漫画化 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JMTF4UU4yMDdnUjg3LUNwdzZyRFpXbjRwcXhwWnpmaEVHOUxGLS1XelF2RHBmdThtbVpHZWplUC1KakxwaTcybTdOUE1HLW9ENmwwT0lUVXd5OUJLWnNqcC1BSTg1eHg2MkFEeDZvWDBRdw?oc=5",
    "publisher": "news.google.com"
   }
  ]
