@@ -1,8 +1,18 @@
 {
  "date": "2026-11-11",
- "updatedAt": "2026-11-11T02:28:23+09:00",
+ "updatedAt": "2026-11-11T07:30:07+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Google ドライブ、CSE適用で機密ファイルを保護へ　Google Workspaceに6つの仕様変更",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003057/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
@@ -44,16 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "なぜAgodaは「単独で勝てない」と認めたのか？ 　ANAや星野リゾートと組んだ狙い",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/10/news020.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「オープンなAIモデル」に関する資料を無料公開、NII　「LLM-jp」の開発手法など解説",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も（ITmedia NEWS） - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GclkxTHVlRzNtMEVRLU5aM2NiNFp0bUhuQ0lIYlVRX0pCd2xZTTRybUNjZTAxSkZWRlBKOVcwVVZ0RW04RWhGaTJFLUMzQnprWmJZa2hfQXYxUUN1aTNBRjdISE1tWG1pbF9OdUplZmM3bkpDVVdTZGxWS2puV00?oc=5",
    "publisher": "news.google.com"
@@ -64,33 +64,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "ディズニーとアドビ、生成AIの協業を拡大 映画・スポーツ分野にも - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaEJPb3hYY002aEs3MkZxdE8yQm5EcWM5XzVkYV9GR3RWeVFPTTNGMkhUSnFLeVJMMFdFQ3NMRGt5bmlfYnV0ZDhpdkRRc1VqbVE?oc=5",
+   "title": "「さっきの話は忘れて」では消えない 生成AIの履歴の混入（尾藤克之） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVBLZ2xORVdiUkc5d0RMWF9DWVZRN1RWc0Jiejk5V0VYN2gya2VtLVNNS0pjajlMbmRpRUJaV0FUR0FkeVdMT2tsYm5hb3p4S0g4NVpwM2Zqa09ER05kb1lwa1NjelotWS1naXRFSkM1VUdBcHhULWpsb2xwU0N4bWUwV0lHMlh4?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ub0NJdGtsSHJ4bWdDV2lCZXRGRThfeEVQYjlVeHFlYm1RZUVSWHZjNXpacll3SUR1WGl2cDN4eGJwckVURU81V0hMZDF0ZFRRT3VaV0ZhZ3JMV1B5MXVPWEozdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "ディズニー、生成AI分野でAdobeと戦略的提携 知的財産に特化した生成AIモデルを開発、映像制作やテーマパークに活用 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYnJJRnN0OTJSMzBPZzI5akJkb3d0ZWNRTlJnU2hkM05Qa3dNbVRwVDVsT21rM3JDR0FZM2xja3d6UmRhRm1qUkkzTjZ0TnFqT2ZlUTd4YWJoZTNhVnh0Z1FlVjNEaWtyNWRwbHRaNzdYVXVEbW8yVXctRk1vRjA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI販促の成否を分ける文脈整備と入力。AIの言葉を顧客はどう受け止めたか、西村ジョイらが検証 (1/4)：commercezine - MarkeZine",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSkgwZEJtRUJDQnhxRnJldTBxbVdrd3JuN2ZkLTFkdmx1V1FDUEJJWktyTDRqTkZzM0twb1A5d0otZnJFcW85dVpkWHFsZlAxUm5B?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "大阪府豊中市、生成AIの傾聴サービス実証 24時間いつでも匿名相談 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ITU5QcTgyWXlXUmkyX2JxaENFNXlZbThJMGt2UEF0MmlCcUl3NkVvTFExZWJTS0N5NU9PdHk5elotX1BiM09oWk4yVUhOMmhLZFVnSmp0cUVDT2pTeTJBdHB1alFQZmVvYTNOWg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI利用の既婚女性、46％が夫よりAIに“心の距離”が近い - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3dk4zNjl4OEpOOXp4NnRCazYtYU9FT282UjlSUUpITkhSbk9JOEFEMmt0aFhmWWdEYnJmUkNnY3VYNVpfN1hyZFdiLW1IWWxNa2J1ZGhLWEpBSnVHOTZqdWJMbw?oc=5",
+   "title": "AI活用で年間2万時間の削減効果 創業108年のハナマルキ、25ライセンスから始めたGemini定着術 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2VFJFTEEyN2FhcWhfVFduRmpaWU1IVDVULVhvS3V5c1Uxc0tzOUc3UGNhQ0RJV2lGUVhoT25oTmZlRFZoM2FQZDdzd055RjdZVUJ1WENYMTVzTkxsWDNxMklFYTMxdkpJTkhHUFUybXBkNE5T?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +79,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「AI検索最適化」を解説！生成AIに選ばれる情報発信とは？11/26（木）無料セミナー「AI検索時代の基礎から学ぶ GEO・LLMO・AEO入門」を開催!!（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13QmR4Yl9GS1RkcGdvNHhVMW40T3paVmZkUC1yS241WkVybTI4b3hHNDc4bW02aXk1Y3l5VTQxRWFVRHQzck1IaFRhQzZrVlQzbVBhd2VFdkxmaElPWXplWEJKYXMtOEZW?oc=5",
+   "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41dDZQYWlKSV9qcFoyeEVIOEVmSk0xeVpMeFFCTE95UVd1S2JnaVZaUUg5S0RoLWVwSl93aEpHX1diQXFCNmwxdWUxa0Z6TGlJeUxBczBUazJyMVZ1T1hRdWhndWllbFd2cmgyeFBPeUNtcFg1RXdYQw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開『ビルスピアカデミー』が「生成AI/AIエージェントフォーラム 東京 2026 秋」に登壇 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40andNNVRpajAxVWFvay1LTDFMYTZidDZPbE9BeG53c09HRTlLcUJOeWVEdGdCRlNkVjViYkZSSWJ5UWRZUndtY0JFcndCZ1pzbFJwZ0pNb1RkZkwybENVYXRzcjdyR0NOYWc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ディズニーとアドビ、生成AIの協業を拡大 映画・スポーツ分野にも - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaEJPb3hYY002aEs3MkZxdE8yQm5EcWM5XzVkYV9GR3RWeVFPTTNGMkhUSnFLeVJMMFdFQ3NMRGt5bmlfYnV0ZDhpdkRRc1VqbVE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ディズニー、生成AI分野でAdobeと戦略的提携 知的財産に特化した生成AIモデルを開発、映像制作やテーマパークに活用 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYnJJRnN0OTJSMzBPZzI5akJkb3d0ZWNRTlJnU2hkM05Qa3dNbVRwVDVsT21rM3JDR0FZM2xja3d6UmRhRm1qUkkzTjZ0TnFqT2ZlUTd4YWJoZTNhVnh0Z1FlVjNEaWtyNWRwbHRaNzdYVXVEbW8yVXctRk1vRjA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ub0NJdGtsSHJ4bWdDV2lCZXRGRThfeEVQYjlVeHFlYm1RZUVSWHZjNXpacll3SUR1WGl2cDN4eGJwckVURU81V0hMZDF0ZFRRT3VaV0ZhZ3JMV1B5MXVPWEozdw?oc=5",
    "publisher": "news.google.com"
   }
  ]
