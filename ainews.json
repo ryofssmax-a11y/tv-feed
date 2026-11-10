@@ -1,43 +1,49 @@
 {
- "date": "2026-11-10",
- "updatedAt": "2026-11-10T18:18:26+09:00",
+ "date": "2026-11-11",
+ "updatedAt": "2026-11-11T07:51:18+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Anthropic、上場計画の数字を銀行に送った直後に取り下げ",
-   "summary": "最大693億ドルの調達計画の価格部分を「不正確」として出し直しへ。",
-   "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
-   "publisher": "Reuters"
+   "title": "Google、最強モデル「Gemini 4 Carbon」を一般公開",
+   "summary": "有料の開発者・企業とAI Ultra加入者が使えるように。複雑なコーディングや研究向け",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "publisher": "Google"
   },
   {
-   "title": "Fireworks AI、顧客のデータや作りかけのモデルが盗まれたと公表",
-   "summary": "クラウド会社経由の侵入で請求情報や一部の顧客データセット・未完成モデルが流出。",
-   "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
-   "publisher": "Fireworks AI"
+   "title": "Anthropic、Claudeに表計算「Sheets」とホワイトボードを追加",
+   "summary": "頼むだけで数式付きの表や計画ボードを作り、チームで一緒に編集できる",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "publisher": "Anthropic"
   },
   {
-   "title": "Meta、AIで10代を見分ける仕組みをInstagramで全世界に拡大",
-   "summary": "大人と偽って登録した10代も自動でティーンアカウントに。",
-   "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-   "publisher": "Meta"
+   "title": "Anthropic、上場に向けたロードショーを開始",
+   "summary": "8.25億株を1株70〜78ドルで売り出す予定。ナスダックに「ANT」で上場申請",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "publisher": "Anthropic"
   },
   {
-   "title": "OpenAI、企業向けChatGPTをAWSの購入窓口で販売開始",
-   "summary": "AWSの既存契約・請求の中でChatGPT EnterpriseやCodexを買える。",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "title": "OpenAI、お店や会社がChatGPTに公式ページと接客AIを持てるように",
+   "summary": "会社が情報を登録・更新し、米国の通販などは商品の質問に答えるAIも作れる",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
    "publisher": "OpenAI"
   },
   {
-   "title": "🇯🇵 LINEヤフー、AIエージェント「Agent i」を単独アプリに",
-   "summary": "ホーム画面からワンタップ起動。用途別AIは累計40種類に。",
-   "url": "https://prtimes.jp/main/html/rd/p/000001847.000129774.html",
-   "publisher": "LINEヤフー"
+   "title": "Google DeepMind、AIでSignalの暗号の安全性を数学的に証明",
+   "summary": "AIが600万行超の証明を書き、実際に動くコードの安全性を4週間で確認",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "publisher": "Google DeepMind"
   },
   {
-   "title": "🇯🇵 NVIDIA、日本向けAI開発用の練習データを2種類公開",
-   "summary": "金融ペルソナ900万人分と、個人情報を隠すAI用の日本語文書データ。",
-   "url": "https://prtimes.jp/main/html/rd/p/000000676.000012662.html",
-   "publisher": "NVIDIA"
+   "title": "ニューヨーク州、大手AI企業の登録受付を開始",
+   "summary": "AI安全法RAISE Actで、大手は2027年1月1日までに登録と安全対策の公開が必要",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "publisher": "TechCrunch"
+  },
+  {
+   "title": "モルフォ、学習データなしでカメラ映像を見分けるAIサービス",
+   "summary": "画像と言葉を理解するAIで、映像の状況を読み取り次の動きまで設定できる",
+   "url": "https://response.jp/article/2026/11/11/418850.html",
+   "publisher": "レスポンス"
   }
  ]
 }
