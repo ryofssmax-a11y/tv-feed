@@ -1,49 +1,43 @@
 {
  "date": "2026-11-10",
- "updatedAt": "2026-11-10T07:45:45+09:00",
+ "updatedAt": "2026-11-10T18:18:26+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Anthropic、最上位モデル「Claude Fable 5.2」と「Mythos 5.2」を公開",
-   "summary": "5.1より最大30%速く、API料金は2割安く。Fableは誰でも、Mythosは審査制。",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "publisher": "Anthropic"
+   "title": "Anthropic、上場計画の数字を銀行に送った直後に取り下げ",
+   "summary": "最大693億ドルの調達計画の価格部分を「不正確」として出し直しへ。",
+   "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
+   "publisher": "Reuters"
   },
   {
-   "title": "Meta、いちばん小さく安いモデル「Muse Ember」を公開",
-   "summary": "AIエージェントの細かい作業向け。入力100万トークン0.1ドル。",
-   "url": "https://research.meta.ai/blog/muse-ember",
+   "title": "Fireworks AI、顧客のデータや作りかけのモデルが盗まれたと公表",
+   "summary": "クラウド会社経由の侵入で請求情報や一部の顧客データセット・未完成モデルが流出。",
+   "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+   "publisher": "Fireworks AI"
+  },
+  {
+   "title": "Meta、AIで10代を見分ける仕組みをInstagramで全世界に拡大",
+   "summary": "大人と偽って登録した10代も自動でティーンアカウントに。",
+   "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
    "publisher": "Meta"
   },
   {
-   "title": "Google、AI用チップ「TPU」の新型2種を発表",
-   "summary": "機密データ向けのTPU 8txと、長い文脈向けのTPU 8i Max。",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-   "publisher": "Google"
-  },
-  {
-   "title": "OpenAI、研究中のAIを35秒以内に止める仕組み「Control Room」を公開",
-   "summary": "研究中のAIの出力を一元管理し、問題時はすぐ止める。",
-   "url": "https://openai.com/index/control-room/",
+   "title": "OpenAI、企業向けChatGPTをAWSの購入窓口で販売開始",
+   "summary": "AWSの既存契約・請求の中でChatGPT EnterpriseやCodexを買える。",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "publisher": "OpenAI"
   },
   {
-   "title": "NVIDIA、器用な手作業を覚えるロボット用AI「GR00T 2」を公開",
-   "summary": "お手本5回で50作業の平均成功率95%。",
-   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "title": "🇯🇵 LINEヤフー、AIエージェント「Agent i」を単独アプリに",
+   "summary": "ホーム画面からワンタップ起動。用途別AIは累計40種類に。",
+   "url": "https://prtimes.jp/main/html/rd/p/000001847.000129774.html",
+   "publisher": "LINEヤフー"
+  },
+  {
+   "title": "🇯🇵 NVIDIA、日本向けAI開発用の練習データを2種類公開",
+   "summary": "金融ペルソナ900万人分と、個人情報を隠すAI用の日本語文書データ。",
+   "url": "https://prtimes.jp/main/html/rd/p/000000676.000012662.html",
    "publisher": "NVIDIA"
-  },
-  {
-   "title": "ディズニー、AdobeをAI公式パートナーに。キャラ専用のAIを作る",
-   "summary": "ディズニーの絵柄だけで学ばせた専用AIを開発。",
-   "url": "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance",
-   "publisher": "Adobe"
-  },
-  {
-   "title": "🇯🇵 ソフトバンクグループ、マレーシア・サラワク州のAI基盤に10億ドル投資へ",
-   "summary": "GrabやPETROSと共同で、将来5GWの計算能力を目指す。",
-   "url": "https://group.softbank/news/press/20261109",
-   "publisher": "ソフトバンクグループ"
   }
  ]
 }
