@@ -1,8 +1,33 @@
 {
  "date": "2026-11-10",
- "updatedAt": "2026-11-10T03:59:52+09:00",
+ "updatedAt": "2026-11-10T10:58:16+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "島津製作所が半導体製造装置向けTMPのめっきライン増設、生産能力2倍に",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news043.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
+   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
+   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Sakana AI「初のモバイルアプリ」開発中　テスターも募集",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
@@ -29,38 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "サカナAIが27年秋にも上場へ スタートアップ国内最大級、生成AI初 - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWlBxbFhxbzhwbVZWdUdzVDkwem8yUmZpX3BfLTFSZnZVSndnaFNtWHZvZHdib21jY3R3RlAtcW1PNkQtNHNHY3hYd3JQVkpENTJCMUtIVVFBNkYwVFcyMmNZektYNWlrc3ozeg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現（アスキー） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaE1NWE5Zdi16Y3NPaUVzN1I0WlNRUzlBcWFGOTVOeVdfRW1yVDZqZDBYV2ZFZC1JbjNMVExGRW1zejBzUUFZQ3Y1bkxvVV9seVdYWnpTVDUzMmVoYUJjRXFBLWpCSFczaTlqT2ZOcHNvSHRNOXlQTXNxNHpaTHM?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,23 +64,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中 - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40SDh2Z3BEbkt5QVNyaEdRbjBHRzFGS05CVk1UeTZsQVQ4eUE4aEkwb0lGY2FJbGtmQ2M1MU92dHFSY1FfQVhZNUFuTWxjcDBZcF9mR0tnVQ?oc=5",
+   "title": "「AI検索最適化」を解説！生成AIに選ばれる情報発信とは？11/26（木）無料セミナー「AI検索時代の基礎から学ぶ GEO・LLMO・AEO入門」を開催!!（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13QmR4Yl9GS1RkcGdvNHhVMW40T3paVmZkUC1yS241WkVybTI4b3hHNDc4bW02aXk1Y3l5VTQxRWFVRHQzck1IaFRhQzZrVlQzbVBhd2VFdkxmaElPWXplWEJKYXMtOEZW?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "自社の認証情報で生成AI不正利用される ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNTVyMldmT3dRajl2ak1uMEpidVVNeHZZQ2I2dElnOWliaGJNb0FET2lHNWdHMnRRck9HZG8tSF82REVtZC1VcXRDeDlTV2tNYkZ0RFU3d1haM3B4YVpNR2ZjeHJnNHdHSHNnd2lUWE43WHlmTFg2VmZtRXlacUU?oc=5",
+   "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た（アスキー） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQWd5SnNyMXd2N05BZ3JPN0R2Tk04VVhaeDhYZHV0UVlGemszVF9Lcjk1N3hiMHZMbzZWUHZhNVVxa1JOcW03SmpWOUp0QTdjZVJVYmN3TkRKZmlCRjZibk1xQ3dFckRhWUdQSTRwaU1LbXZBRGY0OURlalN2a2c?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIが加速させる光インフラの技術革新、見えてきた日本の勝機 - ダイヤモンド・オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTFB4clgwU0gtMkhERkJtcnVVS0ZiVkd4RU5rV0JJNFV1NzJibVNET3ExNjUyX2htTjN4WDdsbnR1dTVzSVI2MTFEZ2I?oc=5",
+   "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41dDZQYWlKSV9qcFoyeEVIOEVmSk0xeVpMeFFCTE95UVd1S2JnaVZaUUg5S0RoLWVwSl93aEpHX1diQXFCNmwxdWUxa0Z6TGlJeUxBczBUazJyMVZ1T1hRdWhndWllbFd2cmgyeFBPeUNtcFg1RXdYQw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 - ファミ通",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
+   "title": "ベテラン声優･中田譲治の\"AI画像\"炎上はなぜ起きた…｢NO MORE 無断生成AIを掲げたのに｣批判する人が見落とす本当の問題 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JYnlKLVFWRUxZa2FhaEVNVXdKaFk0NVJZanJXRHF3dklKX1BicVZ6LXpRdUlZa282bEN3bjg3TG1WZnFLczNKUnlINDd6LTNPelE?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +89,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "空知10市 生成AI活用で情報交換 6市は指針策定 4市は利用可否を職員判断 - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RelV1ZERlQlUwMW02VnJ4RVVIQ0pfbWVNdGk4Ulg4a3ZpbjU2S2JTUHFMVG5GbzVyeWFtUElhTTJUdWZVOXFHYXg4bWgzLXBib1FUamZDcGhNZw?oc=5",
+   "title": "生成AIが加速させる光インフラの技術革新、見えてきた日本の勝機 - ダイヤモンド・オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTFB4clgwU0gtMkhERkJtcnVVS0ZiVkd4RU5rV0JJNFV1NzJibVNET3ExNjUyX2htTjN4WDdsbnR1dTVzSVI2MTFEZ2I?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "動画生成AI「Kling AI」、約4800億円を調達　評価額は2.8兆円、香港IPOも視野 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjZXV1hzdWNRRzN6dVV0dFI2aFdwSmdKZjkxbHREZmtVUGZONDN5clo0ZEdKQVdKZ1N6X05BZjB6QVJLdWtKZkhXNi1pNTFLTUJWbVlRRDd5Sy10X2EzZzN0NEV4Y2JSRTY2eTNISFp4UmYxdWppbTRuT2h3TWJfajBjRlpHUdIBeEFVX3lxTFBYVEVlR0hha0h6OUxQQ3U2bVBjTHFPTElNdFRzWTlqYTRtZTBBOVJucTk4M3JSTW1nOVZkSENuWHVIZnpmcmpaVk1qcGEzZ29kUEFrQWJlbXo0amJ6Z05tYmlwVVRRM3gtVXhqcHNxSTducl9XUjFFRA?oc=5",
+   "title": "生成AI販促の成否を分ける文脈整備と入力。AIの言葉を顧客はどう受け止めたか、西村ジョイらが検証 - MarkeZine",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYSkgwZEJtRUJDQnhxRnJldTBxbVdrd3JuN2ZkLTFkdmx1V1FDUEJJWktyTDRqTkZzM0twb1A5d0otZnJFcW85dVpkWHFsZlAxUm5B?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "空知10市 生成AI活用で情報交換 6市は指針策定 4市は利用可否を職員判断 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RelV1ZERlQlUwMW02VnJ4RVVIQ0pfbWVNdGk4Ulg4a3ZpbjU2S2JTUHFMVG5GbzVyeWFtUElhTTJUdWZVOXFHYXg4bWgzLXBib1FUamZDcGhNZw?oc=5",
    "publisher": "news.google.com"
   }
  ]
