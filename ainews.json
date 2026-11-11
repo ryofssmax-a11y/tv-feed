@@ -1,49 +1,49 @@
 {
- "date": "2026-11-11",
- "updatedAt": "2026-11-11T18:23:00+09:00",
+ "date": "2026-11-12",
+ "updatedAt": "2026-11-12T07:51:03+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "OpenAI、7〜9月の売上が初めて100億ドルに",
-   "summary": "前期比約50%増。一方で営業赤字は109億ドルに拡大と報道",
-   "url": "https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-   "publisher": "Bloomberg"
+   "title": "Grok Buildで作ったアプリ約3.5万件、リンクを知らなくても見られる状態に",
+   "summary": "共有リンクの欠陥で社内資料や名簿が誰でも見られる状態だったと報道",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "publisher": "Ars Technica"
   },
   {
-   "title": "Google DeepMind、ロボット用AI「Gemini Robotics 2.5」を発表",
-   "summary": "メルセデス工場の試験で人型ロボットが部品仕分け成功率96%",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "title": "Google DeepMind、DNAの変化が「どの細胞で」病気につながるかを予測するAI「AlphaGenome 2」",
+   "summary": "細胞ごとに遺伝子の変異の影響を予測、研究向けにAPI公開",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "publisher": "Google DeepMind"
   },
   {
-   "title": "ニューヨーク州、AIを州が独自に試験する研究拠点を開設",
-   "summary": "80人超の研究者が強力なAIの安全性を独自に検証",
-   "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-declares-ny-will-lead-nation-ai-science-and",
-   "publisher": "ニューヨーク州知事室"
+   "title": "Google、文章を作らず「選ぶ」だけのAI「Gemini Decisions API」",
+   "summary": "最大1000問の選択を0.2秒前後で確率付きで回答、出力は無料",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "publisher": "Google"
   },
   {
-   "title": "Microsoft、AIの神経を10個未満いじるだけで裏口を仕込めると発表",
-   "summary": "学習し直さずに仕込め、合図でAIエージェントが攻撃コマンドを実行",
-   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-   "publisher": "Microsoft Research"
+   "title": "ユナイテッド航空、AIエージェントによる航空券の予約を認めず",
+   "summary": "AIは便を探すまで、予約と支払いは本人がする必要",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "publisher": "The Verge"
   },
   {
-   "title": "Google、医療機関向けの「Gemini for healthcare」を試験提供",
-   "summary": "カルテ準備や保険の事前承認書類をAIが進める。米国でプレビュー",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
-   "publisher": "Google Cloud"
+   "title": "英国のAIチップ新興Fractile、7.2億ドルを調達",
+   "summary": "推論を安く速くするチップ、最初の製品は来年",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "publisher": "TechCrunch"
   },
   {
-   "title": "NTT、ロボットが動く前に失敗を予測するAIを開発",
-   "summary": "物理法則を組み込んだワールドモデルで棚積み成功率73.1%→92.3%",
-   "url": "https://group.ntt/jp/newsrelease/2026/11/11/261111b.html",
-   "publisher": "NTT"
+   "title": "Baidu、新モデル「ERNIE 5.5 Flash Preview」を公開",
+   "summary": "100万トークン対応のMoEモデル、重みは近く公開予定",
+   "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+   "publisher": "Baidu"
   },
   {
-   "title": "弥生、会計事務所向けAIエージェントが作業の実行まで可能に",
-   "summary": "ZEXTのAIがタスクの担当替えや完了処理を人の承認付きで実行",
-   "url": "https://prtimes.jp/main/html/rd/p/000000422.000015865.html",
-   "publisher": "弥生"
+   "title": "🇯🇵 NSW、工場の「動き」を理解するAI「Newton」を国内で販売開始",
+   "summary": "映像とセンサーで故障の兆しを見つけるフィジカルAI",
+   "url": "https://www.nsw.co.jp/topics/news_detail.html?eid=888&year=",
+   "publisher": "NSW"
   }
  ]
 }
