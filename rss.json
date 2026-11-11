@@ -1,8 +1,23 @@
 {
  "date": "2026-11-11",
- "updatedAt": "2026-11-11T11:10:29+09:00",
+ "updatedAt": "2026-11-11T18:42:27+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
@@ -39,21 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
-   "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる - NHKニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
    "publisher": "news.google.com"
@@ -64,43 +64,43 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "FDUA 標準化委員会、「金融AIチェックシート」を公開～金融機関が自社の生成AI・データ活用の現在地を可視化～（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSmlBbUtEc0tna0tuVGw5OGE1T1JLVzBWRnI3MUp4UHJVaXBtT04taEVFS3RLMTNJbzdVTTVlOXpBemZHNTEtWnR0QjZPa2Y5VWgtNWVEVUtlR1gzTGFldEh1SHpSWDVu?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "中丸雄一 コンクール受賞作品の“生成AI”疑惑に見解「残念ですけど序章なのかな」「あと5年もたつと」（スポニチアネックス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbGpEWnhXaGZSYlZZMHdNWVdDWkYwdHBnNXN0dWNNaUxkRE9WSDRGc1hDVF81Wi1VWE0zU2JhTWtSd1lfRjBvZ01uSjJiUE5teW5CYktZVVVWOUR6eXJVcC1mVEs1cFpVQm1mRzFucU1jaV91WUJTWVoySDhFU2s?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開 - PC Watch",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HVGFMOW9TZ0hCYTRTOFdGZGVOLWIzYnlHRVZpLVNDYThRRXo0Ulk0QjNRdS1iWGRDczBGVU51U091Ry1EQ3NMY3JGRE5oa2VvNktRTkRzWDl0TXhIN000NFdEbw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現 (1/4) - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82N3VveEhWb2pBbjlKYXY3eGJyT3pFcnVnWmpMS1o5Y0pVcmJVY1NJaUZoa3NfRlYya19zaWwwSXJ3ZlFnRmhJNklHSmxZUk1NQWRuRw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CUm1JTHY4dDduM2ZlanpYcm1UbWpuUlZwZjhJQnhmdjNJejNhWmQtbWtnVEFuRFB3dWIwQlppR3hZZm1FZ0Zyc1BJS2pWeVpYb0JzQWtCOHJnS243OGNVcHVvdE9jU1g1Y21rcXFn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「生成AI、社内で使いこなせていますか？シャドーAIから、安全な利用環境・ルール浸透まで」セミナーをオンライン無料開催 - 神戸新聞",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fenphYVU2RlhiQTF4NmVQUGlBMS0wWUpUczFzNEpiVHV2WEJPbWEydFRPZU5KXzdkekd1emJyaXBNM2g3UlFIV3FVNHNJeE0xQ3lHVWcxa0dLTnhQb3oySGEwVUZ3Zm1VMTd1QlR4NDE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく - 東洋経済オンライン",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidzk1M3c0cHQzWmRsY2FtSFJEb2huR0dqYy1yYm15dTVwSkhpZVV6NGhxV2M5NG1JMWQtTTJOYm1tdDk5d09nMDJIOUxxam9BT3c?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI「クロード」開発のアンソロピック 最大10兆円規模の株式公開へ 19日上場見通し - FNNプライムオンライン",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WaVh2NHA3aVdnUGE2STd1OC1pSzl3VkZya3k1QTV0a3JGTE5oQ0hWOTl6NlNydGN3bDNaTjRsX1U0TFg4eWJfRVphMTNpUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "HACARUS、生成AIの現場実装を担う新サービス「HACARUS FDE」を提供開始 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xYzNUYVN4ZmktY050ODNNdlJtLUhMVzRJaFVwd2hiamt6MHR2TDkzdFNUMTJfZ1ZXaE5jeng2QWEyWFVOTE1LNlBjWXl3VGNjRm1PNGtUcnQxMXVranlxZkVuM3NtcUt6NHc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "FIXER、NVIDIA Partner NetworkにSolution Advisor として参画～既存GPUサーバーの活用を支援し、生成AIの業務利用拡大へ～ - 株式会社FIXER",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZkdfMklZUXVCZ1NtaDZMcWtLbHhvX1JCZjdYRXNuVG5ONFdFMUpGbndYTHk4N0ZLYlNJQmhVNDQ1RlluT052R2RlenFlT3h5NFp6ZkxXSWJzdEtPNEFVc3I5RWMyLTduY2xjYjRTSm83Vk9GRlFmTXRR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4V0Y5WjBtR3hJdnp5UUV3QlVDMVQxNE4tQ0x2a3Vvaks0cVY5eWFqNXBqd2RZS3U2NVhpMlJOVXl4N3hKNUlJQUhDMk1LSWRoZEtWQ3J4ZDdkTnpSc05FWGx3UGlZV2pWWVE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "ディズニーとアドビ、生成AIの協業を拡大 映画・スポーツ分野にも - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaEJPb3hYY002aEs3MkZxdE8yQm5EcWM5XzVkYV9GR3RWeVFPTTNGMkhUSnFLeVJMMFdFQ3NMRGt5bmlfYnV0ZDhpdkRRc1VqbVE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "ディズニー、生成AI分野でAdobeと戦略的提携 知的財産に特化した生成AIモデルを開発、映像制作やテーマパークに活用 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYnJJRnN0OTJSMzBPZzI5akJkb3d0ZWNRTlJnU2hkM05Qa3dNbVRwVDVsT21rM3JDR0FZM2xja3d6UmRhRm1qUkkzTjZ0TnFqT2ZlUTd4YWJoZTNhVnh0Z1FlVjNEaWtyNWRwbHRaNzdYVXVEbW8yVXctRk1vRjA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5",
+   "title": "生成AIと連携、LaTeXコマンドやMermaid記法を出力させよう - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zeVpIOExjU3FuT09FMnU0VnNMdUZMZDRHckVtRDZzdUh2QTgyLUFVMmx0ZXQtYXlmZVJxazVJTmxfQXlLdm40RjVXUllvSVYxWkhYVUZBWGhpeVVZV0RuRU5OWnQyT1FQclpZWQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
