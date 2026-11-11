@@ -1,57 +1,62 @@
 {
  "date": "2026-11-11",
- "updatedAt": "2026-11-11T07:30:07+09:00",
+ "updatedAt": "2026-11-11T11:10:29+09:00",
  "source": "rss",
  "items": [
   {
-   "title": "Google ドライブ、CSE適用で機密ファイルを保護へ　Google Workspaceに6つの仕様変更",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003057/",
+   "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
+   "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
+   "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-   "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+   "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "dotsが「複数台のローカルコンピュータ接続」に対応　各マシンでタスクを分担可能に",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
+   "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
-   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+   "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
+   "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「探す」という呪縛から設計者が解放される日",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news008.html",
+   "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+   "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "“何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
-   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
+   "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
    "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も（ITmedia NEWS） - Yahoo!ニュース",
@@ -59,33 +64,28 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidzk1M3c0cHQzWmRsY2FtSFJEb2huR0dqYy1yYm15dTVwSkhpZVV6NGhxV2M5NG1JMWQtTTJOYm1tdDk5d09nMDJIOUxxam9BT3c?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI「クロード」開発のアンソロピック 最大10兆円規模の株式公開へ 19日上場見通し - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WaVh2NHA3aVdnUGE2STd1OC1pSzl3VkZya3k1QTV0a3JGTE5oQ0hWOTl6NlNydGN3bDNaTjRsX1U0TFg4eWJfRVphMTNpUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "HACARUS、生成AIの現場実装を担う新サービス「HACARUS FDE」を提供開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xYzNUYVN4ZmktY050ODNNdlJtLUhMVzRJaFVwd2hiamt6MHR2TDkzdFNUMTJfZ1ZXaE5jeng2QWEyWFVOTE1LNlBjWXl3VGNjRm1PNGtUcnQxMXVranlxZkVuM3NtcUt6NHc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "FIXER、NVIDIA Partner NetworkにSolution Advisor として参画～既存GPUサーバーの活用を支援し、生成AIの業務利用拡大へ～ - 株式会社FIXER",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53ZkdfMklZUXVCZ1NtaDZMcWtLbHhvX1JCZjdYRXNuVG5ONFdFMUpGbndYTHk4N0ZLYlNJQmhVNDQ1RlluT052R2RlenFlT3h5NFp6ZkxXSWJzdEtPNEFVc3I5RWMyLTduY2xjYjRTSm83Vk9GRlFmTXRR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険 - ITmedia",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4V0Y5WjBtR3hJdnp5UUV3QlVDMVQxNE4tQ0x2a3Vvaks0cVY5eWFqNXBqd2RZS3U2NVhpMlJOVXl4N3hKNUlJQUhDMk1LSWRoZEtWQ3J4ZDdkTnpSc05FWGx3UGlZV2pWWVE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「さっきの話は忘れて」では消えない 生成AIの履歴の混入（尾藤克之） - エキスパート - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVBLZ2xORVdiUkc5d0RMWF9DWVZRN1RWc0Jiejk5V0VYN2gya2VtLVNNS0pjajlMbmRpRUJaV0FUR0FkeVdMT2tsYm5hb3p4S0g4NVpwM2Zqa09ER05kb1lwa1NjelotWS1naXRFSkM1VUdBcHhULWpsb2xwU0N4bWUwV0lHMlh4?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AI活用で年間2万時間の削減効果 創業108年のハナマルキ、25ライセンスから始めたGemini定着術 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2VFJFTEEyN2FhcWhfVFduRmpaWU1IVDVULVhvS3V5c1Uxc0tzOUc3UGNhQ0RJV2lGUVhoT25oTmZlRFZoM2FQZDdzd055RjdZVUJ1WENYMTVzTkxsWDNxMklFYTMxdkpJTkhHUFUybXBkNE5T?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "メタの新AI「Muse」、想像以上に“勝手に動く”…3つの仕事を任せて分かったこと 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qa2NKZmc4UzVSQldmcDVuQ19qaHVFQS1pR3o5VFpURC1kV0Fid2s2a2RRX1JXdFFqb0l5QVVud2JrU3A4aDBBdlFPaWlSSjFVMDRv?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか - 窓の杜",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41dDZQYWlKSV9qcFoyeEVIOEVmSk0xeVpMeFFCTE95UVd1S2JnaVZaUUg5S0RoLWVwSl93aEpHX1diQXFCNmwxdWUxa0Z6TGlJeUxBczBUazJyMVZ1T1hRdWhndWllbFd2cmgyeFBPeUNtcFg1RXdYQw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AIエージェント導入で終わらせない。成果につなげる業務設計と人材育成を公開『ビルスピアカデミー』が「生成AI/AIエージェントフォーラム 東京 2026 秋」に登壇 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40andNNVRpajAxVWFvay1LTDFMYTZidDZPbE9BeG53c09HRTlLcUJOeWVEdGdCRlNkVjViYkZSSWJ5UWRZUndtY0JFcndCZ1pzbFJwZ0pNb1RkZkwybENVYXRzcjdyR0NOYWc?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ub0NJdGtsSHJ4bWdDV2lCZXRGRThfeEVQYjlVeHFlYm1RZUVSWHZjNXpacll3SUR1WGl2cDN4eGJwckVURU81V0hMZDF0ZFRRT3VaV0ZhZ3JMV1B5MXVPWEozdw?oc=5",
+   "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42bkhVQ1ZjaG9XTFM5ajQzSkRxRnhQSkUwV2ppaGRjMVdWNlF1cHJzanhiZ3ZpUDZyT1Q3LU5tblRsWG81eTZEclptMDZHSTItY2s1MFNXMEdSV2tKcy1qNlk2MmwwSnpCeGc?oc=5",
    "publisher": "news.google.com"
   }
  ]
