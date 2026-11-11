@@ -1,49 +1,49 @@
 {
  "date": "2026-11-11",
- "updatedAt": "2026-11-11T07:51:18+09:00",
+ "updatedAt": "2026-11-11T18:23:00+09:00",
  "source": "ainews-bot",
  "items": [
   {
-   "title": "Google、最強モデル「Gemini 4 Carbon」を一般公開",
-   "summary": "有料の開発者・企業とAI Ultra加入者が使えるように。複雑なコーディングや研究向け",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-   "publisher": "Google"
+   "title": "OpenAI、7〜9月の売上が初めて100億ドルに",
+   "summary": "前期比約50%増。一方で営業赤字は109億ドルに拡大と報道",
+   "url": "https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+   "publisher": "Bloomberg"
   },
   {
-   "title": "Anthropic、Claudeに表計算「Sheets」とホワイトボードを追加",
-   "summary": "頼むだけで数式付きの表や計画ボードを作り、チームで一緒に編集できる",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "publisher": "Anthropic"
-  },
-  {
-   "title": "Anthropic、上場に向けたロードショーを開始",
-   "summary": "8.25億株を1株70〜78ドルで売り出す予定。ナスダックに「ANT」で上場申請",
-   "url": "https://www.anthropic.com/news/roadshow-launch",
-   "publisher": "Anthropic"
-  },
-  {
-   "title": "OpenAI、お店や会社がChatGPTに公式ページと接客AIを持てるように",
-   "summary": "会社が情報を登録・更新し、米国の通販などは商品の質問に答えるAIも作れる",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "publisher": "OpenAI"
-  },
-  {
-   "title": "Google DeepMind、AIでSignalの暗号の安全性を数学的に証明",
-   "summary": "AIが600万行超の証明を書き、実際に動くコードの安全性を4週間で確認",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "title": "Google DeepMind、ロボット用AI「Gemini Robotics 2.5」を発表",
+   "summary": "メルセデス工場の試験で人型ロボットが部品仕分け成功率96%",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
    "publisher": "Google DeepMind"
   },
   {
-   "title": "ニューヨーク州、大手AI企業の登録受付を開始",
-   "summary": "AI安全法RAISE Actで、大手は2027年1月1日までに登録と安全対策の公開が必要",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "publisher": "TechCrunch"
+   "title": "ニューヨーク州、AIを州が独自に試験する研究拠点を開設",
+   "summary": "80人超の研究者が強力なAIの安全性を独自に検証",
+   "url": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-declares-ny-will-lead-nation-ai-science-and",
+   "publisher": "ニューヨーク州知事室"
   },
   {
-   "title": "モルフォ、学習データなしでカメラ映像を見分けるAIサービス",
-   "summary": "画像と言葉を理解するAIで、映像の状況を読み取り次の動きまで設定できる",
-   "url": "https://response.jp/article/2026/11/11/418850.html",
-   "publisher": "レスポンス"
+   "title": "Microsoft、AIの神経を10個未満いじるだけで裏口を仕込めると発表",
+   "summary": "学習し直さずに仕込め、合図でAIエージェントが攻撃コマンドを実行",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "publisher": "Microsoft Research"
+  },
+  {
+   "title": "Google、医療機関向けの「Gemini for healthcare」を試験提供",
+   "summary": "カルテ準備や保険の事前承認書類をAIが進める。米国でプレビュー",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+   "publisher": "Google Cloud"
+  },
+  {
+   "title": "NTT、ロボットが動く前に失敗を予測するAIを開発",
+   "summary": "物理法則を組み込んだワールドモデルで棚積み成功率73.1%→92.3%",
+   "url": "https://group.ntt/jp/newsrelease/2026/11/11/261111b.html",
+   "publisher": "NTT"
+  },
+  {
+   "title": "弥生、会計事務所向けAIエージェントが作業の実行まで可能に",
+   "summary": "ZEXTのAIがタスクの担当替えや完了処理を人の承認付きで実行",
+   "url": "https://prtimes.jp/main/html/rd/p/000000422.000015865.html",
+   "publisher": "弥生"
   }
  ]
 }
