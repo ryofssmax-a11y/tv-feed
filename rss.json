@@ -1,8 +1,23 @@
 {
  "date": "2026-11-13",
- "updatedAt": "2026-11-13T01:33:23+09:00",
+ "updatedAt": "2026-11-13T07:34:02+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
@@ -39,21 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
-   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
    "publisher": "news.google.com"
@@ -84,8 +84,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "働く人の生成AIとの付き合い方調査2026 「20代～30代の働く人56.6％が、仕事で生成AIを利用」 (2026年11月12日掲載) - ライブドアニュース",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NaXI5bEZPRGIzN2JFaFlPREZuRTBVQkljejFGMHgtR19QQ0x3NzFabHZlWHBVLVJ2ZDJhNUM1S3duOV9tZzMzUDdObFVCLWRTRnV5MkxMRE12S29meEtSVGRR?oc=5",
+   "title": "「会社のAIが使えない」の正体、悪いのはAIではなく社内データ環境 - 日経クロステック Active",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGJJYjFoVnZIYjFzTHdfVlJ1TlBOUS1pa0VBUVloQk4xa1FpcHk4eHBPbFZqMjQ5bi1tamJHMVBsM0tJd2gyOEF0Ym5lZmw5OE43YjRYRnVaSE1Ya18xckFlX2h4QUNVY0NLR3F1TlRQVjZtWjlHbkE3TElQS1BNTHFsNXBja3NxODZvSi05UkdHQjRJdEJN?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「売上低下の原因は？」とAIに聞いてはいけない理由――現場の違和感を成果に変える“問いと翻訳力” - Web担当者Forum",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMam02SmRYV1ZkRFlEYTY2OWVXZ1ZfU083ejQ3VHo5NHNPMk5sWk5ISWtMNTBnemtNaTNubkVEVUVxUmxNV051amJHLVBNdkFKSFUydE5hSHh2bzg?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -96,11 +101,6 @@
   {
    "title": "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変更、製造現場の品質改善 - ロボスタ",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFV3NGbWMxY3N6Qy0tWktETkl5bUgzUDJUZnEwN2g2MHhXTEpCUm5sZ000N01yZURieWM1N3MwRzhzWGtSSjZrdUtWZS1Db0wwckJYeHJwcG5rdC05Sm5fU29zSWg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "【イベントレポート】Generative AI Japan主催「ユースケース・技術動向研究会」に、アルサーガパートナーズの藤本・石黒が登壇 - 大分合同新聞",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeTVnZWFobENuM0lJaVdFSS1uaTBNNEk0ZUQ0SHVMYkNzNW1fY19FUndLdUxOd0pfUTFFYkZXOFJiQnhsLXpZcV9rTGN4NUJSNkRfX0hCWVZOZzVLakZxVHhMTWQ5WmYza0pGZTl3?oc=5",
    "publisher": "news.google.com"
   }
  ]
