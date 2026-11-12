@@ -1,8 +1,43 @@
 {
  "date": "2026-11-12",
- "updatedAt": "2026-11-12T02:41:07+09:00",
+ "updatedAt": "2026-11-12T09:01:46+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AWSで「ChatGPT Enterprise」を購入可能に　AWSアカウントで一括管理するメリットは",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「非言語系AI」はLLMの弱点を補えるか？　Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Claude Enterpriseがセキュリティと管理機能を強化　DLP・EDR連携など新機能の全容は",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「成果志向のBIM」とは何か？　Autodeskが描くAI時代の鉄道インフラ",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news016.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「APIを呼ぶのは、もう人間ではない」　進化するMCPとOpenAPIとの“新しい関係”",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
@@ -19,41 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
-   "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
    "publisher": "news.google.com"
@@ -64,28 +64,23 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "Google DeepMind、細胞ごとにDNAを読むAI「AlphaGenome 2」発表 変異の検出は約2倍 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JN1J2YkdZM1oxWlF0NVZyNE01YllwQ2tCOENFVkYzekZXYndhZ0hhUEVoR2JKZDYxbEtZVm5wUDg2cUxPb2N1QVpLYXNqRFRmdmZZ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "三井住友ファイナンス＆リース、生成AIの新サービスを発表 6人で約半年想定の開発が「1人で1週間」に - J-CAST ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORnZhcmN4SmVuWmdXbkxZc3JEM25pNXlzNDM4eS1MV3VtWVUyWDFOVno3aWZPbUxkbUlHWlhuT2VSR0F1NDJIa1FhOTQ1eEJVNWg2S0hyc2IzU3ZTYVB2WlI4Y3Q4Tmo5?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "iPadのマルチタスク機能で生成AIを使いこなす、複数アプリを同時に扱える - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MR0VOSHlvUVVXNDZyUmticnV1SWdtVGQ0M0dMc0JxeGlvTXBPdExuZllwSERfUVJ3cHJHRTM5N09fS25zTGJld1l0VlhWaVUyVnk5b1FScHlhS25WVXhxVVdicXhQVzdKRGFtTg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "「生成AI、社内で使いこなせていますか？シャドーAIから、安全な利用環境・ルール浸透まで」セミナーをオンライン無料開催（PR TIMES） - 毎日新聞",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PQ09pVFQxMEgyYWNkTUQtQ240SERlZVZzZi00ZV8yTHVOQ1JCdU92azRZdmltb0NQSHh0ZVJpWGFSYkNVY1N1R3FLTTZLdzI5U0V4MmR2LXFfSERMU2lCWXBCU2ctZ2pL?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIと連携、LaTeXコマンドやMermaid記法を出力させよう - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zeVpIOExjU3FuT09FMnU0VnNMdUZMZDRHckVtRDZzdUh2QTgyLUFVMmx0ZXQtYXlmZVJxazVJTmxfQXlLdm40RjVXUllvSVYxWkhYVUZBWGhpeVVZV0RuRU5OWnQyT1FQclpZWQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開 - PC Watch",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HVGFMOW9TZ0hCYTRTOFdGZGVOLWIzYnlHRVZpLVNDYThRRXo0Ulk0QjNRdS1iWGRDczBGVU51U091Ry1EQ3NMY3JGRE5oa2VvNktRTkRzWDl0TXhIN000NFdEbw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "無料の画像生成AI「P-H3-Image」がすごい 参照画像1枚で同じ人物を自在に再現 (1/4) - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82N3VveEhWb2pBbjlKYXY3eGJyT3pFcnVnWmpMS1o5Y0pVcmJVY1NJaUZoa3NfRlYya19zaWwwSXJ3ZlFnRmhJNklHSmxZUk1NQWRuRw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応 - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CUm1JTHY4dDduM2ZlanpYcm1UbWpuUlZwZjhJQnhmdjNJejNhWmQtbWtnVEFuRFB3dWIwQlppR3hZZm1FZ0Zyc1BJS2pWeVpYb0JzQWtCOHJnS243OGNVcHVvdE9jU1g1Y21rcXFn?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +89,18 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "【調査レポート】企業経営者・役員への「AI活用に関する実態調査」生成AI活用企業は約4割、約7割が生成AIに何らかの不安 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VdUw2ZmJIUXJCbVBSSFdmOVJ5eDFyejVER1NRYVZ3WWFIU2ZZV1diTE5vX1ZsQTZMc2FmaFcyTmttaG1sNXlHMm5OVnpZUGl1VzBnWXVRS1dlMmV2aXRtREw5aTRqY19JQno5MjBnMDY5Rk1KOHc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく - 東洋経済オンライン",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidzk1M3c0cHQzWmRsY2FtSFJEb2huR0dqYy1yYm15dTVwSkhpZVV6NGhxV2M5NG1JMWQtTTJOYm1tdDk5d09nMDJIOUxxam9BT3c?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "【調査レポート】企業経営者・役員への「AI活用に関する実態調査」生成AI活用企業は約4割、約7割が生成AIに何らかの不安 - ニコニコニュース",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VdUw2ZmJIUXJCbVBSSFdmOVJ5eDFyejVER1NRYVZ3WWFIU2ZZV1diTE5vX1ZsQTZMc2FmaFcyTmttaG1sNXlHMm5OVnpZUGl1VzBnWXVRS1dlMmV2aXRtREw5aTRqY19JQno5MjBnMDY5Rk1KOHc?oc=5",
+   "title": "中国の動画生成AI「Sand.ai」、約300億円を調達　ユニコーン入り - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBidUpIV2I5cThIZVJiTW1GOFJTbFQ3V1RPVDlWU0dERkk5TWRISlRJN1VpUnVwMWt3UDZDYmtFelplYURTMGp3Y0dQR2paU1BzbjFST3Y0QmZrWlM1X25iOW5FT2xHdGdvUlF3SE9OTUs2a3PSAXhBVV95cUxPSERLRzJOQUstdnB1ZUVYZm5MN056R0pXZlZkRnFuTFptdllwMTQxTW5BSjl4N3dPRVItYWZKeXRhZHpzNXFIR2RfS20xbTd5WUxOSE1fVEZuUVl1YUxWc3ZxSERGbjg0bmRyQVFpVXB2MV9wMmdPdHc?oc=5",
    "publisher": "news.google.com"
   }
  ]
