@@ -1,8 +1,48 @@
 {
  "date": "2026-11-12",
- "updatedAt": "2026-11-12T09:01:46+09:00",
+ "updatedAt": "2026-11-12T16:30:30+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "OpenAI APIで国内推論可能に　GPT-6 Lunaのみ",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
@@ -11,46 +51,6 @@
   {
    "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AWSで「ChatGPT Enterprise」を購入可能に　AWSアカウントで一括管理するメリットは",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「非言語系AI」はLLMの弱点を補えるか？　Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Claude Enterpriseがセキュリティと管理機能を強化　DLP・EDR連携など新機能の全容は",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「成果志向のBIM」とは何か？　Autodeskが描くAI時代の鉄道インフラ",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news016.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「APIを呼ぶのは、もう人間ではない」　進化するMCPとOpenAPIとの“新しい関係”",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
@@ -64,23 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Google DeepMind、細胞ごとにDNAを読むAI「AlphaGenome 2」発表 変異の検出は約2倍 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JN1J2YkdZM1oxWlF0NVZyNE01YllwQ2tCOENFVkYzekZXYndhZ0hhUEVoR2JKZDYxbEtZVm5wUDg2cUxPb2N1QVpLYXNqRFRmdmZZ?oc=5",
+   "title": "AI生成の偽情報、見抜ける？ 「自信あり」は約3割に低下--ドコモ調査 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lUTZoMm1yNmtZSENlRU9jWll0TXItZjFYVk1ZM3VPazU0MVgzNWtEcEt4cUlWb1kzbWItcnJaOUg1TUptbG5Hc0c5QnhEekh6cXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "三井住友ファイナンス＆リース、生成AIの新サービスを発表 6人で約半年想定の開発が「1人で1週間」に - J-CAST ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORnZhcmN4SmVuWmdXbkxZc3JEM25pNXlzNDM4eS1MV3VtWVUyWDFOVno3aWZPbUxkbUlHWlhuT2VSR0F1NDJIa1FhOTQ1eEJVNWg2S0hyc2IzU3ZTYVB2WlI4Y3Q4Tmo5?oc=5",
+   "title": "QommonsAI活用研修を和歌山県御坊市（わかやまけん ごぼうし）で実施— 「実際に操作しながら実践的に学ぶことができた」初級編で生成AIの基本を学ぶ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUelhhZkxNNUpBNWMwTnI3aVFvWWhBZTMxdFMtNlV4NzJnR0tWVFhwcUNIWkxzZTBJTzR6TE43SEdPT1dCNFBzRGdQLUhUQWhqd2VjM0p2WGQ5MTR2Zk5tWHNHZkhHTUwyenc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "iPadのマルチタスク機能で生成AIを使いこなす、複数アプリを同時に扱える - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MR0VOSHlvUVVXNDZyUmticnV1SWdtVGQ0M0dMc0JxeGlvTXBPdExuZllwSERfUVJ3cHJHRTM5N09fS25zTGJld1l0VlhWaVUyVnk5b1FScHlhS25WVXhxVVdicXhQVzdKRGFtTg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「生成AI、社内で使いこなせていますか？シャドーAIから、安全な利用環境・ルール浸透まで」セミナーをオンライン無料開催（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PQ09pVFQxMEgyYWNkTUQtQ240SERlZVZzZi00ZV8yTHVOQ1JCdU92azRZdmltb0NQSHh0ZVJpWGFSYkNVY1N1R3FLTTZLdzI5U0V4MmR2LXFfSERMU2lCWXBCU2ctZ2pL?oc=5",
+   "title": "【開催報告】勘と経験の農業に、生成AIがやってきた。中央大学のイブニングセミナーに113名が参加申込、92.5%が「満足」と回答 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KWDNsc1pKLUoyODAzYVZlR0JNemNJMHdSN0NhTk1qQXJWTHN1WnpLSzJId2RwRkpSZm5sNURiSnBQLTM0czJKNkFQYmFtRkZycnBBN0t3eUNPOER0Q19hVFVpVFBnZmJIVVE?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,8 +84,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "【調査レポート】企業経営者・役員への「AI活用に関する実態調査」生成AI活用企業は約4割、約7割が生成AIに何らかの不安 - ニコニコニュース",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VdUw2ZmJIUXJCbVBSSFdmOVJ5eDFyejVER1NRYVZ3WWFIU2ZZV1diTE5vX1ZsQTZMc2FmaFcyTmttaG1sNXlHMm5OVnpZUGl1VzBnWXVRS1dlMmV2aXRtREw5aTRqY19JQno5MjBnMDY5Rk1KOHc?oc=5",
+   "title": "プレスリリース：働く人の生成AIとの付き合い方調査2026 「20代～30代の働く人56.6％が、仕事で生成AIを利用」（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVl9rSjlFc29Ud2Q1TklidkhyVVYxcEdSWFpwVnNWeDZXZDl6cHJOVU03TGNoamxJMWJER3ZMUFdnUlFiaF9CSnBEYnF3MzlHS2Q4VUpxTUxVYWlTNzZ2NzBJblJoVjBN?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "中国の動画生成AI「Sand.ai」、約300億円を調達　ユニコーン入り - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBidUpIV2I5cThIZVJiTW1GOFJTbFQ3V1RPVDlWU0dERkk5TWRISlRJN1VpUnVwMWt3UDZDYmtFelplYURTMGp3Y0dQR2paU1BzbjFST3Y0QmZrWlM1X25iOW5FT2xHdGdvUlF3SE9OTUs2a3PSAXhBVV95cUxPSERLRzJOQUstdnB1ZUVYZm5MN056R0pXZlZkRnFuTFptdllwMTQxTW5BSjl4N3dPRVItYWZKeXRhZHpzNXFIR2RfS20xbTd5WUxOSE1fVEZuUVl1YUxWc3ZxSERGbjg0bmRyQVFpVXB2MV9wMmdPdHc?oc=5",
+   "title": "iPadのマルチタスク機能で生成AIを使いこなす、複数アプリを同時に扱える - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MR0VOSHlvUVVXNDZyUmticnV1SWdtVGQ0M0dMc0JxeGlvTXBPdExuZllwSERfUVJ3cHJHRTM5N09fS25zTGJld1l0VlhWaVUyVnk5b1FScHlhS25WVXhxVVdicXhQVzdKRGFtTg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "三井住友ファイナンス＆リース、生成AIの新サービスを発表 6人で約半年想定の開発が「1人で1週間」に - J-CAST ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORnZhcmN4SmVuWmdXbkxZc3JEM25pNXlzNDM4eS1MV3VtWVUyWDFOVno3aWZPbUxkbUlHWlhuT2VSR0F1NDJIa1FhOTQ1eEJVNWg2S0hyc2IzU3ZTYVB2WlI4Y3Q4Tmo5?oc=5",
    "publisher": "news.google.com"
   }
  ]
