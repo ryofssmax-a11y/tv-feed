@@ -1,57 +1,67 @@
 {
  "date": "2026-11-13",
- "updatedAt": "2026-11-13T07:34:02+09:00",
+ "updatedAt": "2026-11-13T12:07:51+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "【ヤフコメで話題】「生成AIによる宿題・課題の扱い」「教育現場でのAI活用の是非」 - 学校教育と生成AIの関係に多様な意見 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5teGhFT1lYZkVZN2dJSEwwaEJCT29ZRERXSHZ1RU55Y0FqM3dNN2RhU1FtUU1WNnFOWC1IWTlQX3phQmJSX3FIaXhkaHRLSTFQRDBJNkVDSnVEb2Q5QzRwSG9YeFRMZXo3TnZwZE5yd3hsYndEZVlRZk5GZXRKNkE?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
-   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OpenAI APIで国内推論可能に　GPT-6 Lunaのみ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
-   "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "生成AI時代の授業と評価はどう変わる？ 講演と実践紹介レポートをLoiLoが公開 - こどもとIT",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2UHVoY2V1bmhwb09PLW9RMGo0WndES29tMkpwZk4wb1hrS0x4ZW0tWU50SWpGdnhrMy1tRzY0SmJxZ3I3VC1rNlhSRy1zeXJ0N2QtWUdFQkgwOHJWRG81OVRlOFAxZzlCMVBlbg?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
@@ -64,43 +74,33 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "AI時代が不安なエンジニアに求められる「土台の強さ」 毎日AIを使う開発者ほどコードを“書く”力を再評価する理由 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UR2hDcWhndFVJN3ozUUFNdHA3cWFEVFY2YlpQdGtRMTM3Z2FrSEprcWxZSnhIU0oxQXBFOUp5Xzc0a1NtRDQ3eFB6STVKLVNPT1EtTTg5WHAwN1gzUVFvOGh3TmxJQ19JTm1JRTlqZmQ1QQ?oc=5",
+   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "AI生成の偽情報、見抜ける？ 「自信あり」は約3割に低下--ドコモ調査 - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lUTZoMm1yNmtZSENlRU9jWll0TXItZjFYVk1ZM3VPazU0MVgzNWtEcEt4cUlWb1kzbWItcnJaOUg1TUptbG5Hc0c5QnhEekh6cXc?oc=5",
+   "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SS0ppOHZaYVFXZW1fRmd5enRBSURZNV9lR0s0RVdGdkdJcVpicFYxV0RkMGtKU3YxN0VDNnpDYjdTMnBZMlJoNlpZYml4cnpYZno0c0EtQ3pWZ2YxTkc2RWpzVDFLcFdl?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：働く人の生成AIとの付き合い方調査2026 「20代～30代の働く人56.6％が、仕事で生成AIを利用」（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FVl9rSjlFc29Ud2Q1TklidkhyVVYxcEdSWFpwVnNWeDZXZDl6cHJOVU03TGNoamxJMWJER3ZMUFdnUlFiaF9CSnBEYnF3MzlHS2Q4VUpxTUxVYWlTNzZ2NzBJblJoVjBN?oc=5",
+   "title": "「Third AI 生成AIソリューション」、最新モデル「Gemini 4 Carbon」に対応～最先端の精度で、高度な推論を要する複雑な課題への活用を支援～ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfX01ZbG8zeXNBRVJRS1dDZzVEaXp5YkxRQ0xGNmtpNzFyNWZaLXhXTUQxUHpDNmxSZVRpSURQNVM1U21UZk9QdzVVVmVnR3p5Um9CRHhXTlViVXhsYXk5djdWQmpxSExkZXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "若手社会人は生成AIに何を相談? 利用実態をHagakureが調査 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWTWQyYl93QlpaUk9hdzlSLWR0NjV0SGxfcHROZThaVnUyVlRPdGNEZG84NTA3ZVE1VHdZZmpsdDI2ZlJWTVhSMnBnLTdIWkxNTEt1Y3VHUlVJTlRNWU9QVy1MejUzS2luUUlqdG1RMG5CTVJIQXQ40gF8QVVfeXFMTTJCcjZONF95NjhxZzEyVmxUcHFkNlI4cTdKTUNZb1ZPNnBuZ3dJSV96R0VlNGg4UFcwWmEzZjJtbzh5QXdHVTJnQUs1T0N0Uklia3hET0llVnNOZUZqQS1TemRZYWJmTWpMRHZfckYtOHlEZWNEZ2ZNTFMxWg?oc=5",
+   "title": "「Gemini」の検索数が前年比約5.9倍に急伸 ChatGPTとの差は2.5倍へ - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YeE1aYkh2aDczdkpLWU9GQm1kRGZsaXhqMERpa3V2cFR6bHIxY0Uya1lWNWcxVU1Sa3JsSlVPT2h3NmZhUzdWazl4TTBIWE1hVm85YVFlRkVjYXp4MzRuWm5naw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「会社のAIが使えない」の正体、悪いのはAIではなく社内データ環境 - 日経クロステック Active",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGJJYjFoVnZIYjFzTHdfVlJ1TlBOUS1pa0VBUVloQk4xa1FpcHk4eHBPbFZqMjQ5bi1tamJHMVBsM0tJd2gyOEF0Ym5lZmw5OE43YjRYRnVaSE1Ya18xckFlX2h4QUNVY0NLR3F1TlRQVjZtWjlHbkE3TElQS1BNTHFsNXBja3NxODZvSi05UkdHQjRJdEJN?oc=5",
+   "title": "Athena Technologies、閉域環境で生成AIを安全に運用する取り組みで「日本セキュリティ大賞2026」特別賞を受賞 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaVUxUHhhZXI1MHVoSjE4UXFwcExJd3k2V3paZnBKUHl2NFR0QkNya2wzTW0yTXYxNXBSNTZZYkFqWlBOVjJsMjU2SDFDV3hQS1NPVlJ0d0dFWEVsck8tb2NjM0p6bzE1V3c?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「売上低下の原因は？」とAIに聞いてはいけない理由――現場の違和感を成果に変える“問いと翻訳力” - Web担当者Forum",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMam02SmRYV1ZkRFlEYTY2OWVXZ1ZfU083ejQ3VHo5NHNPMk5sWk5ISWtMNTBnemtNaTNubkVEVUVxUmxNV051amJHLVBNdkFKSFUydE5hSHh2bzg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIやロボットどう活用 道総研が紹介 苫小牧で「移動工業試験場」 - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ndW5pR0Q5Y2xEdDBJWWxXWGZaS3V4STRjbVJzQVFyWHM5TDVJVjZLTUI2SGYtVGp1S1V3Q3JuSnNrV1UxZmNjbDVTZWpNT3ZZV01SaWtnR1JVUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変更、製造現場の品質改善 - ロボスタ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFV3NGbWMxY3N6Qy0tWktETkl5bUgzUDJUZnEwN2g2MHhXTEpCUm5sZ000N01yZURieWM1N3MwRzhzWGtSSjZrdUtWZS1Db0wwckJYeHJwcG5rdC05Sm5fU29zSWg?oc=5",
+   "title": "データアプリ - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTmJMaDFKN2JwVm0zRDlxSllhazlKWXNOZTROYTRyUEloZ1E0S1dYanl3ejc1OTRudHo2bzk1eTBuWUJ6M1U1eTlxajJDTkVCRFdwZ0VuY1UwZjcyclhzMWRoUzVrRmVzQnc?oc=5",
    "publisher": "news.google.com"
   }
  ]
