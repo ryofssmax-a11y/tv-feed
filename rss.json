@@ -1,8 +1,13 @@
 {
  "date": "2026-11-13",
- "updatedAt": "2026-11-13T12:07:51+09:00",
+ "updatedAt": "2026-11-13T20:22:40+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
@@ -49,23 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "【ヤフコメで話題】「生成AIによる宿題・課題の扱い」「教育現場でのAI活用の是非」 - 学校教育と生成AIの関係に多様な意見 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5teGhFT1lYZkVZN2dJSEwwaEJCT29ZRERXSHZ1RU55Y0FqM3dNN2RhU1FtUU1WNnFOWC1IWTlQX3phQmJSX3FIaXhkaHRLSTFQRDBJNkVDSnVEb2Q5QzRwSG9YeFRMZXo3TnZwZE5yd3hsYndEZVlRZk5GZXRKNkE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI時代の授業と評価はどう変わる？ 講演と実践紹介レポートをLoiLoが公開 - こどもとIT",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2UHVoY2V1bmhwb09PLW9RMGo0WndES29tMkpwZk4wb1hrS0x4ZW0tWU50SWpGdnhrMy1tRzY0SmJxZ3I3VC1rNlhSRy1zeXJ0N2QtWUdFQkgwOHJWRG81OVRlOFAxZzlCMVBlbg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
+   "title": "画像生成AI「ComfyUI」の人気拡張機能に脆弱性 不正コード実行のおそれ - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UOU1MdnJhcWI2eUNNaVhXVHhwdzlLbEhSSy0wUXRYWFRQblVfRmNzZGRjVExlN0diZ0Q5VWd5YnpmZW5qNVNCc0Z1SERWVS1MbVQzcg?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,28 +69,38 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル - 窓の杜",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SS0ppOHZaYVFXZW1fRmd5enRBSURZNV9lR0s0RVdGdkdJcVpicFYxV0RkMGtKU3YxN0VDNnpDYjdTMnBZMlJoNlpZYml4cnpYZno0c0EtQ3pWZ2YxTkc2RWpzVDFLcFdl?oc=5",
+   "title": "生成AI時代を生きる子どもに求められる力 創造力と挑戦を応援する「北海道デジタル学園祭」が開幕 専門家の情報教育講演やロボット競技も 札幌市 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNSkhoczltUXo0QVlObjZDcHpHWTZ1eUlfSVpoZVlZaU5UbzF2dmlxd2lZd2toX1pxeUo3NXRaMTBPUmdQa2tJYXQ4TDVtLVNVVXZPWGdlbw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「Third AI 生成AIソリューション」、最新モデル「Gemini 4 Carbon」に対応～最先端の精度で、高度な推論を要する複雑な課題への活用を支援～ - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfX01ZbG8zeXNBRVJRS1dDZzVEaXp5YkxRQ0xGNmtpNzFyNWZaLXhXTUQxUHpDNmxSZVRpSURQNVM1U21UZk9QdzVVVmVnR3p5Um9CRHhXTlViVXhsYXk5djdWQmpxSExkZXc?oc=5",
+   "title": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知 | NHKニュース | ＡＩ・ネット・ＩＴ、事件・事故 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnZWk5U0JoV2FpSkFKOEJzdEpKeDVnZGZ2ZEt0RGhEU0p1NllPX2JkWFlVcE95UUhqMEFtX1FNaGFQOGZxcjFWZmdqYThTeUdNRzFOWURJN1B6X1F4VUY0?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「Gemini」の検索数が前年比約5.9倍に急伸 ChatGPTとの差は2.5倍へ - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YeE1aYkh2aDczdkpLWU9GQm1kRGZsaXhqMERpa3V2cFR6bHIxY0Uya1lWNWcxVU1Sa3JsSlVPT2h3NmZhUzdWazl4TTBIWE1hVm85YVFlRkVjYXp4MzRuWm5naw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Athena Technologies、閉域環境で生成AIを安全に運用する取り組みで「日本セキュリティ大賞2026」特別賞を受賞 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaVUxUHhhZXI1MHVoSjE4UXFwcExJd3k2V3paZnBKUHl2NFR0QkNya2wzTW0yTXYxNXBSNTZZYkFqWlBOVjJsMjU2SDFDV3hQS1NPVlJ0d0dFWEVsck8tb2NjM0p6bzE1V3c?oc=5",
+   "title": "生成AIの偽情報、見抜く自信がある人が1年で約3割に減少 - こどもとIT",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80X0xzV0NfdEN2MnA2ZlBpX09GSkFQdzV0MkFzbTB5ZEVOSEpyMnBrRU5XSVVBQ0FlSnBMX0RsNGtwcWNPZDMyQ0lxcjVaTFRDNEh4NU40ZUw2YVF2X1R1VmNTdVA?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "データアプリ - 日本経済新聞",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTmJMaDFKN2JwVm0zRDlxSllhazlKWXNOZTROYTRyUEloZ1E0S1dYanl3ejc1OTRudHo2bzk1eTBuWUJ6M1U1eTlxajJDTkVCRFdwZ0VuY1UwZjcyclhzMWRoUzVrRmVzQnc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変更、製造現場の品質改善 - ロボスタ",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFV3NGbWMxY3N6Qy0tWktETkl5bUgzUDJUZnEwN2g2MHhXTEpCUm5sZ000N01yZURieWM1N3MwRzhzWGtSSjZrdUtWZS1Db0wwckJYeHJwcG5rdC05Sm5fU29zSWg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "小4～6年「会ったことのない人とネットでやり取り」3割以上…6割「生成AI使ったことがある」、「画像などの作成に」が最多 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QN2xBY19leFcwd3RzZG94NGQ0WEJjV2J6YlRhRWJMUVpJb3VFNjFvMnhLVEhkQjctWFNWQlQ1ZHJYQWg5MWZvR2k5MEgxTEJYa1RJZUJaUHowUU9XeElZMGlUbmJQbTFXWjhFSWQ5X0VYQQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIへの質問も回答も国内で、Cohereが推論基盤「Model Vault」を日本で提供へ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wc2xOeGE3dkg4UkpxUkR1Sld4MHJIR0RJT1NVT1BYNnV5TjBjWlNwN3A5Tkk1SE1CNHdneGFPMkdUcGVxRTI5V0o2M2hLWXc4SnRjdXg2TGlMWEVETWkyd3EyanZFRGlkTWg0YldB?oc=5",
    "publisher": "news.google.com"
   }
  ]
