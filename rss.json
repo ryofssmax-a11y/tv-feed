@@ -1,8 +1,13 @@
 {
  "date": "2026-11-14",
- "updatedAt": "2026-11-14T15:52:21+09:00",
+ "updatedAt": "2026-11-14T22:56:09+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
@@ -21,11 +26,6 @@
   {
    "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
@@ -59,23 +59,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外（読売新聞オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Pa1RXZVMwdWpwZlFYdTNZSU1MUmtUTXhZUzNZNXF6LUhkdjZWNDhLYmJZWFZaTVYwZWVzR3gyVXJLZ2Vyb29ET2dpWTBRMmt3UEs1YXhrOXB6ajFnRlVZRWNUb1Q5ME85bGtwb3h4bmxNNG1peGg4QVUtZGRremc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外 - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uekZ3VjlvdERiV00xSUZ4aDhlVVo2aEdZdnd3STlPQkhKdV83cFpKMXpEeWVVZlpWN045cVRZYm5uVDZXN3pHSzdpaXMzNE5oNXhZTnJTQ2REMTYzMjNIZUswTzFhWjlpVWhqZ1QyWWY?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外 (読売新聞オンライン) - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEtNMkY2a29FRFFDTm1mMDRZWnVwNldpZWZjVFdKVnZURDFwUkpxeGVFVzNMZEItNHZxLXpJbHY2V0dmbzZyWUVqcTdEbE1MbEE1bFZZZzVnT0FqcnVNR2lpWUZDZlo1SlJ6dS1fUzlDQXYzT21OTzJub1lUSkRWUVVUSkI4OENQMEdZZFpn?oc=5",
+   "title": "【生成AI時代】大前研一氏、自身が学長を務める大学の試験で「カンニングを奨励」する真意 人間も思考を“飛ばす”ことでAIに出せない答えを出せる（マネーポストWEB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmblJmYWhCUE04Qmppd1ZLaFdEdFJmVTNPNlYwS0x6OFRGWTVJQ055N3V5RUtJYzNFMWFXaUl3eWdmMlM1d185M2NrbmdUNnpUTHJxSGlXY1c0MjVUQXB3d3kyZklHUUhoTVJOWnI0WTZMVEhLcDNldEZFeERoWHM?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +69,38 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代を生きる子どもに求められる力 創造力と挑戦を応援する「北海道デジタル学園祭」が開幕 専門家の情報教育講演やロボット競技も 札幌市 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zLXpuTHZfeHIwQXJmcGVWODRkYUxrMVU3ZmFlQ3k0M1VHbG5QVzIxNlhfaTV3SFVVNUdUSkVmVVBsZ1JSRlR0MEdESUVENnhLbTUzWExETm9FanNnc3ROTTlwZVRKX0E?oc=5",
+   "title": "トレンドの生成AIで小学生がゲーム作成を体験 講師は大学生 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meEhUdVY3QldKVndtM3NlOER2clg3THNYS1VCNmMzd21FZGJUNWE0cVp4SEkxWWQxVGhBQmRHX2thRlh6cnI1SG9Pb0Z4QXNXbjRHV2hXME5lSmhhbEY1eE83NHc1YXF3?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "‍‍‍画像 生成 ai - 日本取引所グループ",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSk1Ja1ZlSVJzNlVRc3BjRF84akViQnpNVENBeEZGQkxNQ2Nndm5ORmZISUw3VW8zQ21sUjR3QV9TNlNSQkV0YmFUZFpIYXZxVlpMTDUyTTlkaWNjWHJTc3RpaVBZN1BLOVlKLWp6MVpRM1llcTlWaDNuX0xJdUl0azlQTHpHclNlMGV6OXdtZ3hNX0d4dXkyZVl1c2k3YlJFLVJFM3J5SkdnUmRIaTB5bGtLYWpJRjA2VHdNY1ZvZmRmTzhYcXNnU0NDb0tyY0dIMW9qaFU1NUJGa0FwV1dIZFlheGpNZjRPNkF1M2duV2xEalljbU5EZjdXcTVrV05Mb3ltT2MzYnRRbUotbGctdldmemozRGVqQmFER3hnNjNjTHdWMWRNeHlXdDBmem5SMjFwYWdNc1BSTEk?oc=5",
+   "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00SnhpbFRTM2JpVEJ2c3FYdnFLRkRlWjR0SDFkaERqbHprM3YwTnZfLTBjWk4zRTFsRVlEMHJKTTBvQnlvQ1BTQVYzTTVDSlVxTjllX3FVekZtc1hrN1hLSFhVZ08?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIの偽情報、見抜く自信がある人が1年で約3割に減少 - こどもとIT",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80X0xzV0NfdEN2MnA2ZlBpX09GSkFQdzV0MkFzbTB5ZEVOSEpyMnBrRU5XSVVBQ0FlSnBMX0RsNGtwcWNPZDMyQ0lxcjVaTFRDNEh4NU40ZUw2YVF2X1R1VmNTdVA?oc=5",
+   "title": "「会社のAI研修には興味がない。でも、子どもに聞かれたら困る。」社員と家族のための新たな生成AI研修を開始。（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUnIzeHZvU0FOZjVqV2J3Rnh5Qmh3MTZVclFXVHRTcGJYTFFySnZmZVkxTThyUE9wTFVrY3luVDEtMWZORl84SkJ6VVRYWHFpdUc1Q1dOdENNVUx5MXJpM2FoT0hEY2xo?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnZWk5U0JoV2FpSkFKOEJzdEpKeDVnZGZ2ZEt0RGhEU0p1NllPX2JkWFlVcE95UUhqMEFtX1FNaGFQOGZxcjFWZmdqYThTeUdNRzFOWURJN1B6X1F4VUY0?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "米オープンAIの対話型生成AI「チャットGPT」のロゴ＝10月19日（ロイター＝共同） - 決済代行機能の提供開始 米国で、オープンAI - 写真・画像(1/1) - 西日本新聞me",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HX3JXX1pzX1dCbFdjY0F6UEFQTXhfb1RLZ2psQnhGOEw2Nk9RX1FkOXI5TlQ5MDlFdk5UUm96Y3FUWndMNTF0WGZFLWliaG9oTW9wOC15aw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "EpicのCEOティム・スウィーニー氏、Steamの生成AI開示は「有害」と語る。ゲームの良し悪しにAIは関係がないと主張 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BUUhvX1Rza3d0bExQT2lhd0VhUktibnFhemJiM1dvQVRFZUJWSE1ER2JiU2tiTXZDbTBucmo2c1RoUDE2ZVRVcWlpT0hCVVUxRTZGeXQwdzJJdFJHa0dIUlhrazMxX0J2WmM5VmJB?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "コプロシステム、生成AIを活用した展示会マッチング支援機能を開発 『ResorTech EXPO 2026 in Okinawa』で実証実験を実施 - RBB TODAY",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlOVlFNVAxZ3FFa3FtaEVuR2lkemJBREVYaXllTEhjZ2pTRXNNTW1HYV93d01RMnBqamNLMjI3Zl9VckhZWldrSkQyRmduSnQ3M2Y2SFVpdWczWE93S3FJUVphTFdTX1NrNXN5bklLT0xEbGJYT2FSdA?oc=5",
    "publisher": "news.google.com"
   }
  ]
