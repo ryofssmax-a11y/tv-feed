@@ -1,8 +1,13 @@
 {
  "date": "2026-11-14",
- "updatedAt": "2026-11-14T03:38:40+09:00",
+ "updatedAt": "2026-11-14T09:08:44+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
@@ -49,43 +54,38 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "画像生成AI「ComfyUI」の人気拡張機能に脆弱性 不正コード実行のおそれ - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UOU1MdnJhcWI2eUNNaVhXVHhwdzlLbEhSSy0wUXRYWFRQblVfRmNzZGRjVExlN0diZ0Q5VWd5YnpmZW5qNVNCc0Z1SERWVS1MbVQzcg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる | NHKニュース | ＡＩ・ネット・ＩＴ、教育 - NHKニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "‍‍‍画像 生成 ai - 日本取引所グループ",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSk1Ja1ZlSVJzNlVRc3BjRF84akViQnpNVENBeEZGQkxNQ2Nndm5ORmZISUw3VW8zQ21sUjR3QV9TNlNSQkV0YmFUZFpIYXZxVlpMTDUyTTlkaWNjWHJTc3RpaVBZN1BLOVlKLWp6MVpRM1llcTlWaDNuX0xJdUl0azlQTHpHclNlMGV6OXdtZ3hNX0d4dXkyZVl1c2k3YlJFLVJFM3J5SkdnUmRIaTB5bGtLYWpJRjA2VHdNY1ZvZmRmTzhYcXNnU0NDb0tyY0dIMW9qaFU1NUJGa0FwV1dIZFlheGpNZjRPNkF1M2duV2xEalljbU5EZjdXcTVrV05Mb3ltT2MzYnRRbUotbGctdldmemozRGVqQmFER3hnNjNjTHdWMWRNeHlXdDBmem5SMjFwYWdNc1BSTEk?oc=5",
+   "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外 (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEtNMkY2a29FRFFDTm1mMDRZWnVwNldpZWZjVFdKVnZURDFwUkpxeGVFVzNMZEItNHZxLXpJbHY2V0dmbzZyWUVqcTdEbE1MbEE1bFZZZzVnT0FqcnVNR2lpWUZDZlo1SlJ6dS1fUzlDQXYzT21OTzJub1lUSkRWUVVUSkI4OENQMEdZZFpn?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "‍‍‍画像生成AIおすすめ比較【2026年】 - 日本取引所グループ",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQX3p0MkwtNHAyMEhWQU9FdWNNQm4yMkw0ZmRhcDB5Q1pyN1lzeU5RU3NFS2Jlc0lCRHR0ZzZZNmpZaFRjMmU1UUxPTW9oSnIzelhyMXVhRHZ1MzIzelBzcmR3VHcwYjBvMW5HMTdzenlLQmc5bkRKT1I2eGZ3enpuZElXMnA2bXVSVFh5Z2lrcTFWeTQ1VGw0MDUtYnN0Q0pvSDNCWDlCZ0EtdXRZSldfczRQcGNHQjlQQVozYmtyZGFVWUJBNlctc05vNkJtOUFzUXJuUzVJZnp4bm1JcTJBc3JNRnY0SlhTdlJ4V0JqaXItanZVU25QaDhZWkZvekRvYkFXdGEyQzM3ZV94aVp2QUJDZzhRQTllZjZDRFFKdkdZNEY4cUdndzdaVkdSY0VadkMtQlB6Ukp6X2gxMjkyYXhpTmROMHU0akNQb182WjF3RW0tNDZlRGVn?oc=5",
+   "title": "声や肖像 AIの無断利用に規制案 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mLXh2dlZIdnc3aEVpMVZYSy1fakRIaEt0V0F6SjRINmJBb2o0WEJGWm5aeE5HY2NLU3FPRUdnLWRQQXhOckw0QlhwalBuWG5W?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる（テレビ朝日系（ANN）） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RRWJFMGg1U3hUVWJUWnFvZGdNR3ZQTnZVR0NWUWJFdlZHZi1WMUxfQXZyMFdWaTVwaVlUV2twNkZtTExkYnVJWWE0M0ZqUDk5Si1YbE83dVdSYkgyX2NpZ19yTXlkS0ZWdVVtanE4aGFFTHJnelNUM3VzOXFpQWs?oc=5",
+   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "生成AI時代を生きる子どもに求められる力 創造力と挑戦を応援する「北海道デジタル学園祭」が開幕 専門家の情報教育講演やロボット競技も 札幌市 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNSkhoczltUXo0QVlObjZDcHpHWTZ1eUlfSVpoZVlZaU5UbzF2dmlxd2lZd2toX1pxeUo3NXRaMTBPUmdQa2tJYXQ4TDVtLVNVVXZPWGdlbw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zLXpuTHZfeHIwQXJmcGVWODRkYUxrMVU3ZmFlQ3k0M1VHbG5QVzIxNlhfaTV3SFVVNUdUSkVmVVBsZ1JSRlR0MEdESUVENnhLbTUzWExETm9FanNnc3ROTTlwZVRKX0E?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "生成AIの偽情報、見抜く自信がある人が1年で約3割に減少 - こどもとIT",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80X0xzV0NfdEN2MnA2ZlBpX09GSkFQdzV0MkFzbTB5ZEVOSEpyMnBrRU5XSVVBQ0FlSnBMX0RsNGtwcWNPZDMyQ0lxcjVaTFRDNEh4NU40ZUw2YVF2X1R1VmNTdVA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "‍‍‍動画生成AI - 無料でテキストから動画を生成 - 日本取引所グループ",
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObEdXQ3Vyajgzb3F2SUhlejRHZlpmWXBMTVVYQlpQbWpYMkJvWG56NG1fZHBwZTZnS0U1a2NabXJ1T0pNR0R2d1U5N0k3NkdOLWp6OWpIWDRUNkljb0dHdHBBeFJTZ1doZWY1X2hfZHNKeUNTVWpWUkdmQXlXSm5TOTNqbjVjVEVFQXZXWDVnTHFXZS1FakNWVzA1aHFIall6QmxBZGJwNmh2a1g0bDlHSmk2ZE1UN1oyWmNKR0k2aUtXb1BVUGNLMUtwVWZaSDBQSXdReHhyZFJtVW44RkQwQkx5eFE0V1g3MHN6aHlYSkZQaU1ZMEYwSUxQVmZIaThBVFBqWXZnTWFfLWpsWW1EWkV2WVVpd1pCS0QxZVV5Y050Tm5oRHJVeGpQOWpPN3FTMVdMZXROMk0wUEFsanJSYXliOTY2RGlHaE1pRVV1ZEJLRmhvclg2TG5HLU0ybDVURlM4QW5oVmpUOENmM0c2alhTa1RZeUU?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIへの質問も回答も国内で、Cohereが推論基盤「Model Vault」を日本で提供へ - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wc2xOeGE3dkg4UkpxUkR1Sld4MHJIR0RJT1NVT1BYNnV5TjBjWlNwN3A5Tkk1SE1CNHdneGFPMkdUcGVxRTI5V0o2M2hLWXc4SnRjdXg2TGlMWEVETWkyd3EyanZFRGlkTWg0YldB?oc=5",
+   "title": "画像生成AI「ComfyUI」の人気拡張機能に脆弱性 不正コード実行のおそれ - ASCII.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UOU1MdnJhcWI2eUNNaVhXVHhwdzlLbEhSSy0wUXRYWFRQblVfRmNzZGRjVExlN0diZ0Q5VWd5YnpmZW5qNVNCc0Z1SERWVS1MbVQzcg?oc=5",
    "publisher": "news.google.com"
   }
  ]
