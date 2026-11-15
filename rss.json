@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updatedAt": "2026-11-15T11:22:12+09:00",
+ "updatedAt": "2026-11-15T18:44:26+09:00",
  "source": "rss",
  "items": [
   {
@@ -59,13 +59,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「AIエージェント」普及期に 知的作業を代替、自律取引も 構造転換、問われる対応（時事通信） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Q1dydTNwR3dwR0RUX1lKcDV6Qy1DdEtsWnFxa3A3cVVRUDFFSVRWalQyUTZDSjN0QmdIOVhoU2NBOTBoY1JaT3dzeFpIWFdqcEg5LTlqQ1E3c0JiUVVfS2kzWG0tbjZzTlJjb1Y4OWU1V2FmRkVHT2tCcmpqemc?oc=5",
+   "title": "韓国の税理士試験、首席合格者が生成ＡＩによる不正を自白 超小型カメラとスマホで「ほぼ満点」 | ロイター - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVFiaHlWbnVjUHdsUkdRNl8zRmVGQ1VIODJFZkxuMDVDN3ZVcmRadldLajBxd293RnVEb0loY2l3ZWVfVHFHcmNaZFdOY3p3bXdBRWNiaFFUNnJPdVUzZ21OckJ3SGlwdGY2WjBZbVA2YVpMeWhVSEM0U0hqa3hINGJwTQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "トレンドの生成AIで小学生がゲーム作成を体験 講師は大学生 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meEhUdVY3QldKVndtM3NlOER2clg3THNYS1VCNmMzd21FZGJUNWE0cVp4SEkxWWQxVGhBQmRHX2thRlh6cnI1SG9Pb0Z4QXNXbjRHV2hXME5lSmhhbEY1eE83NHc1YXF3?oc=5",
+   "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Forbes JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVk5nZm1vQ3lLNU1NNlJXNmhoclEzWVlsTnk5MkxXOFRQTzRQTFNtQVc2bkpRR2s4aTc0Nmx2RUdFU3h2VE1PMEtodVVZT3phOTEtb0dENjZ3dw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "【生成AIやってみた！Gemini in Chrome編】WebブラウザがAIで超便利に！使わないともったいない!!（＠ＤＩＭＥ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9va1ZaYjNvaUxyVGhJN0xGZ29SdjA1NXhJM25DUENPZV82MTRLelEtYS1UWHlxaGNsUmJGM3lSWFBvODZ2aU9UQkhvUnNSU29MZndtdXJNazcwYUdVMWcwZnY0Yk45cThrMldTU180aGlPdnZfak1Ja2p0MFZUVkE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プレスリリース：［生成AIの回答139件・出典757件を分類］AI導入の相談先を生成AIに尋ねると、示される出典の74.9%は企業サイト｜株式会社ネクストスケール調査（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5T1J3c1Z2U2JJbF80ZU9YblBGNmR5Nk9sWmthdnU5WEZrb0t0RVZ0YnhPUU5lZndFVU9ac0tYRUdEUjhJYmtwRmtOSDcyT09zdEx4eWVpYjBFbWROMXc5YjFfMUZMRmpY?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,33 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「会社のAI研修には興味がない。でも、子どもに聞かれたら困る。」社員と家族のための新たな生成AI研修を開始。（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUnIzeHZvU0FOZjVqV2J3Rnh5Qmh3MTZVclFXVHRTcGJYTFFySnZmZVkxTThyUE9wTFVrY3luVDEtMWZORl84SkJ6VVRYWHFpdUc1Q1dOdENNVUx5MXJpM2FoT0hEY2xo?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "生成ＡＩによる「声」「肖像」の無断利用、経産省が規制案…「まね」「偶然似ている」は対象から除外 - 読売新聞",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00SnhpbFRTM2JpVEJ2c3FYdnFLRkRlWjR0SDFkaERqbHprM3YwTnZfLTBjWk4zRTFsRVlEMHJKTTBvQnlvQ1BTQVYzTTVDSlVxTjllX3FVekZtc1hrN1hLSFhVZ08?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "EpicのCEOティム・スウィーニー氏、Steamの生成AI開示は「有害」と語る。ゲームの良し悪しにAIは関係がないと主張 - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BUUhvX1Rza3d0bExQT2lhd0VhUktibnFhemJiM1dvQVRFZUJWSE1ER2JiU2tiTXZDbTBucmo2c1RoUDE2ZVRVcWlpT0hCVVUxRTZGeXQwdzJJdFJHa0dIUlhrazMxX0J2WmM5VmJB?oc=5",
+   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "【生成AI時代】大前研一氏、自身が学長を務める大学の試験で「カンニングを奨励」する真意　人間も思考を“飛ばす”ことでAIに出せない答えを出せる - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZV9vaXBZcXo0ck5tU2c0VmZsWG0tcDVzYzBjNWI2ZVUtRVJGSnpTVE4wN3MwX21keEhkbDRYUDcxN2wxWGEzR3NQbEl3Y1BhTUxZenhPb1Z3djdsTUJyY3M3Y2FXWnh5R0JYcFY0RXdZbmRPY3ljTXQ4WGFZbkoyNEstYzVmYnEwdlNKMUJ3V3VnMEhlZEJQbFZwVzJzVWxHV0ViQnBGZDE5V1hQZGF6N3pUS3kzUU9BS2FTeHdVQVU3QW9KU3FKNWF2VVdkQWRQOHfSAYIBQVVfeXFMT0NoTDV1Wk9uc1JvLXZPNmpjSWhoRzhpN1p5bEUwR2xWRlRyZE9MN3NlM0ZmZ2JEVVcxYS1XVkRHcnNSZndES0JOSWFVME4xRFFTU19QeG5OenY0OVJXUl9lNEs5V0lUTGJyZzhLa0RHUHFIaE92bDRWdVRVN3dLNUJyUQ?oc=5",
+   "title": "EpicのCEOティム・スウィーニー氏、Steamの生成AI開示は「有害」と語る。ゲームの良し悪しにAIは関係がないと主張 - Game*Spark",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tdEdYYW9PS0NWT0tRTVd6MUVuOGpXdHVyRUx0WlRxVXdCUUhPRFdhVDEyZGt6YXdSQXZQeWpzQlR0ckR4TUhkc1RMd2V1OWJhS0lLMVN1V2RaZXdtMnRwWElzTXJiQQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "参天製薬、生成AIの月間活用率95% - 4000件のAIエージェント、MRの面談支援にも - マイナビニュース",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZmZiR3hiT19IamU2VnByc1B3RFRVWnBlYXRLZlNlOW1rTi1abkhGWDVwYzluaUNHT0dRWm1LVElRTm50Y01CMnN6MUFpOEk2amJfVmsxLTQxUHhTUE50NEp0eVJrc2dr?oc=5",
+   "title": "デジタルレシピ、生成AIが購買のきっかけごとに推奨するブランドとその理由を可視化する「AI CEP・ナラティブ分析」の提供を開始 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NHhmdjVpRUlPUUtpVXJWQ2pGN3AyUF9EYnZmZXBieEVpT2lieXVHeUN3ZkdPTXZ1QzlWZEN2eDJ4VnI1Rm5DYW1rN1F5ME5jY2l0VEIyWWlwN0toMVFVUXlqRW91cnNmdVdHV0pId08tOGJs?oc=5",
    "publisher": "news.google.com"
   }
  ]
