@@ -1,8 +1,33 @@
 {
  "date": "2026-11-16",
- "updatedAt": "2026-11-16T10:19:33+09:00",
+ "updatedAt": "2026-11-16T17:17:25+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「Gemini 4 Hydrogen」とは　性能とユースケースまとめ　Googleの「誰でも使える」最新モデル",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Googleの“人気AI講座”、先着1万人に無料提供　リスキリング推進団体",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003225/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "アクセンチュアが説く「業務そのものの創り直し」とは？　AI活用が事業成果に結びつかない企業に向けた2つのポイント",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news056.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
+   "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
@@ -29,63 +54,38 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUld1LVlWT3pKbTJBRlJwVFpvSHZyVVFRT0NneHEyWEtBRllvMEVXLXo5ZEpCMzNSX0duSkY0ZU5UemZOZ2FXaXJ5eUhXeUxNMmNTQXEwano4LUhjQ3ZlSnB3ZWxlSUpiWm1lQVBDd1RUOE9kZmV4MFd1Z1NTN1k?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている - GIGAZINE",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTdZdDRCVGJCeEc3bVlkbkhiUFh4M3huRTlKNkpRVEtyRVJEUDlOVXpDdURYdUdqWlNzTFhGRk5fWGwtTUZqOGFxZlhWZFJlcFNPd3BEY0VaeWtabF9SNG9kVGotZU5sMERxYXpoeG1wbHJuWF9FeC1xRFRESTV1S3Q1ZnhLczlE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ナイル株式会社、生成AIにおける自社・競合の言及率・引用率を可視化する「Nyle AI Visibility Cloud」を提供開始 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sM25jSThIUElzT25LN2FSaUp1MlZ5UFhzSnNVTHZtWlV1bVdIeEJrUXd1dEotc283YWhGSnBIRUVaXzRvS3BkM1NLQjBqUnpWWmltdkROLVhIeEp3UnBYT0U4SktYclBDdXc?oc=5",
+   "title": "生成AI、10代の4割「情報源確認せず使う」 博報堂DY調査 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBra1RLOGtVckNhRmtDZXFCamlkcnVtWkk2aVZxbFdKYjVZbjZSMllaVDladHFldXBBbzM0dTBYU2Rrdm1OS1NpcHJCNmd5ZnBuajN2S0llUFRRbWxfeE5XelpjQkNOZzNUaFM5RQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "リーバイスやプラダが脱 生成AI へ 2000時間を要した動画広告に託す勝算とは（DIGIDAY［日本版］） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeG9wR1BESVNXdTV4NVR4bk41eUlKNm00dWJkTjJWRHlsTU1HTjNkR1VOcW5oX21YeENnZnhqelZSSk9JSnJWU2I5ZFdjT0pmVGstZkt3a3dnNmxILUZoUG5xN0hwRFVXbTJEdjRQbHQ4RFE0V1RTT0ktR3VwMGM?oc=5",
+   "title": "生成ＡＩ利用率３４・７％ 世代間で格差大きく 一般消費者アンケート 岡山経済研究所 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZFpUMlB0eGU0UnJPa0lVUUJRMk1JNzBlOG5HTC1iSUxCdjVsZ203bnFFb3VsRWhSY1lDZ2MzaE9FR3ZMWWZXdlpjOVNoWTZhY0E?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "シンカ---3Qは24.6%増収、生成AI機能の拡充で成長投資を推進(フィスコ) - Yahoo!ファイナンス",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVno4X0hYYUYtTjZWbG9DMDlGZlBiaVpRZFFEaHJpRlNkdzIzTHNhSUw0Wlg0cHpFdmM0R0VZbkpZLXV6alFNWXktcUVTR0FJbkpjVUMwbzR1X3BoUC10Qy05czVVb09jekRJbG5IZUJEZjNzbVA5QU51ZFZQUVdmRC10OWw0Qmc?oc=5",
+   "title": "生成AIは広告写真の仕事を奪うのか？ 表現を広げる道具なのか？ セミナー「生成AI画像・動画と共存する 写真家の未来」12月5日開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OEdSUHNaUzI0NXpraG1wVXd1ZzBESld0Z2R4cUROc0VsMmVKdjZ0c1VrdTRMTlp6TXdNa1JVWDR5NVIxOFc5bUZyRlZtNDc5SHppSnRHVl9CU0xmeGY0UlM1Z0pZMHJ1NUE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "韓国の税理士試験、首席合格者が生成ＡＩによる不正を自白 超小型カメラとスマホで「ほぼ満点」 | ロイター - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVFiaHlWbnVjUHdsUkdRNl8zRmVGQ1VIODJFZkxuMDVDN3ZVcmRadldLajBxd293RnVEb0loY2l3ZWVfVHFHcmNaZFdOY3p3bXdBRWNiaFFUNnJPdVUzZ21OckJ3SGlwdGY2WjBZbVA2YVpMeWhVSEM0U0hqa3hINGJwTQ?oc=5",
+   "title": "AI敵視から融和へ Disney路線変更 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMG8yRUYySFh1NkdkMUZ1dGNwRTdSLWdhemZwMl9TYVY4LVVteTN1N3U2VU1OVXJmNy1ZVjRPY1dSR1RoR0RWOXUzblZlbVlt?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？（1/3 ページ） - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HZmJBVW1wUm1ONWF2dHJpVnYxeWlUYnZpWFdxS0I1bGZ4OVNOMjd6UjFhNzU4TjVLSUNpaFpDTTJKSmNvZVZDX3RWYlRhRUc2cWY5d2c0OWI0SDZERU9kaTNNbTJrdWVtRDFhcm5LbGRIQQ?oc=5",
+   "title": "西武HD、株主総会の質問にAIが「5秒」で回答生成 精度約9割を実現した裏側とは（1/3 ページ） - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlT2l1RENVTnc1NmFfcDdTODBmYUxTb3VCeklZdkJXMVpya1o0NjZDT1hlVjNUREZMVGVtZkd6WkwxbHhOX0QtUDJJcFdmb3VJUzMzbEp3cUFaVFZZbnNOUHNWV0tmVXBLRTlTVlVzT1gtQQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Forbes JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVk5nZm1vQ3lLNU1NNlJXNmhoclEzWVlsTnk5MkxXOFRQTzRQTFNtQVc2bkpRR2s4aTc0Nmx2RUdFU3h2VE1PMEtodVVZT3phOTEtb0dENjZ3dw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIに手足を付けたエージェント、Claude Code登場でブレーク - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWktfUXlaTUU0NVZidGVlT1BrNVh4TlFaZWhHN1lLWGw1OVR2dHVGSW1rU051bW9OclNXVXQtY1RVcXpKY0pQTFJsTlJuZVZwVHRvWU43Z2JWT3dhVXNTeElhWjN4V21RUnVMUg?oc=5",
+   "title": "韓国の税理士試験、首席合格者が生成ＡＩによる不正を自白 超小型カメラとスマホで「ほぼ満点」 | ロイター - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVFiaHlWbnVjUHdsUkdRNl8zRmVGQ1VIODJFZkxuMDVDN3ZVcmRadldLajBxd293RnVEb0loY2l3ZWVfVHFHcmNaZFdOY3p3bXdBRWNiaFFUNnJPdVUzZ21OckJ3SGlwdGY2WjBZbVA2YVpMeWhVSEM0U0hqa3hINGJwTQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代の組織変革を表彰する「GenAI HR Awards 2026」開催、シナジーグローバル、SHIFT、熱海観光局がグランプリを受賞 - クラウド Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBTjRSQzk3SEszVThRS3dmTUpsYnlHWHhSU0xwY3VTemxOY3dSYlM5YUlqM29BamRuMXFyTF8xTDR5TXhZdDV2VW1jLWhwUXFVZktUVEdwUUd3Z0xSN2FTamxuVWt1dEE?oc=5",
+   "title": "「スウォッチ」が生成AIで時計をデザインできる体験型イベントを東京と京都で開催 歴代の希少モデルも展示 - WWDJAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNE1SSF8tY0xYX0hnck8yX1FsRFN4QUhqUHdlTzNjZVJkS1F1eHd2ZjBiU0ZxamRkRElzR1Q4b2hoVzh1U1BEWU1vY1RkYXVwMjNr?oc=5",
    "publisher": "news.google.com"
   }
  ]
