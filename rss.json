@@ -1,56 +1,56 @@
 {
  "date": "2026-11-16",
- "updatedAt": "2026-11-16T06:27:59+09:00",
+ "updatedAt": "2026-11-16T10:19:33+09:00",
  "source": "rss",
  "items": [
   {
-   "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+   "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+   "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+   "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+   "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+   "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+   "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+   "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+   "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
+   "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+   "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+   "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
@@ -64,13 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIに手足を付けたエージェント、Claude Code登場でブレーク - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTJObXFTQXkzYXhZYXN5X1kwZ2liNWVoZWQzTGZ1d0FQTlBGU3p2dFkzc05sN0praW9Vb09NMUI0eHBfdy16bEdRczV3Wll2SUlOVml1bnhuYl9Dbm1VRTdHZFF6OUFlSFQtWDRJN19mYUZ5dV9YbEYyaWlRVXhEdEEyNUhmLTNBbkpFcTNXc2k?oc=5",
+   "title": "ナイル株式会社、生成AIにおける自社・競合の言及率・引用率を可視化する「Nyle AI Visibility Cloud」を提供開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sM25jSThIUElzT25LN2FSaUp1MlZ5UFhzSnNVTHZtWlV1bVdIeEJrUXd1dEotc283YWhGSnBIRUVaXzRvS3BkM1NLQjBqUnpWWmltdkROLVhIeEp3UnBYT0U4SktYclBDdXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代の組織変革を表彰する「GenAI HR Awards 2026」開催、シナジーグローバル、SHIFT、熱海観光局がグランプリを受賞 - クラウド Watch",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBTjRSQzk3SEszVThRS3dmTUpsYnlHWHhSU0xwY3VTemxOY3dSYlM5YUlqM29BamRuMXFyTF8xTDR5TXhZdDV2VW1jLWhwUXFVZktUVEdwUUd3Z0xSN2FTamxuVWt1dEE?oc=5",
+   "title": "リーバイスやプラダが脱 生成AI へ 2000時間を要した動画広告に託す勝算とは（DIGIDAY［日本版］） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeG9wR1BESVNXdTV4NVR4bk41eUlKNm00dWJkTjJWRHlsTU1HTjNkR1VOcW5oX21YeENnZnhqelZSSk9JSnJWU2I5ZFdjT0pmVGstZkt3a3dnNmxILUZoUG5xN0hwRFVXbTJEdjRQbHQ4RFE0V1RTT0ktR3VwMGM?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "シンカ---3Qは24.6%増収、生成AI機能の拡充で成長投資を推進(フィスコ) - Yahoo!ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVno4X0hYYUYtTjZWbG9DMDlGZlBiaVpRZFFEaHJpRlNkdzIzTHNhSUw0Wlg0cHpFdmM0R0VZbkpZLXV6alFNWXktcUVTR0FJbkpjVUMwbzR1X3BoUC10Qy05czVVb09jekRJbG5IZUJEZjNzbVA5QU51ZFZQUVdmRC10OWw0Qmc?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,28 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "【人工知能学会前会長・栗原聡インタビュー #3】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PQ0VuLVhFYjhURFBMV09BVU9yanJEVGxJWk1scnJWYXotOVZoa2lSTXA0S1BtLVd3RmJVNDFLdWJfd011aEdNVkkyRTNlei1w?oc=5",
+   "title": "メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？（1/3 ページ） - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HZmJBVW1wUm1ONWF2dHJpVnYxeWlUYnZpWFdxS0I1bGZ4OVNOMjd6UjFhNzU4TjVLSUNpaFpDTTJKSmNvZVZDX3RWYlRhRUc2cWY5d2c0OWI0SDZERU9kaTNNbTJrdWVtRDFhcm5LbGRIQQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：［生成AIの回答139件・出典757件を分類］AI導入の相談先を生成AIに尋ねると、示される出典の74.9%は企業サイト｜株式会社ネクストスケール調査（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5T1J3c1Z2U2JJbF80ZU9YblBGNmR5Nk9sWmthdnU5WEZrb0t0RVZ0YnhPUU5lZndFVU9ac0tYRUdEUjhJYmtwRmtOSDcyT09zdEx4eWVpYjBFbWROMXc5YjFfMUZMRmpY?oc=5",
+   "title": "生成AI時代のビジネス思考力：生成AI時代のファシリテーションと集合知――賢い一人より、沈黙を含んだ全員へ - 週刊エコノミスト Online",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lRGg3cjV3cE5sc3dHUDZabXRlQnFSTURzWk5zYlUzcUpHZTBqcXhvTzRxMVlHQzBRcW1kWU1oREw2VFlOTHNPNGlwa09HcUt1SWZMLVhDYUJPNGpYZFRubEdvLW1Ha2dIQXNnYmNCZzJVOExxVEt5dXlHTkNsWUE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「なりすまし阿川佐和子です」と語るそっくり生成AI動画に本人びっくり　TVタックル - 日刊スポーツ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UaXZ1bnFMcW9yWHZXams5WG5Oclp5ejA0aVdRZngxLXRYbFRGaXdXMFlQak5ZQzZEVWlJOWRKc2Rqei1OTTlxTXdTbGs1MEQ4b1Y1eHpQYXBhejh5bnRIdG82eUFTU0x3ZWkxTnoyc0gtTWcyemow0gF_QVVfeXFMTkpVTFhyRTVVNW5MNXc1S1U1ZlJLbUo2T2ljLTNQbWVXbFlINlhibFNnUk11NDZZTm0wVTFycHBmMGlLcmhQRnFoT0pyV016QW5hb2thMlV5b0lIRnEtOS1FaTNzZXVfM2t6eVdYM1FUVW9SSzJxNlBWLU9BTUVyOA?oc=5",
+   "title": "生成AIに手足を付けたエージェント、Claude Code登場でブレーク - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWktfUXlaTUU0NVZidGVlT1BrNVh4TlFaZWhHN1lLWGw1OVR2dHVGSW1rU051bW9OclNXVXQtY1RVcXpKY0pQTFJsTlJuZVZwVHRvWU43Z2JWT3dhVXNTeElhWjN4V21RUnVMUg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "トレンドの生成AIで小学生がゲーム作成を体験 講師は大学生 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meEhUdVY3QldKVndtM3NlOER2clg3THNYS1VCNmMzd21FZGJUNWE0cVp4SEkxWWQxVGhBQmRHX2thRlh6cnI1SG9Pb0Z4QXNXbjRHV2hXME5lSmhhbEY1eE83NHc1YXF3?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる - テレ朝NEWS",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11RWpXYXNEUXE2NmUzSmFzM3pZaWdNRXZyR2hESGNncFRiUl8zNk1nbktlTkU5V25hWG1TSEJQc2dwWDBtdGdTNXlURjRseDAzRDNFRmF1dDh5UlpfOTdhckEzcmNlV292ci04LW43N0NmZw?oc=5",
+   "title": "生成AI時代の組織変革を表彰する「GenAI HR Awards 2026」開催、シナジーグローバル、SHIFT、熱海観光局がグランプリを受賞 - クラウド Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBTjRSQzk3SEszVThRS3dmTUpsYnlHWHhSU0xwY3VTemxOY3dSYlM5YUlqM29BamRuMXFyTF8xTDR5TXhZdDV2VW1jLWhwUXFVZktUVEdwUUd3Z0xSN2FTamxuVWt1dEE?oc=5",
    "publisher": "news.google.com"
   }
  ]
