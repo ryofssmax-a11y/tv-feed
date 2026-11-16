@@ -1,8 +1,13 @@
 {
- "date": "2026-11-16",
- "updatedAt": "2026-11-16T17:17:25+09:00",
+ "date": "2026-11-17",
+ "updatedAt": "2026-11-17T03:46:17+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
+   "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「Gemini 4 Hydrogen」とは　性能とユースケースまとめ　Googleの「誰でも使える」最新モデル",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
@@ -49,33 +54,28 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTdZdDRCVGJCeEc3bVlkbkhiUFh4M3huRTlKNkpRVEtyRVJEUDlOVXpDdURYdUdqWlNzTFhGRk5fWGwtTUZqOGFxZlhWZFJlcFNPd3BEY0VaeWtabF9SNG9kVGotZU5sMERxYXpoeG1wbHJuWF9FeC1xRFRESTV1S3Q1ZnhLczlE?oc=5",
+   "title": "生成AI「劣等生」の中小メーカー、名古屋大発スタートアップと挽回 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVXpuc3kyc2JGdER1NTBNOG15THZsQ2VfUzY0Z3BBNXNZZ01nckFYeXhpYk5ZSHk5R3BwQnIybHVIc3NvSEg2Zk5WT0U1YTZYV0tZczFhQVZNWGtHdDhFWFNTUWxONkR4RzFzRg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI、10代の4割「情報源確認せず使う」 博報堂DY調査 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBra1RLOGtVckNhRmtDZXFCamlkcnVtWkk2aVZxbFdKYjVZbjZSMllaVDladHFldXBBbzM0dTBYU2Rrdm1OS1NpcHJCNmd5ZnBuajN2S0llUFRRbWxfeE5XelpjQkNOZzNUaFM5RQ?oc=5",
+   "title": "【ヤフコメで話題】「生成AIは学習や仕事の補助ツール」「自分で考える力の維持が重要」 - 生成AI活用を巡る賛否と課題 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVVlFb241VHZQM0I5LUJ4ZXlxY1V0OElBWlc4Y0pjYUMtc0N4OVZPb1duZmw0M3JxLThKVExJeFdTalRfOHM4SXZwZEo5M0x0OHNvR29GRWVjQlNrVVlENW9Yb3Fpb2VWMkR1SC1xVFVVUkVzQklZbmN1ZDhXRDQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成ＡＩ利用率３４・７％ 世代間で格差大きく 一般消費者アンケート 岡山経済研究所 - 山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZFpUMlB0eGU0UnJPa0lVUUJRMk1JNzBlOG5HTC1iSUxCdjVsZ203bnFFb3VsRWhSY1lDZ2MzaE9FR3ZMWWZXdlpjOVNoWTZhY0E?oc=5",
+   "title": "偽サイトでAppleギフトカード詐取、サイトは生成AIで作成 42歳男逮捕 京都府警 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hcDAtQnowM1lhOVRDT29xWnhwcndhR1MwRXFJMmxrNUxZUDlhU3Q3YVFCTVkwX0FKSDRhbmQyTUVCbVNkUXBHN2NETnVEYjgwZDNnMkNmeDgyYmMwQktyNE1ELTI1alpWMTM3TGFYZFlDdEFPQnc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIは広告写真の仕事を奪うのか？ 表現を広げる道具なのか？ セミナー「生成AI画像・動画と共存する 写真家の未来」12月5日開催 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OEdSUHNaUzI0NXpraG1wVXd1ZzBESld0Z2R4cUROc0VsMmVKdjZ0c1VrdTRMTlp6TXdNa1JVWDR5NVIxOFc5bUZyRlZtNDc5SHppSnRHVl9CU0xmeGY0UlM1Z0pZMHJ1NUE?oc=5",
+   "title": "生成ＡＩで偽サイト作成か - 中国新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DU05kZlRxRWNMX3hxT0FoY0xzSEZHandUSjdJOGtyMktJQk5aSnNCbnAxSUY1Y0VHWGtESnE5d2Y4MldvR1k0WFRMV2tmTjZJMThkSlpEOXZtZw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "AI敵視から融和へ Disney路線変更 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMG8yRUYySFh1NkdkMUZ1dGNwRTdSLWdhemZwMl9TYVY4LVVteTN1N3U2VU1OVXJmNy1ZVjRPY1dSR1RoR0RWOXUzblZlbVlt?oc=5",
+   "title": "生成ＡＩで偽サイト作成か ギフトカード詐欺疑い逮捕 - 日本海新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jaklTN3dEQkc4NFVzcHFucGZXWktCU2xGTTZiVFBMamdBZnZZbzQ3WlNqbUIyQWc5NkFBdWJnbVhPSEhKNzlyZlNvRURTbW14?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,18 +84,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Forbes JAPAN",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVk5nZm1vQ3lLNU1NNlJXNmhoclEzWVlsTnk5MkxXOFRQTzRQTFNtQVc2bkpRR2s4aTc0Nmx2RUdFU3h2VE1PMEtodVVZT3phOTEtb0dENjZ3dw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "生成AI時代のビジネス思考力：生成AI時代のファシリテーションと集合知――賢い一人より、沈黙を含んだ全員へ - 週刊エコノミスト Online",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lRGg3cjV3cE5sc3dHUDZabXRlQnFSTURzWk5zYlUzcUpHZTBqcXhvTzRxMVlHQzBRcW1kWU1oREw2VFlOTHNPNGlwa09HcUt1SWZMLVhDYUJPNGpYZFRubEdvLW1Ha2dIQXNnYmNCZzJVOExxVEt5dXlHTkNsWUE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "韓国の税理士試験、首席合格者が生成ＡＩによる不正を自白 超小型カメラとスマホで「ほぼ満点」 | ロイター - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVFiaHlWbnVjUHdsUkdRNl8zRmVGQ1VIODJFZkxuMDVDN3ZVcmRadldLajBxd293RnVEb0loY2l3ZWVfVHFHcmNaZFdOY3p3bXdBRWNiaFFUNnJPdVUzZ21OckJ3SGlwdGY2WjBZbVA2YVpMeWhVSEM0U0hqa3hINGJwTQ?oc=5",
+   "title": "生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う - Forbes JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVk5nZm1vQ3lLNU1NNlJXNmhoclEzWVlsTnk5MkxXOFRQTzRQTFNtQVc2bkpRR2s4aTc0Nmx2RUdFU3h2VE1PMEtodVVZT3phOTEtb0dENjZ3dw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成ＡＩ利用率３４・７％ 世代間で格差大きく 一般消費者アンケート 岡山経済研究所 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZFpUMlB0eGU0UnJPa0lVUUJRMk1JNzBlOG5HTC1iSUxCdjVsZ203bnFFb3VsRWhSY1lDZ2MzaE9FR3ZMWWZXdlpjOVNoWTZhY0E?oc=5",
    "publisher": "news.google.com"
   },
   {
