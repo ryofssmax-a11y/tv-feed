@@ -1,6 +1,6 @@
 {
- "date": "2026-11-17",
- "updatedAt": "2026-11-17T19:57:06+09:00",
+ "date": "2026-11-18",
+ "updatedAt": "2026-11-18T04:39:53+09:00",
  "source": "rss",
  "items": [
   {
@@ -54,23 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイヤーは生成AI未使用の作品を応援しようと提言 - Game*Spark",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJCYVNtNzFiZzVVT2FVUUM3WWZtcHYxQ2I1VXdoUkJSRy1xSVNtOWhYd1BEVkRWTUxBTHl5V1dSQURFMkNJQlk4azlXYjZqVEEzYy1sckJuTW52ZlZhdDVzQ3NWdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは？ AIを学んだ社員が専用のアプリを開発した企業も＝静岡 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUVdyZENJTlJwU2xSSU9iMXJOeTZZM2YtMzNfU1NJLWM2QWdMaGQ2ZVlhNVN3cU4xYW8zb1Znc0JFVklNa1FHckdzMEx5OUdTX0ZKeHJmOW9sZG1SWXRlTE5vRTA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS1JfZlNCZVZWM3dVYUZxcVBOQkgxTXBxWUIwS1Nhc0ZxYkNxbk5NZ2wwWG9jWDFFZWFkMHZrN0piYTBOeTB1Z1RNa2pPY2pWT1FWRUhuNFVsMGFGNmIxaEN0V2pqWmNrUE4xeGlOUDBLQl93TWFnZGJlZWpZODQ?oc=5",
+   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,8 +64,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
+   "title": "NTTデータ、「クリーンモダナイゼーション」を提供開始　生成AIを活用して基幹システムを再設計 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS0FNTkE2Q180cTJES3RKOUlDMi1VWFdNakZoQkhIbnhVV2JpQjVjVTlmejZaMEVmQXpkLUc4bThjX0dwRkZ5Wmx6TVFXUWxMVVBlOTYyekhPR0E1cll0UHFkUdIBaEFVX3lxTE53WVBmc2tJakJ3bE9CRVRrRWNkcERHS1VsbXh2QVNUcW15Y0lHX1NoZnoxaEZWTUE3RnFVLUpWUVR4U01rcHpSZTh2R1gwcUQxS003WmFEaFdQaWIyWklfbGNCNDNqWWhm?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表 - こどもとIT",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbFBxTVZjMkNueC1OZ2hVc09fc25kUW9RVGlWNERUaXJxVWltZW1LUF9WWDg1MGhpZ3JqZ085LWRTaFltWkRsLU1EeUx5U2luOEQxN3Z5Mms0R09hSWEzRVFVWnIwNmhvY280dg?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrY1VoNXRaTHRJQUxyQVJ3eHgtNlExbFpnMk1kcVJwVER4WXpKOW1lU0tnZC05X1V5dXNnU0FtQUh0bXNsRWlGYnowcGZLWUpYWktMc0FNYVRwMEtjc2NpcWR5RHk3S2FENmkyeExn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "OpenAI「GPT-6.2 Astra」、前世代の3分の1未満のコストで性能超え AI予算は変わるか - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vOV9HWGpIS1o2UDM2WlRHU2I3UENrQWlRbWRUYUVPNzRlVXVEMzdHYU1hRmhLMi1GeDhtaXVwUFU2bDJ0c3h5anZ2ZnpDVzB5bXNv?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「確率的オウム」を飼いならせるか？生成AI社会に求められる倫理的創造性のあり方（Wedge（ウェッジ）） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kaXhwSldtdUxkT2FfLW04MzVkM3RyMWVRZF9kQldHQnF5dzl1dHFjYVhmbXBRNXlRejY2aXgwbUd3LUxlRWFzRm9NZktDMmhUalN0bU95ZkNZeTlCWmMxMEJVZFk1STFFRnByVjlVbnJYN1pPWlFHelJUVFNlNjA?oc=5",
+   "title": "アニメ『楽園追放』監督が語る生成AIへの期待と落胆「人間が考えたものの劣化版が出てくるだけになってしまってもったいない」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjExTENUd19kd0pSTlQtaldVTWpLWWZNS3c0Y0RWb0pqQllSN2kwck9NVXUtdmJQNEFCeEtRWE50MzZvZjNEZU1KYW45azFkRzVkVk9RZjBYdzR4bERveWNEc0l2UXk2YmJVRHdUME9RZmJBQjJsbUJqSkx6eTYtUjhGa2ZsQ3ds?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "5年後の計画より「1カ月後の手札」、生成AIで変わるビジネスパーソンのキャリア戦略と捨てるべき「こだわり」 - JBpress",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NeDI2VU1oWGpWYnBacnN4c21LZFpCREJqdDJMc3JsNEEtck5Ua1BmZ3JOcTYycWpWeEFjZWxXLTNrRk5PRWZ2ZldKOHhsVFoyS3htM2RR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI「劣等生」の中小メーカー、名古屋大発スタートアップと挽回 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVXpuc3kyc2JGdER1NTBNOG15THZsQ2VfUzY0Z3BBNXNZZ01nckFYeXhpYk5ZSHk5R3BwQnIybHVIc3NvSEg2Zk5WT0U1YTZYV0tZczFhQVZNWGtHdDhFWFNTUWxONkR4RzFzRg?oc=5",
+   "title": "新興国の若年層雇用、生成AIで減少傾向 欧州復興銀が報告書 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tX0ZzcUlDalJ2YmtyUGNEYmREWHRJU2NxaFM4alBBeXFFUmFLWE0yZ2JhY1RjclBmTVVOeEJFWjBpRmctWWdmWl9HUFlTWVdPNHZOWWhIclMxZlgwV1ZuUF9sTC1qVDcxTlRqRw?oc=5",
    "publisher": "news.google.com"
   }
  ]
