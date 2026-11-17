@@ -1,8 +1,28 @@
 {
  "date": "2026-11-17",
- "updatedAt": "2026-11-17T11:17:17+09:00",
+ "updatedAt": "2026-11-17T19:57:06+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携　「遍在型AGI」活用へ",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "筑波大発のCloserが柏市に新拠点を開設、食品／医薬向けロボットの開発を加速",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news056.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+   "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
@@ -34,28 +54,33 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NTTが宇宙光通信網の構築へ　「IOWN搭載」衛星と宇宙データセンターで米中に挑む",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/17/news039.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
-   "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「Gemini 4 Hydrogen」とは　性能とユースケースまとめ　Googleの「誰でも使える」最新モデル",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Googleの“人気AI講座”、先着1万人に無料提供　リスキリング推進団体",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003225/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイヤーは生成AI未使用の作品を応援しようと提言 - Game*Spark",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJCYVNtNzFiZzVVT2FVUUM3WWZtcHYxQ2I1VXdoUkJSRy1xSVNtOWhYd1BEVkRWTUxBTHl5V1dSQURFMkNJQlk4azlXYjZqVEEzYy1sckJuTW52ZlZhdDVzQ3NWdw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは？ AIを学んだ社員が専用のアプリを開発した企業も＝静岡 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUVdyZENJTlJwU2xSSU9iMXJOeTZZM2YtMzNfU1NJLWM2QWdMaGQ2ZVlhNVN3cU4xYW8zb1Znc0JFVklNa1FHckdzMEx5OUdTX0ZKeHJmOW9sZG1SWXRlTE5vRTA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS1JfZlNCZVZWM3dVYUZxcVBOQkgxTXBxWUIwS1Nhc0ZxYkNxbk5NZ2wwWG9jWDFFZWFkMHZrN0piYTBOeTB1Z1RNa2pPY2pWT1FWRUhuNFVsMGFGNmIxaEN0V2pqWmNrUE4xeGlOUDBLQl93TWFnZGJlZWpZODQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McW1pUGpqS0NaUWpEUnJ5UlNyUGRlTjNkT1IwWW8wbGhwTGpiWkM5aWM0dk1TRDZjaktCZUJ3enhhZWF4TnpPc0lJUGs0WEhWd3hKSVB3NWdJb1BENURBTEdvNA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -64,23 +89,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "【生成AI利用の線引き実態】ITエンジニアの39.0%が「安全を優先して生成AIの利用を諦めた」 - 下野新聞社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LUo1RnRXTVdCanYzZk1hZXViUTFoUVNkYnBBYkh2clQtbXBGdy1SelMzUkVnVkhNVmRyUXpGcGNtdzNIaGNFblFKdnZBWU9lMjZJdHppSW9ZRnM?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "住友電工情報システム、生成AIで仕入れ先選定を支援する新機能を搭載した購買管理システム「楽々ProcurementII Ver.11.0」 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kMzBKVnJKZFdldThLZTJmbVVUYTFzaFFZZ2FBR2h5UFQ0enN6UXd3VVU0eWhBbU1JTWEtb2JXd2ZPNW15YXhSMXFmZ2doT2RYQUJuWHAyS1ota0k2aVNkaGVGa25naHVPOXh2cWxyZ1o5Q3VnajBjLUlDbmJoNEU?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで偽サイト作成か　ギフトカード詐欺疑い逮捕 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFQ4R3V0V2NtSUNwUFRlTjA3Yzd6RHNpRUV0UE9XVXB2WkRSR0p6X2MtV01HTUV3UWprWkFrcVpySWs2bUhCY3k5WFRnWG1hdEc5M2VGRmVZU2lXRmpiSXZ3YTl0MmtSNGRyQWRvcTU2b3Jpd2NwQ29kalJNY2V3akRuOThpQUI2SnYw0gGQAUFVX3lxTE5GLXRxMFJ4cDhCNGpkakY2dFF3c0Jib1RGUGpBaW16Rjc5SENBVi03TU56WGlWNlJpbHg2TnRXajdpQWt3S29CYVM4WFZWd2xVMGwzRFdsX0NRQ1JuVy02WVNXdEpZUnhlZDlNTVJWdkI0akxJejE5SGVNY1dfeXVNN29HZFBkU0NpSjNLVnNhRg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "中国アリババ、生成AIの新モデル「Qwen4-Max」発表 コスパ向上 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93aUptOTdxeHBnMTJWbHJvVDVJQkY1eFRfT0RMZnNEcHg3al9EZklBaUxydzE0N2lDenB6MnhoOGt2WUFobUtrdy1jNmU4cXZsRnBtdXlHQU0wVnh0dTZHbURMTUtxY2pNeklsZw?oc=5",
+   "title": "「確率的オウム」を飼いならせるか？生成AI社会に求められる倫理的創造性のあり方（Wedge（ウェッジ）） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kaXhwSldtdUxkT2FfLW04MzVkM3RyMWVRZF9kQldHQnF5dzl1dHFjYVhmbXBRNXlRejY2aXgwbUd3LUxlRWFzRm9NZktDMmhUalN0bU95ZkNZeTlCWmMxMEJVZFk1STFFRnByVjlVbnJYN1pPWlFHelJUVFNlNjA?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表 - こどもとIT",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbFBxTVZjMkNueC1OZ2hVc09fc25kUW9RVGlWNERUaXJxVWltZW1LUF9WWDg1MGhpZ3JqZ085LWRTaFltWkRsLU1EeUx5U2luOEQxN3Z5Mms0R09hSWEzRVFVWnIwNmhvY280dg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "リーガルテックの現在地＜下＞――生成ＡＩが変える弁護士業務と企業法務 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBab3VLZTZPZTV6ZDVOSWpBMjc0Tkh1ZV95dkRJR00zX3pTU2FiVzlmQk12MnZuTnVzc3VPQmlTMTExMjVRRkpTb1RBWVRaUTg4THFadUk1alQxeW40QWFtemo3MDU1UXhGQ01wRHluWEJpMmFKSk8yb0ZFWWRrQQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩ利用率３４・７％ 世代間で格差大きく 一般消費者アンケート 岡山経済研究所 - 山陽新聞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZFpUMlB0eGU0UnJPa0lVUUJRMk1JNzBlOG5HTC1iSUxCdjVsZ203bnFFb3VsRWhSY1lDZ2MzaE9FR3ZMWWZXdlpjOVNoWTZhY0E?oc=5",
+   "title": "生成AI「劣等生」の中小メーカー、名古屋大発スタートアップと挽回 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVXpuc3kyc2JGdER1NTBNOG15THZsQ2VfUzY0Z3BBNXNZZ01nckFYeXhpYk5ZSHk5R3BwQnIybHVIc3NvSEg2Zk5WT0U1YTZYV0tZczFhQVZNWGtHdDhFWFNTUWxONkR4RzFzRg?oc=5",
    "publisher": "news.google.com"
   }
  ]
