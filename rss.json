@@ -1,8 +1,13 @@
 {
- "date": "2026-11-18",
- "updatedAt": "2026-11-18T19:28:46+09:00",
+ "date": "2026-11-19",
+ "updatedAt": "2026-11-19T03:59:14+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす　「心よりおわび」",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
@@ -49,23 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携　「遍在型AGI」活用へ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイヤーは生成AI未使用の作品を応援しようと提言 - Game*Spark",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJCYVNtNzFiZzVVT2FVUUM3WWZtcHYxQ2I1VXdoUkJSRy1xSVNtOWhYd1BEVkRWTUxBTHl5V1dSQURFMkNJQlk4azlXYjZqVEEzYy1sckJuTW52ZlZhdDVzQ3NWdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで7割が時短実感も4割弱は「負担が増えた」 半数がAIの答えを手で転記、大手企業309人調査（テクノエッジ） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HOWJyWDNBV2N3eHZITkRHeWNVWlV2NnFWYlZhU25IYW9jaXJSYUtNUURDWHo5OExVbDhWdEFiZlQxNjNScE93NGhZR3c0cFZrbzAtR3l2bUJ4SDlPRVRDeW4yNG1mUXlRU2dfREtmVDhDRkhRcWgxdU9QUXVqYjg?oc=5",
+   "title": "「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは? AIを学んだ社員が専用のアプリを開発した企業も=静岡（静岡放送（SBS）） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdFdKNDEwelZQUTlObmtDN1BLOXFMODRDUDNHTTdyWDliU0pfdmJsSGc4X2xMTVRIbG5lclNKWlNhU1M1X3E2SEcwcGwzQlJsT29jTG1EdHNWeHVUdi1oMHAzT0FEWWVUT3pmc0VzMGQzOF9lUEJvVzdiTjdsalk?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,13 +69,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3hXWDdIZXZ6NGtlSy1zQTdXRWd0Zk5qX0dhVVEwZVBaTnBjenc5SThaTTRVeHE2bWF1NU9LR3JLWmJUWUQ3RjJpb2Z6SVZITWhLY0dSb0hIMkk2OVJFUdIBZkFVX3lxTFBqOE1yeTRGWEQ3N2RWaWpCVFlIOWZXQWRKbnhORGkzNTg4Wlo4N2gyY0lYRFh3SUJpMmZIVkhCRHY5OTl4TzBTaVF4cjFnYVFpS2ZrWDNlbmxxb3JtMXU2UDZONFBLUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "大阪府豊中市、生成AIで子育て相談 専門窓口にも案内 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdzk4dWd5bk9VNDhFUkpFdEFyYURmbFg0QnZ2SnFtZ0VVbUV0X1Fsc0d3a1NKMEZIOGN3RXZ2YjJqSzBVQk1tcERqVmV2TWQzT1RFRE1iWUdFczJuZWxaUzcyQS1KRm11MnBIMA?oc=5",
+   "title": "企業での生成AI、「導入」から「活用」へ 全面利用可は68%に - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhTEdLcGRWaGN2UnBBdjZiVkpQaWQwNmlsdWo2ejZTZnlQN25DTzZ0d3ZOcnYtODVKRDIxVHhGbkxMTFZQSTlnRmRWUXpyME55WjVJYXR4R3NZQ1RkR1I0dEM2UUlvRU01ZWV6WA?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +79,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "なるほど！上川＞生成AI、上川１８市町村が導入 事務効率化や人手不足への対応狙う 住民サービスへの活用も - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02MF9CR2NEM1RUVXdQYUw0MzB4a25ZbUdPS0U3Ym1NdG9RY1h6YzNBcnI0a3RabWlWV2tRZDQtd3RuVV9NNGthemhmUldfNmpvSW1uMGl1QkdBUQ?oc=5",
+   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3hXWDdIZXZ6NGtlSy1zQTdXRWd0Zk5qX0dhVVEwZVBaTnBjenc5SThaTTRVeHE2bWF1NU9LR3JLWmJUWUQ3RjJpb2Z6SVZITWhLY0dSb0hIMkk2OVJFUdIBZkFVX3lxTFBqOE1yeTRGWEQ3N2RWaWpCVFlIOWZXQWRKbnhORGkzNTg4Wlo4N2gyY0lYRFh3SUJpMmZIVkhCRHY5OTl4TzBTaVF4cjFnYVFpS2ZrWDNlbmxxb3JtMXU2UDZONFBLUQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - 日テレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmVZNHZDOUEyT21WVGdyWGJEUFhEakRaUkVIQ0FXTmItSWxSZGVnZ2t1TGgtbDNXWHpfTHVOclVJX2w5ZWdUYlNxSHFaTmJuenJUcGRoQmtScmpIaURDUTVnNVhlZW1pSVNnZVhBWHpWSzlOWDZqbTktelMyTGVxaXFuTQ?oc=5",
+   "title": "生成AIを活用した国語の授業 モデル校の中学校で教職員向けに公開 「どう活用していくかが教育界の課題の一つ」 福岡・北九州市 - 福岡TNCニュース",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hX0FJQngzclBORVVibEFQeWpSLUx3TWlGaFJBc3dseXdGVTJLUTl4UjF6Rk8tckVxTDZ0aVlTbTFhVk1TU2lhYl9peGZoNlcteUlvczJzWVoyMTRnQmxtZVppQQ?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "生成AI時代に深まるOSSの危機、企業が見直すべきソフトウェア依存 - ZDNET Japan",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xR2J3cGk5YnhlYVVMTnNDaW9CWnFERU51TlR5Wkd5WE1CYm1sdUtxUVk1eXZQWDF6Mk5KRFVUZWlHZ0lYck0wdmxMcEpxTmtPM2Fz?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ビクターエンタテインメント、アーティストの権利と生成AI活用めぐる有識者会議を発足 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fSlZuQkFVd1FoeG5tWmF3OXNjZnpia00ybnBQTGlxdzhJQ3lOWENWWGRDNUNoLU95S21jRVhfckNCeTJXLW1YWXZncjBWYmVMR2gxZHdRZHlHMUw5MnpIQU1tY3d1X1BQaXJ4djdn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "14歳からの夢を生成AIで形に。AIとともに長編映画を作る監督・中澤太翔の仕事術 - ライフハッカー・ジャパン",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQ3BiZXJjVWl3bGVSeVAzZl90cDFleDRrRzBjNWRLZWlid2lSX0RlQWVkY1UzNGRmdFN2ODNJd183a3lDMm9EUW1HUzRpcWtCemFBWjFNSU9xV0tIQmFYVUpMZmgzanhJMS1YQ0lPLUpBVGNzSlQzdE1rNA?oc=5",
    "publisher": "news.google.com"
   }
  ]
