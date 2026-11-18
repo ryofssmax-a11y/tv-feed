@@ -1,8 +1,28 @@
 {
  "date": "2026-11-18",
- "updatedAt": "2026-11-18T11:05:42+09:00",
+ "updatedAt": "2026-11-18T19:28:46+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす　「心よりおわび」",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "アシックス富永社長「売上高1.5兆円を実現する」　オニツカタイガー分社化と株主還元4000億円",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/18/news050.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
@@ -34,38 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "筑波大発のCloserが柏市に新拠点を開設、食品／医薬向けロボットの開発を加速",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news056.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
-   "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
-   "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - 日テレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmVZNHZDOUEyT21WVGdyWGJEUFhEakRaUkVIQ0FXTmItSWxSZGVnZ2t1TGgtbDNXWHpfTHVOclVJX2w5ZWdUYlNxSHFaTmJuenJUcGRoQmtScmpIaURDUTVnNVhlZW1pSVNnZVhBWHpWSzlOWDZqbTktelMyTGVxaXFuTQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrY1VoNXRaTHRJQUxyQVJ3eHgtNlExbFpnMk1kcVJwVER4WXpKOW1lU0tnZC05X1V5dXNnU0FtQUh0bXNsRWlGYnowcGZLWUpYWktMc0FNYVRwMEtjc2NpcWR5RHk3S2FENmkyeExn?oc=5",
+   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,33 +64,43 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "EY新日本、監査先との過去のやり取り即座に参照 生成AIを活用 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idFprNk1WQV96YlVHeDJWNkRHb3RhaGFuQ2RJOHhDYndmU3IyVDNLRWxDX0g0U1RQbWx6VVNNNjBwU3B2R2xTS1JCbGp4UGZDaU5iWHpVVHRuenZ4QnZfOE0wTnFsYnJidzkxZA?oc=5",
+   "title": "生成AIで7割が時短実感も4割弱は「負担が増えた」 半数がAIの答えを手で転記、大手企業309人調査（テクノエッジ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HOWJyWDNBV2N3eHZITkRHeWNVWlV2NnFWYlZhU25IYW9jaXJSYUtNUURDWHo5OExVbDhWdEFiZlQxNjNScE93NGhZR3c0cFZrbzAtR3l2bUJ4SDlPRVRDeW4yNG1mUXlRU2dfREtmVDhDRkhRcWgxdU9QUXVqYjg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成ＡＩで作った「誤った文章」裁判所に提出、米弁護士に制裁金…自ら確認せず「無関係の判例」引用 - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWEpfZVFiQUVVSE9ST0VSSGdYRXN4OFAzaldHcFp3RjRsd19WSzdYOFZVNk9JWGZUbnA1TGxpelI1RG9DMGxoX3JnS0tzeXFHT2thdUhQRzBUVHVLRkF1RnZBdVdsYlVDbk5mNGNn?oc=5",
+   "title": "生成AIの弱点を補う「RAG（検索拡張生成）」、防災や護岸工事への応用 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNWFQOVdMWnlDNjNVYjhBd0VsYUFvTlNhNmZxQVd5Q182ZkFXUGJGUTdiUE1ac3lfS0lRSlBjTzVlVzVuMHVlN3dhbUJYNUwzQ2kzMks4WlVlaG5ra2ZNaW9RdFlWLU5md0JrVg?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "x3d株式会社、金沢工業大学SDGs実践にて「生成AIマネジメントゲーム®」体験授業を実施、受講者が累計300名を突破 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tUENwLUtnWDJtQ0prR3hfZ21ZOTJYbG4yY1JBMTNZSllLWWZoWkRSY2xtRm8xcWhHeGtIM0xZa2hlNUtWNDRxWWRab01CeGhTX2o2bmRZdDFhdHVrUVhsWm5Ubjh6QTNFdFE?oc=5",
+   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3hXWDdIZXZ6NGtlSy1zQTdXRWd0Zk5qX0dhVVEwZVBaTnBjenc5SThaTTRVeHE2bWF1NU9LR3JLWmJUWUQ3RjJpb2Z6SVZITWhLY0dSb0hIMkk2OVJFUdIBZkFVX3lxTFBqOE1yeTRGWEQ3N2RWaWpCVFlIOWZXQWRKbnhORGkzNTg4Wlo4N2gyY0lYRFh3SUJpMmZIVkhCRHY5OTl4TzBTaVF4cjFnYVFpS2ZrWDNlbmxxb3JtMXU2UDZONFBLUQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS1JfZlNCZVZWM3dVYUZxcVBOQkgxTXBxWUIwS1Nhc0ZxYkNxbk5NZ2wwWG9jWDFFZWFkMHZrN0piYTBOeTB1Z1RNa2pPY2pWT1FWRUhuNFVsMGFGNmIxaEN0V2pqWmNrUE4xeGlOUDBLQl93TWFnZGJlZWpZODQ?oc=5",
+   "title": "大阪府豊中市、生成AIで子育て相談 専門窓口にも案内 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdzk4dWd5bk9VNDhFUkpFdEFyYURmbFg0QnZ2SnFtZ0VVbUV0X1Fsc0d3a1NKMEZIOGN3RXZ2YjJqSzBVQk1tcERqVmV2TWQzT1RFRE1iWUdFczJuZWxaUzcyQS1KRm11MnBIMA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
+   "title": "AIで作った曲にMVも生成 AI音楽のSunoが新機能「Visuals」を公開 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZHZxbjJjRlRhaVBKUWFJUWFHRkNMSVBpaTZHTVNvZGV3OGxqbXpBWks1RnA4aFNFeDBOci1aWTVmbU4tYXZEMUQ5Rk5xMkFXd1E?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供 - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McW1pUGpqS0NaUWpEUnJ5UlNyUGRlTjNkT1IwWW8wbGhwTGpiWkM5aWM0dk1TRDZjaktCZUJ3enhhZWF4TnpPc0lJUGs0WEhWd3hKSVB3NWdJb1BENURBTEdvNA?oc=5",
+   "title": "なるほど！上川＞生成AI、上川１８市町村が導入 事務効率化や人手不足への対応狙う 住民サービスへの活用も - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02MF9CR2NEM1RUVXdQYUw0MzB4a25ZbUdPS0U3Ym1NdG9RY1h6YzNBcnI0a3RabWlWV2tRZDQtd3RuVV9NNGthemhmUldfNmpvSW1uMGl1QkdBUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmVZNHZDOUEyT21WVGdyWGJEUFhEakRaUkVIQ0FXTmItSWxSZGVnZ2t1TGgtbDNXWHpfTHVOclVJX2w5ZWdUYlNxSHFaTmJuenJUcGRoQmtScmpIaURDUTVnNVhlZW1pSVNnZVhBWHpWSzlOWDZqbTktelMyTGVxaXFuTQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AI時代に深まるOSSの危機、企業が見直すべきソフトウェア依存 - ZDNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xR2J3cGk5YnhlYVVMTnNDaW9CWnFERU51TlR5Wkd5WE1CYm1sdUtxUVk1eXZQWDF6Mk5KRFVUZWlHZ0lYck0wdmxMcEpxTmtPM2Fz?oc=5",
    "publisher": "news.google.com"
   }
  ]
