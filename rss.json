@@ -1,8 +1,33 @@
 {
  "date": "2026-11-18",
- "updatedAt": "2026-11-18T04:39:53+09:00",
+ "updatedAt": "2026-11-18T11:05:42+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Googleドライブの最新ファイルをGeminiが常時参照　「スキル」に新機能追加",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "【Pythonで学ぶデータ分析】重回帰分析のモデル比較をベイズ統計で行う ～ 株価の予測にはどの指標が効くのか？",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news010.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携　「遍在型AGI」活用へ",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
@@ -29,48 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ジェンスン・フアン氏復帰を求める公開書簡に18万人以上が署名　現役従業員9000人に加えてイーロン・マスク氏らも賛同",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003249/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "大手自動車メーカーの検図工数を90％削減　AIが図面の重要な変更点を判別",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news014.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "クレディセゾンはなぜChatGPTでROI954％・年169時間削減を達成できたのか",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/17/2000003219/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIの本格運用に潜むトークン消費増とガバナンス負担　企業の約9割が再設計を迫られる実態",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/17/2000003223/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「回答するAI」から「現実の課題を解決するAI」へ、ダッソーが掲げる産業AI戦略",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news025.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供 - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McW1pUGpqS0NaUWpEUnJ5UlNyUGRlTjNkT1IwWW8wbGhwTGpiWkM5aWM0dk1TRDZjaktCZUJ3enhhZWF4TnpPc0lJUGs0WEhWd3hKSVB3NWdJb1BENURBTEdvNA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "NTTデータ、「クリーンモダナイゼーション」を提供開始　生成AIを活用して基幹システムを再設計 - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS0FNTkE2Q180cTJES3RKOUlDMi1VWFdNakZoQkhIbnhVV2JpQjVjVTlmejZaMEVmQXpkLUc4bThjX0dwRkZ5Wmx6TVFXUWxMVVBlOTYyekhPR0E1cll0UHFkUdIBaEFVX3lxTE53WVBmc2tJakJ3bE9CRVRrRWNkcERHS1VsbXh2QVNUcW15Y0lHX1NoZnoxaEZWTUE3RnFVLUpWUVR4U01rcHpSZTh2R1gwcUQxS003WmFEaFdQaWIyWklfbGNCNDNqWWhm?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表 - こどもとIT",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbFBxTVZjMkNueC1OZ2hVc09fc25kUW9RVGlWNERUaXJxVWltZW1LUF9WWDg1MGhpZ3JqZ085LWRTaFltWkRsLU1EeUx5U2luOEQxN3Z5Mms0R09hSWEzRVFVWnIwNmhvY280dg?oc=5",
+   "title": "「アドバイスくれる」生成AIを授業に活用 生徒が学び深める 中学校で公開授業 山梨 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmVZNHZDOUEyT21WVGdyWGJEUFhEakRaUkVIQ0FXTmItSWxSZGVnZ2t1TGgtbDNXWHpfTHVOclVJX2w5ZWdUYlNxSHFaTmJuenJUcGRoQmtScmpIaURDUTVnNVhlZW1pSVNnZVhBWHpWSzlOWDZqbTktelMyTGVxaXFuTQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +69,38 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "OpenAI「GPT-6.2 Astra」、前世代の3分の1未満のコストで性能超え AI予算は変わるか - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vOV9HWGpIS1o2UDM2WlRHU2I3UENrQWlRbWRUYUVPNzRlVXVEMzdHYU1hRmhLMi1GeDhtaXVwUFU2bDJ0c3h5anZ2ZnpDVzB5bXNv?oc=5",
+   "title": "“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイヤーは生成AI未使用の作品を応援しようと提言 - Game*Spark",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WFJCYVNtNzFiZzVVT2FVUUM3WWZtcHYxQ2I1VXdoUkJSRy1xSVNtOWhYd1BEVkRWTUxBTHl5V1dSQURFMkNJQlk4azlXYjZqVEEzYy1sckJuTW52ZlZhdDVzQ3NWdw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIの弱点を補う「RAG（検索拡張生成）」、防災や護岸工事への応用 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNWFQOVdMWnlDNjNVYjhBd0VsYUFvTlNhNmZxQVd5Q182ZkFXUGJGUTdiUE1ac3lfS0lRSlBjTzVlVzVuMHVlN3dhbUJYNUwzQ2kzMks4WlVlaG5ra2ZNaW9RdFlWLU5md0JrVg?oc=5",
+   "title": "EY新日本、監査先との過去のやり取り即座に参照 生成AIを活用 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idFprNk1WQV96YlVHeDJWNkRHb3RhaGFuQ2RJOHhDYndmU3IyVDNLRWxDX0g0U1RQbWx6VVNNNjBwU3B2R2xTS1JCbGp4UGZDaU5iWHpVVHRuenZ4QnZfOE0wTnFsYnJidzkxZA?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "アニメ『楽園追放』監督が語る生成AIへの期待と落胆「人間が考えたものの劣化版が出てくるだけになってしまってもったいない」 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjExTENUd19kd0pSTlQtaldVTWpLWWZNS3c0Y0RWb0pqQllSN2kwck9NVXUtdmJQNEFCeEtRWE50MzZvZjNEZU1KYW45azFkRzVkVk9RZjBYdzR4bERveWNEc0l2UXk2YmJVRHdUME9RZmJBQjJsbUJqSkx6eTYtUjhGa2ZsQ3ds?oc=5",
+   "title": "生成ＡＩで作った「誤った文章」裁判所に提出、米弁護士に制裁金…自ら確認せず「無関係の判例」引用 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWEpfZVFiQUVVSE9ST0VSSGdYRXN4OFAzaldHcFp3RjRsd19WSzdYOFZVNk9JWGZUbnA1TGxpelI1RG9DMGxoX3JnS0tzeXFHT2thdUhQRzBUVHVLRkF1RnZBdVdsYlVDbk5mNGNn?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "新興国の若年層雇用、生成AIで減少傾向 欧州復興銀が報告書 - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tX0ZzcUlDalJ2YmtyUGNEYmREWHRJU2NxaFM4alBBeXFFUmFLWE0yZ2JhY1RjclBmTVVOeEJFWjBpRmctWWdmWl9HUFlTWVdPNHZOWWhIclMxZlgwV1ZuUF9sTC1qVDcxTlRqRw?oc=5",
+   "title": "x3d株式会社、金沢工業大学SDGs実践にて「生成AIマネジメントゲーム®」体験授業を実施、受講者が累計300名を突破 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tUENwLUtnWDJtQ0prR3hfZ21ZOTJYbG4yY1JBMTNZSllLWWZoWkRSY2xtRm8xcWhHeGtIM0xZa2hlNUtWNDRxWWRab01CeGhTX2o2bmRZdDFhdHVrUVhsWm5Ubjh6QTNFdFE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS1JfZlNCZVZWM3dVYUZxcVBOQkgxTXBxWUIwS1Nhc0ZxYkNxbk5NZ2wwWG9jWDFFZWFkMHZrN0piYTBOeTB1Z1RNa2pPY2pWT1FWRUhuNFVsMGFGNmIxaEN0V2pqWmNrUE4xeGlOUDBLQl93TWFnZGJlZWpZODQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McW1pUGpqS0NaUWpEUnJ5UlNyUGRlTjNkT1IwWW8wbGhwTGpiWkM5aWM0dk1TRDZjaktCZUJ3enhhZWF4TnpPc0lJUGs0WEhWd3hKSVB3NWdJb1BENURBTEdvNA?oc=5",
    "publisher": "news.google.com"
   }
  ]
