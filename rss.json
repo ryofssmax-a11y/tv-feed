@@ -1,77 +1,57 @@
 {
  "date": "2026-11-19",
- "updatedAt": "2026-11-19T03:59:14+09:00",
+ "updatedAt": "2026-11-19T10:03:03+09:00",
  "source": "rss",
  "items": [
   {
-   "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
+   "title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす　「心よりおわび」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
+   "title": "ソブリンAI実現に向けて再び立ちはだかる「旧来の課題」　データ・インフラ・モデルの自由度をどう保つか",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000002979/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "アシックス富永社長「売上高1.5兆円を実現する」　オニツカタイガー分社化と株主還元4000億円",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/18/news050.html",
+   "title": "日本の音声AIスタートアップに159億円　ElevenLabsはなぜ、社員15人のKotobaを買収するのか",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+   "title": "「e-F@ctory」から次の進化へ、三菱電機が描くAI主体の自律型工場",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news045.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+   "title": "コマツ油機開発センタが挑む設計プロセス改革、ナレッジ検索／整備に生成AI活用",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news001.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+   "title": "まいばすけっとは「月2万件対応の社内窓口」の新人教育にAIをどう使った？",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003301/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+   "title": "ついに“AIっぽさ”を脱却か？　OpenAIが新モデルGPT-6.2 AstraとSolを発表",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003295/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+   "title": "AIの精度が低くて使えない――JA共済連がたどり着いた「AIエージェントの育て方」",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003297/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Googleドライブの最新ファイルをGeminiが常時参照　「スキル」に新機能追加",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+   "title": "孫正義氏が「墓石に刻んでほしい」と明かした言葉　流した涙、もう「時間との勝負」やり残したことは？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/19/news036.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "【Pythonで学ぶデータ分析】重回帰分析のモデル比較をベイズ統計で行う ～ 株価の予測にはどの指標が効くのか？",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news010.html",
+   "title": "Geminiの進化で浮上する課題　自律型AIから機密を守るGoogle新機能が登場",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003290/",
    "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは? AIを学んだ社員が専用のアプリを開発した企業も=静岡（静岡放送（SBS）） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdFdKNDEwelZQUTlObmtDN1BLOXFMODRDUDNHTTdyWDliU0pfdmJsSGc4X2xMTVRIbG5lclNKWlNhU1M1X3E2SEcwcGwzQlJsT29jTG1EdHNWeHVUdi1oMHAzT0FEWWVUT3pmc0VzMGQzOF9lUEJvVzdiTjdsalk?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIの弱点を補う「RAG（検索拡張生成）」、防災や護岸工事への応用 - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNWFQOVdMWnlDNjNVYjhBd0VsYUFvTlNhNmZxQVd5Q182ZkFXUGJGUTdiUE1ac3lfS0lRSlBjTzVlVzVuMHVlN3dhbUJYNUwzQ2kzMks4WlVlaG5ra2ZNaW9RdFlWLU5md0JrVg?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "企業での生成AI、「導入」から「活用」へ 全面利用可は68%に - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhTEdLcGRWaGN2UnBBdjZiVkpQaWQwNmlsdWo2ejZTZnlQN25DTzZ0d3ZOcnYtODVKRDIxVHhGbkxMTFZQSTlnRmRWUXpyME55WjVJYXR4R3NZQ1RkR1I0dEM2UUlvRU01ZWV6WA?oc=5",
-   "publisher": "news.google.com"
   },
   {
    "title": "AIで作った曲にMVも生成 AI音楽のSunoが新機能「Visuals」を公開 - CNET Japan",
@@ -79,28 +59,48 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "韓国の税理士試験トップ合格者、生成AIなどを使った不正認める - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3hXWDdIZXZ6NGtlSy1zQTdXRWd0Zk5qX0dhVVEwZVBaTnBjenc5SThaTTRVeHE2bWF1NU9LR3JLWmJUWUQ3RjJpb2Z6SVZITWhLY0dSb0hIMkk2OVJFUdIBZkFVX3lxTFBqOE1yeTRGWEQ3N2RWaWpCVFlIOWZXQWRKbnhORGkzNTg4Wlo4N2gyY0lYRFh3SUJpMmZIVkhCRHY5OTl4TzBTaVF4cjFnYVFpS2ZrWDNlbmxxb3JtMXU2UDZONFBLUQ?oc=5",
+   "title": "自前のGPUなしで自治体も生成AIへ 東北電力とリコーが「導入の壁」を崩しにかかる - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYk1mSndScklwUVFLRFVkTjVOb0dLb2wyRXZYTDdyb3Rwa0Q5QnU4d0kySTA0bm9UUVRSelp4TGNqUTg4UTZCbS02d1R4UmN0eVBB?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIを活用した国語の授業 モデル校の中学校で教職員向けに公開 「どう活用していくかが教育界の課題の一つ」 福岡・北九州市 - 福岡TNCニュース",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hX0FJQngzclBORVVibEFQeWpSLUx3TWlGaFJBc3dseXdGVTJLUTl4UjF6Rk8tckVxTDZ0aVlTbTFhVk1TU2lhYl9peGZoNlcteUlvczJzWVoyMTRnQmxtZVppQQ?oc=5",
+   "title": "情シスの生成AI活用、55％が工数削減「20％未満」 効果が出る業務は？ - キーマンズネット",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwcUd2ZEktb0RnYjhUQWh4UF9welpVRXc3SllOQUx5SEtOQUgzVzZkX0hKcExBZWlTQVY4STNiZHQ5TU41TXdTTnpUT1lmeVQxSmVINVNVMnZmcHNnLU1qZGtWc2Q2Zw?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代に深まるOSSの危機、企業が見直すべきソフトウェア依存 - ZDNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xR2J3cGk5YnhlYVVMTnNDaW9CWnFERU51TlR5Wkd5WE1CYm1sdUtxUVk1eXZQWDF6Mk5KRFVUZWlHZ0lYck0wdmxMcEpxTmtPM2Fz?oc=5",
+   "title": "心の不調が強い人ほど生成AIに「悩み相談」 東北大・岡山大が全国調査 支援ニーズを示すサインに（KSB瀬戸内海放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1USXRlM0lacERaRUtzS0pscElQQzBWZHFERGN4Nm82X0RLOFIzRDNZczYzWEVRMkVmOG5HNWZYVlJSMUo5MzVxaHRsRF9FdHJpQ3J3Z2ItQXlwTUxDMklzV3piY3FyUWN2T0x3YTZSTExESVpXSktFX3ZjTGdUMU0?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ビクターエンタテインメント、アーティストの権利と生成AI活用めぐる有識者会議を発足 - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fSlZuQkFVd1FoeG5tWmF3OXNjZnpia00ybnBQTGlxdzhJQ3lOWENWWGRDNUNoLU95S21jRVhfckNCeTJXLW1YWXZncjBWYmVMR2gxZHdRZHlHMUw5MnpIQU1tY3d1X1BQaXJ4djdn?oc=5",
+   "title": "生成AIで進化する音声アシスタント、活躍機会の増加で存在感を高められるか - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tU2E4RnJGRWxCNXJHWkZQeEdoS3RRMFNDb0IxRVpNUXl3bjMtRjlrRnBqdHpGTzRxalY1TkYtd0ROOTREWTlIak4xRGQxMjc5ZC1yand3UjU1eGo4YnZXNGM0UThkLWJNVEFIeQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "14歳からの夢を生成AIで形に。AIとともに長編映画を作る監督・中澤太翔の仕事術 - ライフハッカー・ジャパン",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQ3BiZXJjVWl3bGVSeVAzZl90cDFleDRrRzBjNWRLZWlid2lSX0RlQWVkY1UzNGRmdFN2ODNJd183a3lDMm9EUW1HUzRpcWtCemFBWjFNSU9xV0tIQmFYVUpMZmgzanhJMS1YQ0lPLUpBVGNzSlQzdE1rNA?oc=5",
+   "title": "Claudeはイランの小学校を32回中22回「軍事目標」と判定、「これはゲームだ」の一言で揺らぐAIの安全策 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MG9iR2pXLXdjbUl4QzVjY3dvSjlmdlJZN1g3OVFUVC13dXJhX09UU1pzOF9qTHI3V3pndGhpX0x0UEU5WUY0YlBrek1rQ01MaloxUThR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "野田洋次郎、『NHKスペシャル』大型シリーズに出演、生成AIと創造性について語る「人間の未来を左右するテーマ」 - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNUpsYVVDbWNxeUxscjhmaFNaZlFOOXVtTENrZVMyVGgtZWdZbWNFWFJMWEZJc0o1OGhpaWlqTzc3aUFqRlhvcllvNmZsbThCTnVoenA5MWxMX1B5?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「英作文の添削は相当現場の先生の負荷になっている」教員の働き方改革にもつながる生成AIサービス - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tY096WDdFNVJKRUNSOXBWbGllT3FLOGRYLU15cmk2S3pUS3A5WG9qbHM1SUltaWY3cFQtbVo0SDlDb2xsUHNLeWpCRTM2UVhMYkVOUVZfd05Ydw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "なるほど！上川＞生成AI、上川１８市町村が導入 事務効率化や人手不足への対応狙う 住民サービスへの活用も - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02MF9CR2NEM1RUVXdQYUw0MzB4a25ZbUdPS0U3Ym1NdG9RY1h6YzNBcnI0a3RabWlWV2tRZDQtd3RuVV9NNGthemhmUldfNmpvSW1uMGl1QkdBUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIで似顔絵作成の訓練 徳島県警で鑑識実務研究発表会、新しい技法や資機材を披露 - 徳島新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wa0dONE9XUGN1QkNtaFFuME5uZXFjVzdFUjF1UFBoSTBCYUlQeXNfMW1MeEQ5WU0yelM2N0IzU1k0YVVXZHdSamVvX2s2RVZfU2lvcTBn?oc=5",
    "publisher": "news.google.com"
   }
  ]
