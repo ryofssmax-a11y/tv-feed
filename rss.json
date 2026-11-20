@@ -1,8 +1,33 @@
 {
  "date": "2026-11-20",
- "updatedAt": "2026-11-20T09:51:07+09:00",
+ "updatedAt": "2026-11-20T17:03:27+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+   "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す　東京ガス系が実践したノウハウ継承術",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news045.html",
@@ -29,38 +54,28 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "なぜ中国はヒューマノイドを量産するのか　突き動かす「焦り」と足踏みの正体",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news014.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "SlackやTeamsで情シス問い合わせを自動化　Salesforceの新AI「Paige」とは",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "さよなら「Claude Code」　人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
+   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
+   "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIは学びの「黒子」に 生徒と教師が問いを更新し続ける学校へ - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdExVNTNkeS1VYjA0YV9wTlZfVExYVjV3NDR5ZUxNbUx2NVFmLXRIbHlQNGlrdGlhWWdFckV0M1hZQ1pEbTdzMU5JRXgxWUsyb2d6NHB0d2l2cW9PSHRQRzdobUY?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "［参加無料］12月16日、生成AIイベント開催 イトーキ、大阪ガス幹部が登壇 - 日経ビジネス電子版",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRTRLbHU2VXBPcTdiSEhzSDJoTkZPM1I3SUNFMi1BM1hrNnRLWjczZVZiT2l5WGhQSnFkWjkxZkNrUElrbHl6SEswVDlZSVhYdVAwX1o4YlF2dTl2SUtJMnFhREttb3c?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "Canva、生成AI機能をオフにできる新設定を導入 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqeElDTUdaVTl1SmRoZ1NTaFlPeXA3U21uVkhOSURPV1J4d2NOTEhzZHlFWVl2eDZKXzFRN0ZvaF9QaDRLaEVGUWpEWmdPWDhiU0E?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,38 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "コスプレイヤー伊織もえ、生成AI「Claude」開発企業の新規公開株購入を申し込み 約2500万円～2800万円相当（KAI-YOU） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pSUp2WVFoM1Q1aUhlY0Q1dnpwQWs5ajRycVg2eXFEWkRDdFdwbElzbzl3SVNDeDZSc2NIQnVNYUhUVEFzSVE5ZFlmUmpOZk95MDRVejExT1FXYjVMampXbDdrVWNKeVpOZXFEOEQ0SkVsSUhiSEJHWWRYRkphc3M?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI「クロード」開発のアンソロピック上場へ 時価総額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - Infoseek",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5b28waVBkb1MzVk82Uk1id0p4eDhubkdiNm95Rm91YW1aOWxRWFdITFVZRHkxZGJTaF8wSnlucXJGU3FIX1otOFlrZmYtVVd1QzlPT0t6d3U1NDNx?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIを脳みそにするな、現場監督の教え - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SklkSEp3NzlEaTNNdG9wbTBwRFRYczR0WnZQeU5fdFB1dEhUTXpxSHFMbEtQVkFfUm40MmVJakw3bXlPMldIUXA2OS1VeENtcE91U3lORUNnMVpMb2tIS00tS1ZsSlVrRGdaSUlR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "Steam新作の半数が生成AIを使用 ゲーム開発に何が起きているのか - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DV3dCczMzX3hBazUwX3BhdW9oTGdPLVQ2YWRUY2g5cEdRVEpGRjF5N0k3WlBBTjJPWU5kclZYUFBlWWR6Q1Bac1h1Q1YyV1RJOEE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "プレスリリース：規程のFAQ化から採用・評価まで生成AIで──株式会社if、「人事・総務のための生成AI活用コース」をChatGPT・Gemini・Copilot・Claude Coworkの4編で展開（PR TIMES） - 毎日新聞",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xRGZSTjdwQ1lKdjVTbWR0ZDZyWkZ6ZWpBMTZpd3BPbUJWYXI0cWxocmtpT1JSZktlT1lxSlNyb2RkR1AwQ2luZHlCTlRYem5BV0J0STFJSXdVcGxOSGRMWU45Rld6NmRQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "【金融業編】生成AI同士が相談して、人が判断 アクセンチュアがAIエージェントによる融資業務の再設計を実演 - ロボスタ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjMUlGcXVMbE9MV05zaE1SODlfNTNOR0NfZjMwNnQ2eG0wSE14UVVfZW9ZQ1ZzYlBlZEh2RTMxN2dFV3hpcWNLM2NuTFFjOTFkRThxV3JxSmcyRUJkb2EwcjJ0Wm4?oc=5",
+   "title": "マスコミ倫理懇談会の分科会 生成AI時代の情報の質低下に懸念、過度な依存の見直しを訴え - 佐賀新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QN0tGNVFkazhZa21hWkkwTkhZelloZjVQU0RVUVQ3TG1nNU1abm1TQ2VDRm5ET0toajAzZDhKVzBibkluX1NKVVE1dExYSUdSTWdKTnp3?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "コーヒー1杯で生成AIトークンがもらえるカフェ「Token Cafe」、高田馬場にオープン - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSDRIREw4Z2J1b2pnZUlTeWw3WkVkRGxmZVZudHRBRFdfWGlKdnNZRU9PVDBoZzd6V1M2ZW0yaXppanlzTjVqLWFUelJvSU0zZG5sQnRTYkRNNHloOFNrcXVuZw?oc=5",
+   "title": "DMM、60以上の生成AIを統合利用できる「DMM AI Router」を提供開始 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaHl1MUtsN0dLckVmaDA1VER2NmpNTDN4am42aUFXcFNLUFNvZUNRdHFYcGFibVFjVjZHZ0RUckFLa1BFM0lTYTRSVHlCcFFpUVp5bDlEeUxmYk1XWkt2VEg2UQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "オムディア（Omdia）、生成AIの急成長により、2026年のAIソフトウェア売上が2,000億米ドルを超える見込みと発表 - 時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMENTZkxxRFdfN3RHTFIxRFJzSEFEVlJmdy0zdkZqaGxJMURFRVk4TXR6ZTctMHlvMjZPUjFiYU5FMTRsa2ZrTzhlTVJmSDhuYXlwaEkxNjFlV3lJSzdMbXlWVQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
