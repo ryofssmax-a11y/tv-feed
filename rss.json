@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updatedAt": "2026-11-21T02:06:07+09:00",
+ "updatedAt": "2026-11-21T08:14:52+09:00",
  "source": "rss",
  "items": [
   {
@@ -59,8 +59,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
+   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYmU4OXlyMkhXTWwtTmhpckZuN3FsdjBkcmJBb3puREJjM2xsZE1MZlZhWXY3dW9xZ3E2TlNWV1diWFZWRy1BckZRZm83R0oyR1dLWEdlNDJCdEZzTXJJd21xS0hrSTdhbUFIa2p3bVpSSzdyWlAyVGRkczQtQVk?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表 (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjRoTXlxUWJfUTQ0V0VJcG9VUTcyODhvUkx5T0V1QXg2UnRIdl9YVFN4TUthOG9SbjdFdHBUcTktSDBUOF9PMkxvbi0yeU8tZm51T3dRb1RNTmRFOGRQd0VZUlJXTnZLWUJCcFlwY3ptZFRjaUVaV3FyLVJTcE1IbUVMQkl2UmsxYTcwdFV3?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,13 +84,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
+   "title": "ＳＮＳで広がるクマの偽動画 生成ＡＩでニュース映像を模倣 - 秋田魁新報電子版",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zZVdicFNkd3pNR20xdV9yRTByYnRVQVVzaWJEblB3YXNUSDJ4V0RlRm1Xeno3cERkUTVaSWZkdXhwWl9hOHM5MTBIZHhKeWRZanJBQ1M0a1ZqenlrT0pnN0xB?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -86,16 +96,6 @@
   {
    "title": "SHElikes、生成AIを活用した業務改善を実践的に学べる「AI業務プロセス改善入門コース」を提供開始（PR TIMES） - 毎日新聞",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSnFRR0hIUzFaMThtWVk5ZzduRzBFdjhzdUE3QzdhNEwxSWpLRUJCSDU5a2NnODlXVmYtTUVmT3FNT2JyWlJjWHBOZnZfZFRBTWwzdk5xNFI2bno5X1BMUl8wQ1N4MXRO?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "マスコミ倫理懇談会の分科会 生成AI時代の情報の質低下に懸念、過度な依存の見直しを訴え - 佐賀新聞",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QN0tGNVFkazhZa21hWkkwTkhZelloZjVQU0RVUVQ3TG1nNU1abm1TQ2VDRm5ET0toajAzZDhKVzBibkluX1NKVVE1dExYSUdSTWdKTnp3?oc=5",
    "publisher": "news.google.com"
   },
   {
