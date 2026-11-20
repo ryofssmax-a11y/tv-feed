@@ -1,8 +1,23 @@
 {
- "date": "2026-11-20",
- "updatedAt": "2026-11-20T17:03:27+09:00",
+ "date": "2026-11-21",
+ "updatedAt": "2026-11-21T02:06:07+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
@@ -39,23 +54,18 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「名ばかりFDE」を見抜けるか？　依頼検討時に確認したい10項目",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news028.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「おもてなし以外」はAIで――多忙化する美容部員、資生堂はGeminiでどう変えたか",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003336/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRHFBVmpRM1JhQ3RNd0hpUDRhSjA3alRZZllPQXA1MExzeTIyMzlETGVacGRzMThRbmVwLUpfMnBSZERPMzFIRHRFWlNkU0RmQkxYb2E2NDNBQ2RxbUNhTHFKd2xjY0dRM1ZLOWpHRnJOZ1BQQjZZ?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす - ビジネス+IT",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nS0hZZXMtaURaUDA0T3hUSUgwNEp6cGpUYkRWamNhRG16R2ZSVjFkZHAtUGVMWXhETFQyeUFJRVZMdUpHc1FVN3dsTWhXVzFBdHhn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -64,13 +74,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIは学びの「黒子」に 生徒と教師が問いを更新し続ける学校へ - 朝日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdExVNTNkeS1VYjA0YV9wTlZfVExYVjV3NDR5ZUxNbUx2NVFmLXRIbHlQNGlrdGlhWWdFckV0M1hZQ1pEbTdzMU5JRXgxWUsyb2d6NHB0d2l2cW9PSHRQRzdobUY?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "［参加無料］12月16日、生成AIイベント開催 イトーキ、大阪ガス幹部が登壇 - 日経ビジネス電子版",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRTRLbHU2VXBPcTdiSEhzSDJoTkZPM1I3SUNFMi1BM1hrNnRLWjczZVZiT2l5WGhQSnFkWjkxZkNrUElrbHl6SEswVDlZSVhYdVAwX1o4YlF2dTl2SUtJMnFhREttb3c?oc=5",
+   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,13 +84,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
+   "title": "SHElikes、生成AIを活用した業務改善を実践的に学べる「AI業務プロセス改善入門コース」を提供開始（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSnFRR0hIUzFaMThtWVk5ZzduRzBFdjhzdUE3QzdhNEwxSWpLRUJCSDU5a2NnODlXVmYtTUVmT3FNT2JyWlJjWHBOZnZfZFRBTWwzdk5xNFI2bno5X1BMUl8wQ1N4MXRO?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：規程のFAQ化から採用・評価まで生成AIで──株式会社if、「人事・総務のための生成AI活用コース」をChatGPT・Gemini・Copilot・Claude Coworkの4編で展開（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xRGZSTjdwQ1lKdjVTbWR0ZDZyWkZ6ZWpBMTZpd3BPbUJWYXI0cWxocmtpT1JSZktlT1lxSlNyb2RkR1AwQ2luZHlCTlRYem5BV0J0STFJSXdVcGxOSGRMWU45Rld6NmRQ?oc=5",
+   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "DMM、60以上の生成AIを統合利用できる「DMM AI Router」を提供開始 - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaHl1MUtsN0dLckVmaDA1VER2NmpNTDN4am42aUFXcFNLUFNvZUNRdHFYcGFibVFjVjZHZ0RUckFLa1BFM0lTYTRSVHlCcFFpUVp5bDlEeUxmYk1XWkt2VEg2UQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "オムディア（Omdia）、生成AIの急成長により、2026年のAIソフトウェア売上が2,000億米ドルを超える見込みと発表 - 時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMENTZkxxRFdfN3RHTFIxRFJzSEFEVlJmdy0zdkZqaGxJMURFRVk4TXR6ZTctMHlvMjZPUjFiYU5FMTRsa2ZrTzhlTVJmSDhuYXlwaEkxNjFlV3lJSzdMbXlWVQ?oc=5",
+   "title": "長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告 - 信濃毎日新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1Fta2RWRFBVUGhZSDdjeFZSZklPaEVZbnJ0X2lGa3dTdlRwMV9fYzg2eXh0aUxPUEFhVTc3bnpTQmN1bEtLQ1doZVk1RWxRVmNzMUpmME53WlhRQTEyNHp1d3Y4MVFEQWFEa2s5MEo?oc=5",
    "publisher": "news.google.com"
   }
  ]
