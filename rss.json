@@ -1,8 +1,13 @@
 {
  "date": "2026-11-21",
- "updatedAt": "2026-11-21T08:14:52+09:00",
+ "updatedAt": "2026-11-21T13:08:22+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
@@ -49,13 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
-   "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRHFBVmpRM1JhQ3RNd0hpUDRhSjA3alRZZllPQXA1MExzeTIyMzlETGVacGRzMThRbmVwLUpfMnBSZERPMzFIRHRFWlNkU0RmQkxYb2E2NDNBQ2RxbUNhTHFKd2xjY0dRM1ZLOWpHRnJOZ1BQQjZZ?oc=5",
+   "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -64,18 +64,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表 (読売新聞オンライン) - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjRoTXlxUWJfUTQ0V0VJcG9VUTcyODhvUkx5T0V1QXg2UnRIdl9YVFN4TUthOG9SbjdFdHBUcTktSDBUOF9PMkxvbi0yeU8tZm51T3dRb1RNTmRFOGRQd0VZUlJXTnZLWUJCcFlwY3ptZFRjaUVaV3FyLVJTcE1IbUVMQkl2UmsxYTcwdFV3?oc=5",
+   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWURCWUtjRzNIOWhuN243TDRBZk42c2lHXzd1MFVIYW9QT3lTNXpiUHdXUlF2SldPTlBfb3NrbFJtZ3JydmdsU2ZvU1ZyMW45OWdoRW1ITUlSNTEtY2FZZWtxYXhDdVFIRl9NOGRBcVdfSkNIMVNaU1BYWkJKaEs3aG9Nc25EQzRY0gGOAUFVX3lxTE80MlJnNFM4MGVhZVdKY3R5UlZqYWtCYUg1NmRhQVhTal9tcTNnOEViQmVVWV9WRmdHUWM5LXUwalFwVEptUjR5TWxVdVhDSTlTWGo0S2FjY3JvcGhxSjZUTzlDdXE5VXQweXZ0T0s1RWlYR0lDd3Zkb09GX1ctTHBkblNyWTU2UzBYTEFnRmc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
+   "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRHFBVmpRM1JhQ3RNd0hpUDRhSjA3alRZZllPQXA1MExzeTIyMzlETGVacGRzMThRbmVwLUpfMnBSZERPMzFIRHRFWlNkU0RmQkxYb2E2NDNBQ2RxbUNhTHFKd2xjY0dRM1ZLOWpHRnJOZ1BQQjZZ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
+   "title": "プレスリリース：［約3.2万件の画像の判定データを調査］来歴情報「C2PA」が付いていた画像は5.8%。生成AIの記録が残る画像でも、見た目の分析だけで「AI生成の可能性が高い」は約4割（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MRW1jb0RvekhxWWFCdDVJSVZwNGZTenVIbTlKaUU0VlcwS3J1RFhNM3Q3N215RE1LeHVtN3FraUhKSW9jNGgyUTFGMGhaUHp3VE9OYWwtQTVjQndfUTlHY3FocjgxcXk5?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -84,23 +84,23 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "ＳＮＳで広がるクマの偽動画 生成ＡＩでニュース映像を模倣 - 秋田魁新報電子版",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zZVdicFNkd3pNR20xdV9yRTByYnRVQVVzaWJEblB3YXNUSDJ4V0RlRm1Xeno3cERkUTVaSWZkdXhwWl9hOHM5MTBIZHhKeWRZanJBQ1M0a1ZqenlrT0pnN0xB?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "Canva、生成AI機能をオフにできる新設定を導入 - CNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqeElDTUdaVTl1SmRoZ1NTaFlPeXA3U21uVkhOSURPV1J4d2NOTEhzZHlFWVl2eDZKXzFRN0ZvaF9QaDRLaEVGUWpEWmdPWDhiU0E?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "SHElikes、生成AIを活用した業務改善を実践的に学べる「AI業務プロセス改善入門コース」を提供開始（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSnFRR0hIUzFaMThtWVk5ZzduRzBFdjhzdUE3QzdhNEwxSWpLRUJCSDU5a2NnODlXVmYtTUVmT3FNT2JyWlJjWHBOZnZfZFRBTWwzdk5xNFI2bno5X1BMUl8wQ1N4MXRO?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告 - 信濃毎日新聞デジタル",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1Fta2RWRFBVUGhZSDdjeFZSZklPaEVZbnJ0X2lGa3dTdlRwMV9fYzg2eXh0aUxPUEFhVTc3bnpTQmN1bEtLQ1doZVk1RWxRVmNzMUpmME53WlhRQTEyNHp1d3Y4MVFEQWFEa2s5MEo?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "DMM、60以上の生成AIを統合利用できる「DMM AI Router」を提供開始 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaHl1MUtsN0dLckVmaDA1VER2NmpNTDN4am42aUFXcFNLUFNvZUNRdHFYcGFibVFjVjZHZ0RUckFLa1BFM0lTYTRSVHlCcFFpUVp5bDlEeUxmYk1XWkt2VEg2UQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
