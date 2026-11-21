@@ -1,8 +1,13 @@
 {
  "date": "2026-11-21",
- "updatedAt": "2026-11-21T13:08:22+09:00",
+ "updatedAt": "2026-11-21T21:53:56+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
@@ -49,11 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news045.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
    "publisher": "news.google.com"
@@ -64,8 +64,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWURCWUtjRzNIOWhuN243TDRBZk42c2lHXzd1MFVIYW9QT3lTNXpiUHdXUlF2SldPTlBfb3NrbFJtZ3JydmdsU2ZvU1ZyMW45OWdoRW1ITUlSNTEtY2FZZWtxYXhDdVFIRl9NOGRBcVdfSkNIMVNaU1BYWkJKaEs3aG9Nc25EQzRY0gGOAUFVX3lxTE80MlJnNFM4MGVhZVdKY3R5UlZqYWtCYUg1NmRhQVhTal9tcTNnOEViQmVVWV9WRmdHUWM5LXUwalFwVEptUjR5TWxVdVhDSTlTWGo0S2FjY3JvcGhxSjZUTzlDdXE5VXQweXZ0T0s1RWlYR0lDd3Zkb09GX1ctTHBkblNyWTU2UzBYTEFnRmc?oc=5",
+   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,13 +74,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：［約3.2万件の画像の判定データを調査］来歴情報「C2PA」が付いていた画像は5.8%。生成AIの記録が残る画像でも、見た目の分析だけで「AI生成の可能性が高い」は約4割（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MRW1jb0RvekhxWWFCdDVJSVZwNGZTenVIbTlKaUU0VlcwS3J1RFhNM3Q3N215RE1LeHVtN3FraUhKSW9jNGgyUTFGMGhaUHp3VE9OYWwtQTVjQndfUTlHY3FocjgxcXk5?oc=5",
+   "title": "生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5",
+   "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +99,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "DMM、60以上の生成AIを統合利用できる「DMM AI Router」を提供開始 - 株式会社インプレス",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jaHl1MUtsN0dLckVmaDA1VER2NmpNTDN4am42aUFXcFNLUFNvZUNRdHFYcGFibVFjVjZHZ0RUckFLa1BFM0lTYTRSVHlCcFFpUVp5bDlEeUxmYk1XWkt2VEg2UQ?oc=5",
+   "title": "「生成AI」の進化で賞やコンテストはどうなる？（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90OEpNQ0xlckhxS1lXSFZjbzJmWnY0VVV6V3k4cVk5aklqNHg1clVpWnlVRnphNm9NTllUX29Ycjh4dEwxTWNGWXFmNGt4OFU0UXVEUjJ2TzRzRWk1ckg2RDJxXzdmWkcwbjY1LTF3?oc=5",
    "publisher": "news.google.com"
   }
  ]
