@@ -1,6 +1,6 @@
 {
- "date": "2026-11-21",
- "updatedAt": "2026-11-21T21:53:56+09:00",
+ "date": "2026-11-22",
+ "updatedAt": "2026-11-22T04:55:01+09:00",
  "source": "rss",
  "items": [
   {
@@ -69,23 +69,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GRHFBVmpRM1JhQ3RNd0hpUDRhSjA3alRZZllPQXA1MExzeTIyMzlETGVacGRzMThRbmVwLUpfMnBSZERPMzFIRHRFWlNkU0RmQkxYb2E2NDNBQ2RxbUNhTHFKd2xjY0dRM1ZLOWpHRnJOZ1BQQjZZ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
    "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES） - 毎日新聞",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "長年のCAD開発技術に生成AIを融合「自動作図AI」 キャパ【TECH Biz LIVE!】：ニュース - 中日BIZナビ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dU9yZXdYcjFFTXBBYzN0dEd1NXBCRXh0bGdhRlgtMUFSMDBBWEtLS3kxNjBWT2lFOXZvRzVqZHFZdmFobDNEVjJlVnU2NHRubWxTdnc0bzRCcUFTa0xn?oc=5",
+   "title": "生成AIの競争軸、回答の質から代行力へ 米大手がエージェント競う - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSlR6MzBvMENPUTlyS3FrWThBRjFhM1pFTktLNTBIRmVpTWNRd0RxRUFLb0dTbGpvWVNiZ1NvaTZjYmNObGdkdzUzRG9DNzNocC1tOHVmLThPQVdMX2ZzeG9sY2dfMmU2cjhyag?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -101,6 +91,16 @@
   {
    "title": "「生成AI」の進化で賞やコンテストはどうなる？（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 - au Webポータル",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90OEpNQ0xlckhxS1lXSFZjbzJmWnY0VVV6V3k4cVk5aklqNHg1clVpWnlVRnphNm9NTllUX29Ycjh4dEwxTWNGWXFmNGt4OFU0UXVEUjJ2TzRzRWk1ckg2RDJxXzdmWkcwbjY1LTF3?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "デジタル・クライシス白書-2026年11月度-委託先から生成AIまで 自社の管理外で起きる「情報流出」への備え方 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dnJlX215c2NFOUJ4WGFtd0cyc0VZMmF0VTNVTnhfUlFGN2ZvLV9nWVdQSW9fZ1h4NnYtS1pCdm5jTEVpMDcwTnVqaXNVYnpobG9FYzZEY0FZZw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "OpenAI、常時稼働AIエージェント「dots」をPlusに試験提供 法人向けも拡大 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQXFNQzhOMVdCNEZoaG91RVNoQWx6d1d1eld5SkR1TWlzNEZPRzJneG55WkhrU0dlWlJLTVhPUG5kMEVoX0gxbW9wMS1KRVMtcHBj?oc=5",
    "publisher": "news.google.com"
   }
  ]
