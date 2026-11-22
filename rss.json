@@ -1,8 +1,18 @@
 {
  "date": "2026-11-22",
- "updatedAt": "2026-11-22T04:55:01+09:00",
+ "updatedAt": "2026-11-22T09:04:34+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+   "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
    "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
@@ -44,33 +54,13 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す　東京ガス系が実践したノウハウ継承術",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ - 新潟日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRE1mSk44Z0hpM3d0TVFSelRna041ZU8tekRQTER3Y2tLNGVlRlBQZU9LRXUzREdFQ1c3OFduU3RxX1d5bEtpM3Q3QzBzWlRvbnhuUFFpemhjdmkzakE?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表（読売新聞オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYmU4OXlyMkhXTWwtTmhpckZuN3FsdjBkcmJBb3puREJjM2xsZE1MZlZhWXY3dW9xZ3E2TlNWV1diWFZWRy1BckZRZm83R0oyR1dLWEdlNDJCdEZzTXJJd21xS0hrSTdhbUFIa2p3bVpSSzdyWlAyVGRkczQtQVk?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -79,13 +69,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "ＳＮＳで広がるクマの偽動画 生成ＡＩでニュース映像を模倣 - 秋田魁新報電子版",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zZVdicFNkd3pNR20xdV9yRTByYnRVQVVzaWJEblB3YXNUSDJ4V0RlRm1Xeno3cERkUTVaSWZkdXhwWl9hOHM5MTBIZHhKeWRZanJBQ1M0a1ZqenlrT0pnN0xB?oc=5",
+   "title": "生成AI「クロード」開発のアンソロピック上場へ 評価額240兆円 期待と緊張が交錯するなかAIブームけん引なるか - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bGdnNVNnUGpHdzVQaWhELUtBVHJQMlNKLVRTZ2t3V1hINk5KYUJWVXJ1S09vVFd3VTAzVTNGa3lwdC13a0NLelg3WmFtVUlsM3VzOUxxVQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告 - 信濃毎日新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1Fta2RWRFBVUGhZSDdjeFZSZklPaEVZbnJ0X2lGa3dTdlRwMV9fYzg2eXh0aUxPUEFhVTc3bnpTQmN1bEtLQ1doZVk1RWxRVmNzMUpmME53WlhRQTEyNHp1d3Y4MVFEQWFEa2s5MEo?oc=5",
+   "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催【生成AI実践会】 - RBB TODAY",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ic3N3UnFjVndJVFlKemdvaW5KempXWmp6VlFRRzlhQ3l3UVVTb1N1ODlnNjU5bjhZTm9vZG9FM3k4UWxyWFJjQTNWbGI2N3JqbW5NdGNiLXdUVlpBQjJSTGNsSGhoVkJLUzZSSHJwcnRpMHRUd19DOA?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -94,13 +84,23 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "デジタル・クライシス白書-2026年11月度-委託先から生成AIまで 自社の管理外で起きる「情報流出」への備え方 - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dnJlX215c2NFOUJ4WGFtd0cyc0VZMmF0VTNVTnhfUlFGN2ZvLV9nWVdQSW9fZ1h4NnYtS1pCdm5jTEVpMDcwTnVqaXNVYnpobG9FYzZEY0FZZw?oc=5",
+   "title": "生成AIパスポート、2026年の年間受験者数が13万名超を記録。2026年10月試験の結果を発表 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRGZMZjEtSGw0bXNOZ1RGdFMzTkE2cUNiVkdXbW80ZmxqY3JnczZycEo5S0gtekJxOVJNUWp0cjhhMHdQU2lwYnVkajNOSmc0TU5HX2NmcjNRLWx5NGhNdHVRZURmaGMtenc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "OpenAI、常時稼働AIエージェント「dots」をPlusに試験提供 法人向けも拡大 - ビジネス+IT",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQXFNQzhOMVdCNEZoaG91RVNoQWx6d1d1eld5SkR1TWlzNEZPRzJneG55WkhrU0dlWlJLTVhPUG5kMEVoX0gxbW9wMS1KRVMtcHBj?oc=5",
+   "title": "長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告 - 信濃毎日新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1Fta2RWRFBVUGhZSDdjeFZSZklPaEVZbnJ0X2lGa3dTdlRwMV9fYzg2eXh0aUxPUEFhVTc3bnpTQmN1bEtLQ1doZVk1RWxRVmNzMUpmME53WlhRQTEyNHp1d3Y4MVFEQWFEa2s5MEo?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成 AI セキュリティを強化する – SATv2 で始めるマルチアカウント環境の LLM ジャッキング対策 - Amazon Web Services",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jOENTUlZ0eF9KMVVEeTAxdmw1eW9QNnAzdExMaWNiZ1JCNVdMbVhKdUh3RW04eExtWFd6dUp3amM5QUVQOEw1R1AxSW1TNE4xMzFlVW1MbUctRXBTSVdlU0Q1TDNtbm5nVXN5R2VYOHFHVFlQY2VzVTFR?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RS2VyOF9uSXlvVHpfU0I1Y2QxdThiOHV0STRHazgwWV84N3JxMXo0TEd4NmYyMnhFTWtlemZsYmhNSncyc1JCVTNTRXhfVVJQcVpoRnNVZE8zU3J2SEhFRUlTUXFVYWxrdGdEU1NfOGtFQQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
