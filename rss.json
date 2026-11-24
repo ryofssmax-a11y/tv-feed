@@ -1,8 +1,23 @@
 {
- "date": "2026-11-24",
- "updatedAt": "2026-11-24T15:43:22+09:00",
+ "date": "2026-11-25",
+ "updatedAt": "2026-11-25T03:37:27+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "明治が市乳製造にAI計画立案を導入、稼働直数を最大約17％削減へ",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news059.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
@@ -39,21 +54,6 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」　日立は独自技術で突破口探る",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
-   "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "住友生命がChatGPT導入で524％のROI達成　金融の厳格な基準をどう突破した？",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
    "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み - KAI-YOU",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45MFJVRkJZcF9ZckRIZXlCZXNpZU5qM3VEY3VIZFRrTzA3QVlWY05qOWluUzN6YVhoSlpwY3lLbjlKYng1eWxsdg?oc=5",
    "publisher": "news.google.com"
@@ -69,18 +69,8 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "SB OAI Japan、JDLAのAIガバナンス認証を取得--生成AI事業の信頼性強化へ - ZDNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNXpIZUdsb1VNcDNXNF9zbTFRNTk0bmM0T2hHTm4yaE9TaW9xLUY1OW9hZWhKU1JhdnNLaGV3U1BNcDIwZTJMX0g1c2p5SXpjTzFR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「プロンプトの中身」まで見えている？ 生成AIの黒船「Aurascape」とは - キーマンズネット",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RQWhTT1JVem1ZQVFGbEtTRGVINXUyX2F6LW4yWF9jQVk3M0l1bE9ZTnN0akt4YzByMVFWVTNCOE5Vc2g2VGVUbmUzc0ZySDd2bDZmQTJrZm1STzFvWmQ3MHF5Y1hXdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "東洋大学、「生成AI利用ガイドライン」を公開 ―「諸学の基礎は哲学にあり」の精神で、自由かつ自律的な生成AI活用を推進― - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3NXRiZXBCLW9PYjA3X0ZrWThsZkdKektlR3JmQks0V1JNLUJzNEl2TTNWOHZtVHgyRTdwdU9MWTAyMmVfVndWUEh1bDZfYzczXzNMaWszbmVITE9idHc?oc=5",
+   "title": "生成AIと学校図書館をどう使う？ 探究学習の実践書が登場 - こどもとIT",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeU0zenRVZXd0Y0prTUZKXzhRZHREWXlQeWpDN0ZVYUNySndLR2xrUV9VLUw0LVVkZ0xLUTF1ZVcyYnhIakRZN0x4Qk93RDkxSE5kM3U1MXktM2FSYUMzbUlndFlGaXFKNjVIQmtEUHdzdVJDd05VZ0xhQnphd3h5OU5n?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -89,18 +79,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：介護事業者向け生成AI活用研修の提供を開始（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZU1DRk1ERXRrQW5VekRPS0dvUnJqMUtQSTVaSjZDVVhGNmJ5UjJiTDdSUWVuWW8xVXN0ZmxZQXI3SW41emlQOU5Rak1ZemR1NnlfalVySTIzLTMySllGT0xMUlp5cWw2?oc=5",
+   "title": "東洋大学、「生成AI利用ガイドライン」を公開 ―「諸学の基礎は哲学にあり」の精神で、自由かつ自律的な生成AI活用を推進― - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3NXRiZXBCLW9PYjA3X0ZrWThsZkdKektlR3JmQks0V1JNLUJzNEl2TTNWOHZtVHgyRTdwdU9MWTAyMmVfVndWUEh1bDZfYzczXzNMaWszbmVITE9idHc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "中国発AI「Kimi」はどこまで仕事をこなせる？ ～米国モデルに迫る性能を、市場調査や資料作成、3D Web・アプリ制作で試してみた - 柳谷智宣のAI ウォッチ！ - 窓の杜",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZkpXcjd3M0l6c3dqcTFNUVVYQ19SaVhrZEUxWHlTRkdIbThvZ2hFRGlLaU02Qnp4YmhGb1R1NVdHS0tFbmtwRlVtbGVPclBob1UyakpWUmkyNDByc1pQR0hsZTlMQ0IycVFQUmFnN0pvNE9YaU5qUQ?oc=5",
+   "title": "SB OAI Japan、JDLAのAIガバナンス認証を取得--生成AI事業の信頼性強化へ - ZDNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNXpIZUdsb1VNcDNXNF9zbTFRNTk0bmM0T2hHTm4yaE9TaW9xLUY1OW9hZWhKU1JhdnNLaGV3U1BNcDIwZTJMX0g1c2p5SXpjTzFR?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "人口減や人手不足「生成ＡＩ活用を」上越市で法人向けセミナー・新潟日報生成ＡＩ研究所 - 新潟日報",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94N21rM3BIajNYeVNvVEtGVndNVFl6bmFWbjhlelZTU09rbmZsM08wWEhIQno2eDJpZmsxZ2t3eUU1TjktZ3lhby02Y3Q5QUVsd3RZMWx2NkJEYU4yWXc?oc=5",
+   "title": "生成AI利用率は6割超へ 8割が実践する間違い前提の付き合い方 - Forbes JAPAN",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVnJId2llaHAwT2hXSUEzeXdkX09UMVo0QUp3dHBKWTFweVlIa3RmSTNvbHRqSFNlZWhpVzdQWDJSWkxvTlNzMTRuTk50eXRQWFFZOGkteDFxUQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "プレスリリース：スライド生成AI「ChatSense」、文章だけで複数ページをまとめて修正可能に（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80SXc3cmZKa2hXT1RJZjNad2xrUXBGSDN3Yk11aEN6MzN0MjEzZ2hsc1p3V2ltaVNqdENoc25SeW5qWU9QU2VVZEpSOUxJX0tuWmQ0V0VxQzNVN05kUGNjb0dCUUlXZlVS?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「自分がAIのアシスタントだと感じた」 デザイン系の大学生に芽生える違和感と、AI時代の表現の未来とは 静岡文化芸術大・ブルベス教授の研究【Web限定】 - 静岡新聞DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3ZSMHR3ZFd3LUhxX2h6NGxNajdUX1dlMmZuWTdXUDlUOUQwVlI0UmdUOEVDZDd5WGF3cDZ5SUo5V3pPTjgzSEFWZ1plQQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
