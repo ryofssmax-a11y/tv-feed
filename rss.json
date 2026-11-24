@@ -1,57 +1,62 @@
 {
  "date": "2026-11-24",
- "updatedAt": "2026-11-24T07:32:22+09:00",
+ "updatedAt": "2026-11-24T15:43:22+09:00",
  "source": "rss",
  "items": [
   {
-   "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
-   "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+   "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+   "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
-   "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+   "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+   "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
-   "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+   "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰　マスク氏「誤りは正された」　AI企業代表のコメントまとめ",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+   "title": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+   "title": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？　Gartner予測",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+   "title": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」　日立は独自技術で突破口探る",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+   "title": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
+   "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-   "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+   "title": "住友生命がChatGPT導入で524％のROI達成　金融の厳格な基準をどう突破した？",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
    "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み - KAI-YOU",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45MFJVRkJZcF9ZckRIZXlCZXNpZU5qM3VEY3VIZFRrTzA3QVlWY05qOWluUzN6YVhoSlpwY3lLbjlKYng1eWxsdg?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4) - ASCII.jp",
@@ -59,8 +64,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
+   "title": "マーケティングを根本から変える生成AI活用術――日本マイクロソフト・西脇氏が説く「変革の方程式」（Web担当者Forum） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85eGVQd2xJRktGWXpzcU16alJqVjFuUVVfYm1PSl80M0ZFU1YtRGF1NVR6ZmZSUmswSzRzNW94eUdNQXEzbnp6RmlwLVd1NnFFdGlYNmd0QW94UDZSSWFXOHZ6dTdHMm9Pdjl6TDRmZWdhblBfRGZWTkJESHNZdHM?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "SB OAI Japan、JDLAのAIガバナンス認証を取得--生成AI事業の信頼性強化へ - ZDNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNXpIZUdsb1VNcDNXNF9zbTFRNTk0bmM0T2hHTm4yaE9TaW9xLUY1OW9hZWhKU1JhdnNLaGV3U1BNcDIwZTJMX0g1c2p5SXpjTzFR?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -69,38 +79,28 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "生成AI時代のAIガバナンス--ISO/IEC42001が導く信頼できるAIの実装 - ZDNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1SktORURHSXRlZENZSVVKWENjYUhIQmVfUFcza2hTWldRbTdnUGp4M2oxQVVDMUtadzBKQl92akJCRElNeE1WbVNwOTFYb3ExS2lR?oc=5",
+   "title": "東洋大学、「生成AI利用ガイドライン」を公開 ―「諸学の基礎は哲学にあり」の精神で、自由かつ自律的な生成AI活用を推進― - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3NXRiZXBCLW9PYjA3X0ZrWThsZkdKektlR3JmQks0V1JNLUJzNEl2TTNWOHZtVHgyRTdwdU9MWTAyMmVfVndWUEh1bDZfYzczXzNMaWszbmVITE9idHc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "石川の祭り、生成ＡＩでアニメに 「実体験生かせた」中高大生が制作（北國新聞社） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0NWVXR1VWMGxyY2VQcERaNUZxdW9UbEMzaENwek5hQUdPdlVrYXpJQ0lZNlhKR2ItRndqUHRmRkFvRTA3dXU2Y09rSjZ6ZjQ1U3lwaTE2eDRodVhFYkN0ekc0eUtRbmFNOUR1TFAtdHJHT1JMaTExeGNTbC1pSG8?oc=5",
+   "title": "大隅典子 生成AIに感じる認知症との共通点 - 日経BOOKプラス",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRGt3ZG9uejNOUXBIUHVyYWU0OVlYeEJYTkRHV2NCdnVnZlhPQUtXMkdPYU9hN1FmUjdXMzJpR0NRb2Rud3gzSTR3ck13bzR4dmNMV2NiOTloMTZzX0RuRlJEX1YyaEZxUWdEeQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "プレスリリース：スライド生成AI「ChatSense」、文章だけで複数ページをまとめて修正可能に（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80SXc3cmZKa2hXT1RJZjNad2xrUXBGSDN3Yk11aEN6MzN0MjEzZ2hsc1p3V2ltaVNqdENoc25SeW5qWU9QU2VVZEpSOUxJX0tuWmQ0V0VxQzNVN05kUGNjb0dCUUlXZlVS?oc=5",
+   "title": "プレスリリース：介護事業者向け生成AI活用研修の提供を開始（PR TIMES） - 毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZU1DRk1ERXRrQW5VekRPS0dvUnJqMUtQSTVaSjZDVVhGNmJ5UjJiTDdSUWVuWW8xVXN0ZmxZQXI3SW41emlQOU5Rak1ZemR1NnlfalVySTIzLTMySllGT0xMUlp5cWw2?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "中国発AI「Kimi」はどこまで仕事をこなせる？ ～米国モデルに迫る性能を、市場調査や資料作成、3D Web・アプリ制作で試してみた - 柳谷智宣のAI ウォッチ！ - 窓の杜",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZkpXcjd3M0l6c3dqcTFNUVVYQ19SaVhrZEUxWHlTRkdIbThvZ2hFRGlLaU02Qnp4YmhGb1R1NVdHS0tFbmtwRlVtbGVPclBob1UyakpWUmkyNDByc1pQR0hsZTlMQ0IycVFQUmFnN0pvNE9YaU5qUQ?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "人口減や人手不足「生成ＡＩ活用を」上越市で法人向けセミナー・新潟日報生成ＡＩ研究所 - 新潟日報",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94N21rM3BIajNYeVNvVEtGVndNVFl6bmFWbjhlelZTU09rbmZsM08wWEhIQno2eDJpZmsxZ2t3eUU1TjktZ3lhby02Y3Q5QUVsd3RZMWx2NkJEYU4yWXc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "検察捜査における生成AI（人工知能）利用による情報漏えいのイメージ - 【独自】非公表捜査情報の検索禁止を通知 最高検、AIによる漏えい防止で - 写真・画像(1/1) - 西日本新聞me",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CajF6S0pUT0tWbUdaN1pHbV8ySC1sd012X2pyRU9OZWl6dG9lU3VxeEVienhjOVp2OXc0YzlsVHFEdUR4UUVXTGwzbVJhWnNfQXp6Q2VuZw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "答えを教えないソクラテス式AI家庭教師スキル「Socratic Tutor」、初代iPad Airで160億パラメータのAIが動く「smolmaxxing」など生成AI技術5つを解説（生成AIウィークリー） - au Webポータル",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51WERSaXN1bXU1WDg1b25ON3lOQW51VWhPWURXUEl5aVNsR2xxYnVVVktMLXhZMEtiNVNHeldzdzF2MVduRlFBYUFKbGxyelktd0JfY3dpWFZfS2plNVAxMUZnMF9hcklPbkVMWGN3?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "【ＡＩ失業時代の警告】生成ＡＩを使わない社員は「過去の人」に？チャットからエージェントへ仕事が激変 - https://kabu-ir.com/",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3Y0xKbDVuekk1YzV2c0ktZWlUbFJoaTlBUE9MYWFSY1hOXzdJYVZXQ1l2VlhMUTZnZEdQTU0zRThpdHlYY1dQbU9sU1J5SlM3SkVvNQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
