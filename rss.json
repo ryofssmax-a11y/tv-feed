@@ -1,8 +1,43 @@
 {
  "date": "2026-11-25",
- "updatedAt": "2026-11-25T03:37:27+09:00",
+ "updatedAt": "2026-11-25T11:55:15+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ　直近90日の配信楽曲の43％がAI生成",
+   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
+   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news005.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
+   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "経理が「2人→1人」に減る現場　弥生の開発陣が警鐘を鳴らす「なんとなく経営」の限界",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/25/news020.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「ソフトウェアファクトリー」とは結局何か　OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
@@ -19,39 +54,19 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "「アートは死んだ、人間が負けた」のか…生成ＡＩ登場が問い直す芸術・文化の「創造性」 (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOek14bWtxUlFCMVpQclhNdXhKQjgwUGhiZmY5OUJZaTBTWFQ0ZjAwSklXNm9tOHViNmh1a2lEbTdaeFg1T2ZYNktvNndLaUU1VlpWTFctbzh2bmRZNnZWMG12SjR3YkhPREUtLUN2bmhmbHlieDJSQTV4MWVLSzlFNC1rMTFvajBmOUV0SE93?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "［ニッポンクライシス］生成ＡＩ 表現者に危機感 「生計に重大な脅威」８８％…「声優業界、つぶれてしまう」 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5abWx0ZWNveUVNaFZJZXZtSnpzdXVLTEJ2Y0V6RU03bGw0R19CTXJxNFRqaXNyZ280djlpcHJ0bkYwdElkNnJtTFI0bU92U1FEZkhnUnh0c3RWZmNIZHJaQWJneWs?oc=5",
+   "publisher": "news.google.com"
   },
   {
-   "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰　マスク氏「誤りは正された」　AI企業代表のコメントまとめ",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？　Gartner予測",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
-   "publisher": "rss.itmedia.co.jp"
+   "title": "「アートは死んだ、人間が負けた」のか…生成ＡＩ登場が問い直す芸術・文化の「創造性」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWHZ1bmZCdGxKTENZLVhqeEkxdWtsVDRIbnYzM3V4M3dsd2FmYUhJU3k0a1lINFJOckJFYVhYV1FaTFE3d1VSUlBnTldpOVU1?oc=5",
+   "publisher": "news.google.com"
   },
   {
    "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み - KAI-YOU",
@@ -59,13 +74,18 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4) - ASCII.jp",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Hdy1xQTJ6emZvR0pxM3lyb2x6TDJNQzBqcVZoU29KbUxQendFS0g5OVlTM3A2UHF6SjVUOWpjTEM1NU1kTFlHQS1OUnU4ZlBpTG83YQ?oc=5",
+   "title": "生成AI、暮らしにどう生かす? 広島でシニア入門講座 活用のこつや注意点は - 中国新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FajlfbnFTX1NMN1J4YUFadlFoQUxDZnBhaGxsMEZSNGRhSFdheDFBLUtDU0lOV1EtUmNiV2p4bjUzWEJOeEJjOXdMdUpYbWpaaEpNdHdydHZmQQ?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "マーケティングを根本から変える生成AI活用術――日本マイクロソフト・西脇氏が説く「変革の方程式」（Web担当者Forum） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85eGVQd2xJRktGWXpzcU16alJqVjFuUVVfYm1PSl80M0ZFU1YtRGF1NVR6ZmZSUmswSzRzNW94eUdNQXEzbnp6RmlwLVd1NnFFdGlYNmd0QW94UDZSSWFXOHZ6dTdHMm9Pdjl6TDRmZWdhblBfRGZWTkJESHNZdHM?oc=5",
+   "title": "「AIがどの業務に使えるか分からない」を解消する、生成AI活用パッケージを提供開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhSU1FVTQtZ19lMnVOZHlHLVFUa2FIZ05mTWlFQV9lQkwwWlFFTGNwdnd0NVdoOVZiYmMweWRQWFAwY1dFYU04Znp3Qm1yb0UwQjgxbDBlbG5ENTdmRmpTWF9wMFhwRUFMalE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92TWVuc08zbTNiQ2VyTllqbDh0b08yeHdQOFZOMDBUQXRUdGU5WUpqcUhXdTlCdmJmMlNkX2l4RWE2MTRqNjZ5aTRxWGlCYUxHdUFBQ0R3c0swSGczSk1n?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,33 +94,13 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "大隅典子 生成AIに感じる認知症との共通点 - 日経BOOKプラス",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRGt3ZG9uejNOUXBIUHVyYWU0OVlYeEJYTkRHV2NCdnVnZlhPQUtXMkdPYU9hN1FmUjdXMzJpR0NRb2Rud3gzSTR3ck13bzR4dmNMV2NiOTloMTZzX0RuRlJEX1YyaEZxUWdEeQ?oc=5",
+   "title": "生成ＡＩで顔写真から性的動画作成…新潟県の被害女性「怖かった。今でも許せない」 高校在学時に - 新潟日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZEFhY25vSEhzeXNfaDY4MzZGRDgzYlVMNUpPbzI0YkpiVG9pR2tXNGpBQTNJc0VwVWoxb1B0c2JIN3pMQkhLQ0gySV9SREJZT3VPVVVzLVZhMDNETXc?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "東洋大学、「生成AI利用ガイドライン」を公開 ―「諸学の基礎は哲学にあり」の精神で、自由かつ自律的な生成AI活用を推進― - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3NXRiZXBCLW9PYjA3X0ZrWThsZkdKektlR3JmQks0V1JNLUJzNEl2TTNWOHZtVHgyRTdwdU9MWTAyMmVfVndWUEh1bDZfYzczXzNMaWszbmVITE9idHc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "SB OAI Japan、JDLAのAIガバナンス認証を取得--生成AI事業の信頼性強化へ - ZDNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNXpIZUdsb1VNcDNXNF9zbTFRNTk0bmM0T2hHTm4yaE9TaW9xLUY1OW9hZWhKU1JhdnNLaGV3U1BNcDIwZTJMX0g1c2p5SXpjTzFR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI利用率は6割超へ 8割が実践する間違い前提の付き合い方 - Forbes JAPAN",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVnJId2llaHAwT2hXSUEzeXdkX09UMVo0QUp3dHBKWTFweVlIa3RmSTNvbHRqSFNlZWhpVzdQWDJSWkxvTlNzMTRuTk50eXRQWFFZOGkteDFxUQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プレスリリース：スライド生成AI「ChatSense」、文章だけで複数ページをまとめて修正可能に（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80SXc3cmZKa2hXT1RJZjNad2xrUXBGSDN3Yk11aEN6MzN0MjEzZ2hsc1p3V2ltaVNqdENoc25SeW5qWU9QU2VVZEpSOUxJX0tuWmQ0V0VxQzNVN05kUGNjb0dCUUlXZlVS?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「自分がAIのアシスタントだと感じた」 デザイン系の大学生に芽生える違和感と、AI時代の表現の未来とは 静岡文化芸術大・ブルベス教授の研究【Web限定】 - 静岡新聞DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3ZSMHR3ZFd3LUhxX2h6NGxNajdUX1dlMmZuWTdXUDlUOUQwVlI0UmdUOEVDZDd5WGF3cDZ5SUo5V3pPTjgzSEFWZ1plQQ?oc=5",
+   "title": "音楽配信のTidal、AIだけで作られた2900万曲を削除へ - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZGRrLS01c1VpS3dEQUFaWkFldDZMS1BKQnJ1S2tZcjJyUGNQdGxaY3FUX3hOc2NUaGtuRjNyQ0JfOW80dWJ3Qmc1MTVoOGZZZkE?oc=5",
    "publisher": "news.google.com"
   }
  ]
