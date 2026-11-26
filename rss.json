@@ -1,56 +1,56 @@
 {
  "date": "2026-11-26",
- "updatedAt": "2026-11-26T06:54:31+09:00",
+ "updatedAt": "2026-11-26T12:55:54+09:00",
  "source": "rss",
  "items": [
   {
+   "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
+   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
+   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "Obsidian公式の「エージェント向け」スキル集が登場　Vault操作法とファイル形式をひとまとめに",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "管理職の約7割が黙認するシャドーAIの現実　「相談すると禁止されそう」「承認が遅い」",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/26/2000003428/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
    "title": "AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌",
    "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ　直近90日の配信楽曲の43％がAI生成",
-   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
-   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news005.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
-   "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "経理が「2人→1人」に減る現場　弥生の開発陣が警鐘を鳴らす「なんとなく経営」の限界",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/25/news020.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「ソフトウェアファクトリー」とは結局何か　OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
    "publisher": "rss.itmedia.co.jp"
   },
   {
@@ -59,48 +59,48 @@
    "publisher": "news.google.com"
   },
   {
-   "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み - KAI-YOU",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45MFJVRkJZcF9ZckRIZXlCZXNpZU5qM3VEY3VIZFRrTzA3QVlWY05qOWluUzN6YVhoSlpwY3lLbjlKYng1eWxsdg?oc=5",
+   "title": "【画像生成AI・クリエイティブ意識調査】半数以上が、アート・デザイン制作で「あまり活用したいと思わない」 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odF8zVTJ6bnlXcmdSWmRjWGZ0dGtUZGs5Y1VZQjRpWm9sdnFra3JWUjcydHFPLWVTd0pIZ0NYdVZqU3h3WDh3UGVQTDN1OGtKNkc5ZXJwTmtrTXRxczhBMVcwLXg1b3VfVEE?oc=5",
    "publisher": "news.google.com"
   },
   {
-   "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生”（文春オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaDFvQUlROXZPbHNfVlcxRUJzTmpXUEFqdEY0N0ppanRBdDU4clV5NmJSZDFTbmJHYWE3Y3hRMGpMRF9jaUdIcWV1enZKcUY3YVRyUzJhb3Z1bi1qUjJVYl9xQ2xCNVNIbzVobGpRc05QcGV4Y0JUNlBoVlhNdEE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI活用テスト、受検者数が累計1万人を突破 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5URUFJdDAwemctdlc4YU9HbHJiRl9hQjZieDh1WjE3YUFTLUNNLUNOOW82WWdNeUp2enlBSF80MXgwMWNDSmJjY3RmUlFmVzBnUmRDUHhRY1QyTERjWlhnVDFSSjF6LTFYMXc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "AIエージェントの組織全体での利用を促すAIアシスタント、Exa Enterprise AIが提供 - デジタルクロス",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53TURvTmRRNzF0aHlMdXdLdnVYYmUyVUw4clpUOVVzSmFnak1kakpIbEJQXzQ5Y0IzQmtYR2g5SXJsRUVROWVKM3U1dWFoY2ZnWGFSS1pJWVgxbFJ5ZzFv?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "BIの生成AI機能、8割超が「不安」 データの行き先を「十分に把握」は何割か - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45M2tHOGduLUFxSHZvUHR0dnRoT0VodnRTSy1QNzZadzYtdUZZZUxIM25CZmtvZnotVHgtNS1CQWFXUEZKVTdCMlF2R25KSmwxME5WYlIxdzJ2M2RmLWNlTE1GNUc2Vm5JeEhKWkduc0FaTmNw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "中電、生成AI活用加速 自律型ロボットで工事自動化：ニュース - 中日BIZナビ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zYTRPT1EyTDlVZmt3MV85NzA3NjVkSkZ2MmxRSmJkN1pqalE3Q3B6N1NFWUJLMExTeHhCU3hnUlBlV05ieFFNQjh5Z2NCMk4ta2E1R3JQdklyOXJ6RmVR?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AI活用の対話型ロボット「高齢者の生活支援へ」新たな実証実験始まる 山口・長門 - TBS NEWS DIG",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZXNxbUtPck5yMzVtSnpWNFV0UExjbkpRYjhXd2Y4V3ZBOExMenVQM1Rha0k5cWVCaDVqejJQOXVxNzA1aXkzNTFQT0xFTHNJT3ZwemM2M216a1U5a05DblF5WUF1QlU?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩで顔写真から性的動画作成…新潟県の被害女性「怖かった。今でも許せない」 高校在学時に - 新潟日報",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZEFhY25vSEhzeXNfaDY4MzZGRDgzYlVMNUpPbzI0YkpiVG9pR2tXNGpBQTNJc0VwVWoxb1B0c2JIN3pMQkhLQ0gySV9SREJZT3VPVVVzLVZhMDNETXc?oc=5",
+   "title": "ずんだもん、公式監修のもと画像生成AI用の追加学習モデル「LoRA」を公開 権利元が語る“絵師に迷惑をかけない”試み - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeUsxb1EzcEttNkViSnAtakZWbDFtOTJNT2hKb0lHaTl1U2FNclVuNUhxTUJBdHJMdUQtUkUwWTd0UW80Z3p3RHZUTmlJaWNuaUQxTjZKWDVwem9QRjRFWnRGQkhGeG16eG5Na013bW83UWYwV2NJdDROc0wzcTQ?oc=5",
    "publisher": "news.google.com"
   },
   {
    "title": "「アートは死んだ、人間が負けた」のか…生成ＡＩ登場が問い直す芸術・文化の「創造性」 - 読売新聞",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96MXRvalc4RFBuNXFuY2tLSzNROWhSSENPWjhMRnYwekl4NEF1SVZZaFowYnVtWEFqN043T00zbkE0cWV6bmM5c3FURGdrdTZSOVJxUUNfWDlzM1hOYTBQRXdIWHE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成ＡＩで選挙ポスター「あくまでイメージ」、別人の顔使い有権者「本人かと」…公選法で禁止されずルール作り急務 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTWJfRUhSRGd4LVY0ZDNZSmluOW84aGV6SXNPS0ttRE51ejZER3dVQXdsaGozOHJuM1FFNllpcWg2UDRVMExEQ0xTX0c4Qjh2Z3hNTDV1U0JDVk5oTEh2WEVoMEdLLXJ6eG9IbS1Wdkc5SHF3QVNjcEZtRVlGS28?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "⽣成 AI パスポート、2026 年の年間受験者数が 13 万名超を記録。 2026 年 10 ⽉試験の結果を発表（一般社団法人生成AI活用普及協会(GUGA)） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZFlISGltVWpKeU1WV2pxNHBCVTFDNXBWX1VZM3Nqb2dKZWpHdHNNNGRPTjAzc2t1Vk9wZ0NIT1d3cDZJSkE1NHVLWEtKTnVMczRFTjlSUXB3MzBSdVZhZVBfalhmWE56TVIwVVlvSWZDVVlvVlB3cXdhTFNYVmM?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "博報堂ＤＹグループ、「バーチャル生活者」に「ペルソナ生成AIエージェント」機能を実装 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Um5yVFVGSGwxNXhGYVJ6TE80RVMwMTc0ZWZqdlBGVk9VV2NrTDRyN2pGVmFNY2VxQTdQNXREYlRzWTkzT0Z2VzJONGMzUGxIU1FIU1JhM05LOG5Yd29UdTBnOVMwUlZESlE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略（1/3 ページ） - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUGNscC1yd3l1WHNyNU1iNzF6a0oteTVtTm9Fc2FkTU5SYTE0aVFKWHRyT0hJZ3VQMzJQVWp2Tjc1VXRtbzc5OU81aWN3YTVFWVhrNWRwUEJ4NXVsQTN5cldxNFVZcWNQTGFKNVJvcGdIQQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "「人間に指示を出すより楽」生成AIを“パシリにして”25歳で年収2000万円、Geminiの勧めでタイに移住…若き女性経営者が“従業員を雇わないワケ” - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56cjE2TXFnemNTWmtvZHJZTkJSNnRObXZUblk0Y2R2SmVTUkpzemRrcDZuMHFmRXpxZ1BOckZiOHdMM1lwYmRjQXAxbw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92TWVuc08zbTNiQ2VyTllqbDh0b08yeHdQOFZOMDBUQXRUdGU5WUpqcUhXdTlCdmJmMlNkX2l4RWE2MTRqNjZ5aTRxWGlCYUxHdUFBQ0R3c0swSGczSk1n?oc=5",
    "publisher": "news.google.com"
   }
  ]
