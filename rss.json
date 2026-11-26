@@ -1,6 +1,6 @@
 {
- "date": "2026-11-26",
- "updatedAt": "2026-11-26T22:34:05+09:00",
+ "date": "2026-11-27",
+ "updatedAt": "2026-11-27T07:47:31+09:00",
  "source": "rss",
  "items": [
   {
@@ -54,18 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” - 文春オンライン",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoYS1VZ3ZmeXR4OUoyamw0U2x0WFI2clpsVGRqTzk4dXJ1Zk1rTHRDU3labmpwcmlTRUdJeTN6N3Z0VzdPcmxkRG0wbw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開 - PC Watch",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84LVVibGl2Ml9NYUZ0YW9mUXpsNmxRYXVFUHpWMlVsSHVvVERjblRFcXRYa0c2aW1rbFhHNi1LQ2FBVzV6RFFLaC14cnRWRm9PMW1NQ3lab3RWXzRFbDFvUWlHNA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "「AIに仕事を丸投げ」「日中はエステやプールに…」2.5時間労働で年収2000万円、タイで悠々自適な生活…25歳女性経営者の“生成AIとの付き合い方”（文春オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56djFDMlpNR25lMFE5RHZsbnB4ck8ySjA5Q1FHeC13dXZnNExQQkpBZ0tCanJvQVdfWlNyb0JlZlhBbXB0MTdPQjdzdGFydUpDdjVXYmJYNjRmb0d0Mk5sRGMxS3NGUGRjNHNVczF0eXRuMVlnRXhxd19tQmVwdVU?oc=5",
+   "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生”（文春オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaDFvQUlROXZPbHNfVlcxRUJzTmpXUEFqdEY0N0ppanRBdDU4clV5NmJSZDFTbmJHYWE3Y3hRMGpMRF9jaUdIcWV1enZKcUY3YVRyUzJhb3Z1bi1qUjJVYl9xQ2xCNVNIbzVobGpRc05QcGV4Y0JUNlBoVlhNdEE?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -74,33 +64,43 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "生成AIに任せてはいけない仕事は何か、求められる適切な見極め - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TMVpxOWNrTVpxeGZUMk5YdWxvWEhJWlF3T19TVVlzM3oxMjBBenVPekdlSVZkYUhhb2F5QkdTdjlTUkpxdExhRkEtOEJJcUpPTFhYUHEyLU9lWXNoeUtMUmVjZzZLSUUwSEg0MQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "性的いじめ８１５８件、初集計 文科省、生成ＡＩ普及で危機感 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Gb3dpRS1xWkdOSWJvTi1zeU4xM01oN2VBSlVsZERvSHlkaVVxbHlWNGJUWFBQeWdPNmlaSlRfSXdXXzdpOVBubUNoVE1tOVpsTXhicGdtZTlmWHNxaVE?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "性的いじめ件数初集計 生成ＡＩ普及で危機感 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yTEpMc2ZwM09jQ1Axbkc1NmJWWWxlNWFLcE9odHhiYmhualRocFBmUkM4bHdXTFNaMXdONHhpWXYwaDBjTzB6VFpRUkl3b09CaWRXekJTVWhVNEtoTHRYdw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "性的いじめ8158件、初集計 文科省、生成AI普及で危機感 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KOE9odU5fUG1BdlplMTktUW12T2dUMm5ZOGYyTloxV2hkeGFWS1RRdWhUZTFvdkpyZ09ScHRVNGlKcXpnaU9tWEFHWXBHVldnOVNjOHA5NkJGdw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "マッセOSAKAで自治体業務に即した生成AI研修を実施、大阪府内の市町村職員49名が参加 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5cm81MmlGaWFzMHRrbVVTUldHUGFpaWU5LW1sbTdhTXN6Zmh2Smw5NlB5Ukl3RklHZV9yQnZncl8yZXFQdjBhT19pWDVLZ0UwZnFrd25wNGFVN2o5UHdVNE93Q0U5WktjSnc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成ＡＩで選挙ポスター「あくまでイメージ」、候補者と異なる顔に有権者「本人かと」…公選法で禁止されずルール作り急務 - 読売新聞",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uUDR5VDBXX2czZ3BYVTJfRGd6UmNvVFVib0JBcWp5eTZ1VmJBMF9wc01IVGVqU2xNaTQyWTBlM1lONE1UVmtYdlRiaU5qX040Zm1EdlVXQWphTTBsUHdnNE0xSzdBZw?oc=5",
    "publisher": "news.google.com"
   },
   {
+   "title": "「人間に指示を出すより楽」生成AIを“パシリにして”25歳で年収2000万円、Geminiの勧めでタイに移住…若き女性経営者が“従業員を雇わないワケ” - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56cjE2TXFnemNTWmtvZHJZTkJSNnRObXZUblk0Y2R2SmVTUkpzemRrcDZuMHFmRXpxZ1BOckZiOHdMM1lwYmRjQXAxbw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIを活用し自分で立てた計画に沿って学ぶ「マイプラン学習」の公開授業 | 長崎のニュース | 天気 | NBC長崎放送 - TBS NEWS DIG",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQ1hVTEhKNzFRNFVVWEgwNDFrOUFGTVRNMFdYX2Z1RXR0a3dkZVlDeFByQm94cFQwY0tKb0FiWE1WVWd6bDk5LTNFNGlRVUhYV1BBN0xLYzdFZw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "偽の送金画面示し、現金詐取か 生成ＡＩで作成、２７歳男逮捕―警視庁 - 時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BR2h1Zm8zNVNyX09oRUNqdHl6bTlpcVlpci1QSEdfal82RDhkaWxGVk9uR3V1cVZWZ1Q3SWNkU182QkVLVG1sTmdfUEJMRWdHNEJmQmNISzZPWkY5RjE0dksyNA?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "テレビ朝日が生成AIによるCM第2弾を作成！HISとコラボし、“AI映像×スポーツ実写映像”のハイブリッド型に挑戦 - テレ朝POST",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51dE9XcTZtVUZnSk41c250Z1k3LXNCeWxDX3RnWklMMFMyd3JfcW1BZV9hSDhLRmRxUU42M0xYTG12OUk4eEdHb0NLNlVPYlVKX0HSAVdBVV95cUxNdlQwMTVNUTQzVVVZeWEtZW1SWVpJMWRZVkdLdW1zN2pqaU10TUx1c1hrMEtOaldmc3JpUDdjSGtWTDNzcHpFb2tfcUVmZFh2bFBTQWJRU0U?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "プレスリリース：生成AI検索対策の効果を、自社サイトで1ヶ月検証。プレティアジャパン、GEO／LLMO対策サービスの無料トライアルプランを開始（PR TIMES） - 毎日新聞",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRRVlaWWNDU1lwSnFHRVA1dERUU1h2ZXFQUGhodWFXZkN1VDkxM25LTlBZV3gtMlNBdEJPZElXZ2xzQkxGckV2a0NPRUcyY2l0QlV2cmVYZnF2bTBWS1RlRzVyVVRWMUNw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "性的いじめ8158件、初集計 文科省、生成AI普及で危機感 - 47NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6bG9GMjZnRWpPYkZRcWdXbVd4cHNGMFU2WDVoNUxXdGxzTWRBazhGanR0STVzMWlpSmtnNVI4c2FLYWUyWk93NS1wTQ?oc=5",
    "publisher": "news.google.com"
   }
  ]
