@@ -1,8 +1,38 @@
 {
  "date": "2026-11-27",
- "updatedAt": "2026-11-27T07:47:31+09:00",
+ "updatedAt": "2026-11-27T13:45:47+09:00",
  "source": "rss",
  "items": [
+  {
+   "title": "AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "AIエージェントの行動が「適切か暴走か」をどう見極める？　Googleが明かすテストの盲点",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "生成AI登場で人員増えた部門、減った部門は？　デロイト調査",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/",
+   "publisher": "rss.itmedia.co.jp"
+  },
+  {
+   "title": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html",
+   "publisher": "rss.itmedia.co.jp"
+  },
   {
    "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
    "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
@@ -24,73 +54,8 @@
    "publisher": "rss.itmedia.co.jp"
   },
   {
-   "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？　マネーフォワードに聞いた狙いと安全策",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "「Claude Duet」日本でも開始　AnthropicのAIエージェント、研究プレビューを米国外に拡大",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
-   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
-   "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
-   "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-   "publisher": "rss.itmedia.co.jp"
-  },
-  {
-   "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生”（文春オンライン） - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaDFvQUlROXZPbHNfVlcxRUJzTmpXUEFqdEY0N0ppanRBdDU4clV5NmJSZDFTbmJHYWE3Y3hRMGpMRF9jaUdIcWV1enZKcUY3YVRyUzJhb3Z1bi1qUjJVYl9xQ2xCNVNIbzVobGpRc05QcGV4Y0JUNlBoVlhNdEE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略（1/3 ページ） - ITmedia",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUGNscC1yd3l1WHNyNU1iNzF6a0oteTVtTm9Fc2FkTU5SYTE0aVFKWHRyT0hJZ3VQMzJQVWp2Tjc1VXRtbzc5OU81aWN3YTVFWVhrNWRwUEJ4NXVsQTN5cldxNFVZcWNQTGFKNVJvcGdIQQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成AIに任せてはいけない仕事は何か、求められる適切な見極め - 日経クロステック",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TMVpxOWNrTVpxeGZUMk5YdWxvWEhJWlF3T19TVVlzM3oxMjBBenVPekdlSVZkYUhhb2F5QkdTdjlTUkpxdExhRkEtOEJJcUpPTFhYUHEyLU9lWXNoeUtMUmVjZzZLSUUwSEg0MQ?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "性的いじめ８１５８件、初集計 文科省、生成ＡＩ普及で危機感 - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Gb3dpRS1xWkdOSWJvTi1zeU4xM01oN2VBSlVsZERvSHlkaVVxbHlWNGJUWFBQeWdPNmlaSlRfSXdXXzdpOVBubUNoVE1tOVpsTXhicGdtZTlmWHNxaVE?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "性的いじめ件数初集計 生成ＡＩ普及で危機感 - 琉球新報デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yTEpMc2ZwM09jQ1Axbkc1NmJWWWxlNWFLcE9odHhiYmhualRocFBmUkM4bHdXTFNaMXdONHhpWXYwaDBjTzB6VFpRUkl3b09CaWRXekJTVWhVNEtoTHRYdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "性的いじめ8158件、初集計 文科省、生成AI普及で危機感 - 北海道新聞デジタル",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KOE9odU5fUG1BdlplMTktUW12T2dUMm5ZOGYyTloxV2hkeGFWS1RRdWhUZTFvdkpyZ09ScHRVNGlKcXpnaU9tWEFHWXBHVldnOVNjOHA5NkJGdw?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "マッセOSAKAで自治体業務に即した生成AI研修を実施、大阪府内の市町村職員49名が参加 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5cm81MmlGaWFzMHRrbVVTUldHUGFpaWU5LW1sbTdhTXN6Zmh2Smw5NlB5Ukl3RklHZV9yQnZncl8yZXFQdjBhT19pWDVLZ0UwZnFrd25wNGFVN2o5UHdVNE93Q0U5WktjSnc?oc=5",
-   "publisher": "news.google.com"
-  },
-  {
-   "title": "生成ＡＩで選挙ポスター「あくまでイメージ」、候補者と異なる顔に有権者「本人かと」…公選法で禁止されずルール作り急務 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uUDR5VDBXX2czZ3BYVTJfRGd6UmNvVFVib0JBcWp5eTZ1VmJBMF9wc01IVGVqU2xNaTQyWTBlM1lONE1UVmtYdlRiaU5qX040Zm1EdlVXQWphTTBsUHdnNE0xSzdBZw?oc=5",
+   "title": "生成AI登場で人員増えた部門、減った部門は？ デロイト調査 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pRFMzRkFadkx6QzZMQzBYcjZhLWRxaFJmWTU2cDBUaUpLSElQdWwwRmNoMFEtMmJxMy1lbWdaUElzLXhSREY2VGVKRnFRTF9yckpjWXJ3SU1KTEpvMGNUdkhuWXhndjRsem5aWA?oc=5",
    "publisher": "news.google.com"
   },
   {
@@ -99,8 +64,43 @@
    "publisher": "news.google.com"
   },
   {
+   "title": "【Macbee Xの藤原社長が解説】生成AIを「使いこなせている」人の約6割超が単発利用・壁打ちの段階（日本ネット経済新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yN2wwNzlzZnJHazRlTVVDSm5zTVl1NmRjTjVTNVFDaTRUU3N1NUc5dU1Md1loaVRwa0xMZkFSeG9SVGs5anNTMlFLWG84bFRzeHgyMzJpVVRxZDNpT09heGpoQ3d1UHliQkdqU291YmhIclgydW9Hb1JhTnItRTA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "ベネッセ 日本ＴＣＳとパートーナー協業覚書 生成ＡＩ活用強化 教育機関や自治体の支援も - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yYmszWHBiaTA3SjMzenVXb3hESU90ajR5VXdwbnVCcnRSVEF3WkVDdjBRblVtbld0MHlwSFF1eGNBMFp0b0pJTTl5VzIxNVpuVWc?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "マッセOSAKAで自治体業務に即した生成AI研修を実施、大阪府内の市町村職員49名が参加 - 愛媛新聞",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcC1zeXhRSF9Qa3ZDbHZuZkRPR1pYSk1xT2dPVjlyZFFQQllFUVp1MFpTbTBucW93Rk5UWl9MQ1I3TzduUTYwNmtVWTFNM0Qzbzkxdkk5RmVRdldt?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成ＡＩで選挙ポスター「あくまでイメージ」、候補者と異なる顔に有権者「本人かと」…公選法で禁止されずルール作り急務 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uUDR5VDBXX2czZ3BYVTJfRGd6UmNvVFVib0JBcWp5eTZ1VmJBMF9wc01IVGVqU2xNaTQyWTBlM1lONE1UVmtYdlRiaU5qX040Zm1EdlVXQWphTTBsUHdnNE0xSzdBZw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
    "title": "生成AIを活用し自分で立てた計画に沿って学ぶ「マイプラン学習」の公開授業 | 長崎のニュース | 天気 | NBC長崎放送 - TBS NEWS DIG",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQ1hVTEhKNzFRNFVVWEgwNDFrOUFGTVRNMFdYX2Z1RXR0a3dkZVlDeFByQm94cFQwY0tKb0FiWE1WVWd6bDk5LTNFNGlRVUhYV1BBN0xLYzdFZw?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "生成AIに任せてはいけない仕事は何か、求められる適切な見極め - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TMVpxOWNrTVpxeGZUMk5YdWxvWEhJWlF3T19TVVlzM3oxMjBBenVPekdlSVZkYUhhb2F5QkdTdjlTUkpxdExhRkEtOEJJcUpPTFhYUHEyLU9lWXNoeUtMUmVjZzZLSUUwSEg0MQ?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "偽の送金画面示し、現金詐取か 生成ＡＩで作成、２７歳男逮捕―警視庁 - 時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BR2h1Zm8zNVNyX09oRUNqdHl6bTlpcVlpci1QSEdfal82RDhkaWxGVk9uR3V1cVZWZ1Q3SWNkU182QkVLVG1sTmdfUEJMRWdHNEJmQmNISzZPWkY5RjE0dksyNA?oc=5",
+   "publisher": "news.google.com"
+  },
+  {
+   "title": "LINEヤフーと秋田市が連携協定、生成AI活用も推進 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pa0tDbUpDRUd5R2lKMXpiM3g5ZXE1bVNveC1OWVNycXdQYklfYkZLczJqNFh4V3F1ZHVhVnZBUTJjRlhYN3lnSDRvTHE4UlAtTE4yRC11cWR3S2RMUjM5TDBDZw?oc=5",
    "publisher": "news.google.com"
   }
  ]
